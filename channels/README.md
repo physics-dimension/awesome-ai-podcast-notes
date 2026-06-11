@@ -1,10 +1,10 @@
 # Channels
 
-- [AI Explained](ai-explained/README.md) (22)
+- [AI Explained](ai-explained/README.md) (23)
 - [Dwarkesh Patel](dwarkesh-patel/README.md) (10)
 - [Greg Isenberg](greg-isenberg/README.md) (43)
 - [Hung-yi Lee](hung-yi-lee/README.md) (5)
-- [Koji Yang](koji-yang/README.md) (28)
+- [Koji Yang](koji-yang/README.md) (29)
 - [Latent Space](latent-space/README.md) (53)
 - [Lenny's Podcast](lenny's-podcast/README.md) (34)
 - [Lex Fridman](lex-fridman/README.md) (23)

@@ -1,7 +1,8 @@
 # AI Explained
 
-共 22 篇。
+共 23 篇。
 
+- 2026-06-10 · [Claude Fable 5 - Full 319 page Breakdown](2026-06-10-claude-fable-5-full-319-page-breakdown-haK1KoQWm18.md)
 - 2026-05-29 · [New Claude Opus 4.8: 15 Things You May’ve Missed](2026-05-29-new-claude-opus-4.8-15-things-you-may’ve-missed-aJvP3nXWkwM.md)
 - 2026-05-20 · [Two Rival Bets on AGI: Google I/O Highlights](2026-05-20-two-rival-bets-on-agi-google-i-o-highlights-o_av1b9rs2g.md)
 - 2026-04-24 · [GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies](2026-04-24-gpt-5.5-arrives,-deepseek-v4-drops,-and-the-compute-war-intensifies-jz0rNhfAKo8.md)

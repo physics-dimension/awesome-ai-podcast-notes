@@ -11,6 +11,8 @@ Topic-based indexes are reserved under [topics/](topics/README.md) and will be a
 
 ## Latest
 
+- 2026-06-10 · [【十字路口】高手怎么用 AI？——停止用 ChatGPT 吧｜Koji 对谈课代表立正（上）【视频播客】](channels/koji-yang/2026-06-10-【十字路口】高手怎么用-ai-——停止用-chatgpt-吧-koji-对谈课代表立正(上)【视频播客】-4hi93cDfVls.md) · Koji Yang
+- 2026-06-10 · [Claude Fable 5 - Full 319 page Breakdown](channels/ai-explained/2026-06-10-claude-fable-5-full-319-page-breakdown-haK1KoQWm18.md) · AI Explained
 - 2026-06-09 · [WTF Is an "AI Agent Loop"? Genius or Hype?](channels/greg-isenberg/2026-06-09-wtf-is-an-ai-agent-loop-genius-or-hype-7clJ8IH784Q.md) · Greg Isenberg
 - 2026-06-08 · [Why Coding is The First Undeniable AI Use case | a16z](channels/a16z/2026-06-08-why-coding-is-the-first-undeniable-ai-use-case-a16z-ktl8mNiWqMM.md) · a16z
 - 2026-06-08 · [Become AI Native in less than 60 mins](channels/greg-isenberg/2026-06-08-become-ai-native-in-less-than-60-mins-LztPaNmcWGU.md) · Greg Isenberg
@@ -29,8 +31,6 @@ Topic-based indexes are reserved under [topics/](topics/README.md) and will be a
 - 2026-06-02 · [The Next $100B Market: Selling to AI Agents](channels/greg-isenberg/2026-06-02-the-next-$100b-market-selling-to-ai-agents-MlptIfpoLlw.md) · Greg Isenberg
 - 2026-06-02 · [Hermes Agent: The New OpenClaw?](channels/greg-isenberg/2026-06-02-hermes-agent-the-new-openclaw-Qn2c_U-cWQs.md) · Greg Isenberg
 - 2026-06-02 · [GitHub’s Agent Era: 14x Commits, 200M Developers, Copilot’s Next Act — Kyle Daigle](channels/latent-space/2026-06-02-github’s-agent-era-14x-commits,-200m-developers,-copilot’s-next-act-—-kyle-daigle-LEwlSyR0cXA.md) · Latent Space
-- 2026-06-01 · [Unlock 95% of Notion With Codex](channels/riley-brown/2026-06-01-unlock-95-of-notion-with-codex-YGWcFMR8gk8.md) · Riley Brown
-- 2026-06-01 · [Inside xAI: Building Grok Imagine in 3 Months, Videogen vs World Models, and Video Agents— Ethan He](channels/latent-space/2026-06-01-inside-xai-building-grok-imagine-in-3-months,-videogen-vs-world-models,-and-video-agents—-ethan-he-jPtQlILfkhA.md) · Latent Space
 
 ## Channels
 
@@ -42,10 +42,10 @@ Topic-based indexes are reserved under [topics/](topics/README.md) and will be a
 - [Lenny's Podcast](channels/lenny's-podcast/README.md) (34)
 - [张晓珺](channels/张晓珺/README.md) (34)
 - [Y Combinator](channels/y-combinator/README.md) (33)
-- [Koji Yang](channels/koji-yang/README.md) (28)
+- [Koji Yang](channels/koji-yang/README.md) (29)
 - [硅谷101](channels/硅谷101/README.md) (27)
+- [AI Explained](channels/ai-explained/README.md) (23)
 - [Lex Fridman](channels/lex-fridman/README.md) (23)
-- [AI Explained](channels/ai-explained/README.md) (22)
 - [Dwarkesh Patel](channels/dwarkesh-patel/README.md) (10)
 - [Hung-yi Lee](channels/hung-yi-lee/README.md) (5)
 - [Matthew Berman](channels/matthew-berman/README.md) (1)

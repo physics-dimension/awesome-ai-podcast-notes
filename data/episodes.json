@@ -1,5 +1,53 @@
 [
   {
+    "id": "4hi93cDfVls",
+    "video_id": "4hi93cDfVls",
+    "title": "【十字路口】高手怎么用 AI？——停止用 ChatGPT 吧｜Koji 对谈课代表立正（上）【视频播客】",
+    "channel": "Koji Yang",
+    "published": "2026-06-10",
+    "source_url": "https://www.youtube.com/watch?v=4hi93cDfVls",
+    "notion_url": "",
+    "tags": [
+      "AI使用",
+      "Agent工具",
+      "生产力",
+      "上下文积累",
+      "通才教育"
+    ],
+    "rating": 4,
+    "language": "中文",
+    "word_count": 11279,
+    "duration": "25:52",
+    "duration_seconds": 1552,
+    "path": "channels/koji-yang/2026-06-10-【十字路口】高手怎么用-ai-——停止用-chatgpt-吧-koji-对谈课代表立正(上)【视频播客】-4hi93cDfVls.md",
+    "structured_path": "channels/koji-yang/2026-06-10-【十字路口】高手怎么用-ai-——停止用-chatgpt-吧-koji-对谈课代表立正(上)【视频播客】-4hi93cDfVls.structured.md",
+    "transcript_path": "channels/koji-yang/2026-06-10-【十字路口】高手怎么用-ai-——停止用-chatgpt-吧-koji-对谈课代表立正(上)【视频播客】-4hi93cDfVls.transcript.md"
+  },
+  {
+    "id": "haK1KoQWm18",
+    "video_id": "haK1KoQWm18",
+    "title": "Claude Fable 5 - Full 319 page Breakdown",
+    "channel": "AI Explained",
+    "published": "2026-06-10",
+    "source_url": "https://www.youtube.com/watch?v=haK1KoQWm18",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Claude",
+      "安全评估",
+      "技术竞争"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 11993,
+    "duration": "34:00",
+    "duration_seconds": 2040,
+    "path": "channels/ai-explained/2026-06-10-claude-fable-5-full-319-page-breakdown-haK1KoQWm18.md",
+    "structured_path": "channels/ai-explained/2026-06-10-claude-fable-5-full-319-page-breakdown-haK1KoQWm18.structured.md",
+    "transcript_path": "channels/ai-explained/2026-06-10-claude-fable-5-full-319-page-breakdown-haK1KoQWm18.transcript.md"
+  },
+  {
     "id": "7clJ8IH784Q",
     "video_id": "7clJ8IH784Q",
     "title": "WTF Is an \"AI Agent Loop\"? Genius or Hype?",
