@@ -6,6 +6,11 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-06-11](2026/06/2026-06-11.md) · 2 篇
+
+- [You are using Claude Fable 5 wrong](../channels/greg-isenberg/2026-06-11-you-are-using-claude-fable-5-wrong-vjdHAWvVCP4.md) · Greg Isenberg
+- [【十字路口】2026 年过去一半了，我对 AI 投资的观察与思考｜Koji 对谈课代表立正（下）【视频播客】](../channels/koji-yang/2026-06-11-【十字路口】2026-年过去一半了,我对-ai-投资的观察与思考-koji-对谈课代表立正(下)【视频播客】-20JIbw45HLM.md) · Koji Yang
+
 ## [2026-06-10](2026/06/2026-06-10.md) · 2 篇
 
 - [Claude Fable 5 - Full 319 page Breakdown](../channels/ai-explained/2026-06-10-claude-fable-5-full-319-page-breakdown-haK1KoQWm18.md) · AI Explained

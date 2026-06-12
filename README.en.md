@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 651 |
+| Notes | 653 |
 | Channels | 16 |
-| Structured notes | 328 |
-| Raw transcripts | 611 |
+| Structured notes | 330 |
+| Raw transcripts | 613 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-06-10 |
-| Archive updated | 2026-06-11 |
+| Latest source date | 2026-06-11 |
+| Archive updated | 2026-06-12 |
 
 Each episode can include up to three versions:
 
@@ -51,11 +51,11 @@ Each episode can include up to three versions:
 - 2026-05-29 · [The Rule for Picking AI Winners | The a16z Show](channels/a16z/2026-05-29-the-rule-for-picking-ai-winners-the-a16z-show-AiM9mZCmVPY.md)
 - 2026-05-27 · [Private Markets, Software Repricing and Capital Allocation | Marc Rowan on a16z](channels/a16z/2026-05-27-private-markets,-software-repricing-and-capital-allocation-marc-rowan-on-a16z-oYK_MmZW9XI.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 43 notes
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 44 notes
 
+- 2026-06-11 · [You are using Claude Fable 5 wrong](channels/greg-isenberg/2026-06-11-you-are-using-claude-fable-5-wrong-vjdHAWvVCP4.md)
 - 2026-06-09 · [WTF Is an "AI Agent Loop"? Genius or Hype?](channels/greg-isenberg/2026-06-09-wtf-is-an-ai-agent-loop-genius-or-hype-7clJ8IH784Q.md)
 - 2026-06-08 · [Become AI Native in less than 60 mins](channels/greg-isenberg/2026-06-08-become-ai-native-in-less-than-60-mins-LztPaNmcWGU.md)
-- 2026-06-06 · [Hermes Agent Desktop: Full Setup + Real Use Cases](channels/greg-isenberg/2026-06-06-hermes-agent-desktop-full-setup-+-real-use-cases-EJm8Ka-gVOc.md)
 
 ### [Riley Brown](channels/riley-brown/README.md) · 36 notes
 
@@ -82,6 +82,11 @@ Each episode can include up to three versions:
 - 2026-05-14 · [Meet The DevTool Founders Building For AI Agents](channels/y-combinator/2026-05-14-meet-the-devtool-founders-building-for-ai-agents-RMmEB9ajmdo.md)
 
 ## Latest Updates
+
+### 2026-06-11
+
+- [【十字路口】2026 年过去一半了，我对 AI 投资的观察与思考｜Koji 对谈课代表立正（下）【视频播客】](channels/koji-yang/2026-06-11-【十字路口】2026-年过去一半了,我对-ai-投资的观察与思考-koji-对谈课代表立正(下)【视频播客】-20JIbw45HLM.md) · Koji Yang
+- [You are using Claude Fable 5 wrong](channels/greg-isenberg/2026-06-11-you-are-using-claude-fable-5-wrong-vjdHAWvVCP4.md) · Greg Isenberg
 
 ### 2026-06-10
 
@@ -119,11 +124,6 @@ Each episode can include up to three versions:
 - [【十字路口】OpenAI 和 Anthropic 共同看好的 FDE：AI 时代的新岗位出现，旧分工松动｜对谈 Rolling AI【视频播客】](channels/koji-yang/2026-06-03-【十字路口】openai-和-anthropic-共同看好的-fde-ai-时代的新岗位出现,旧分工松动-对谈-rolling-ai【视频播客】-V0SSMl9YB2Q.md) · Koji Yang
 - [Scaling Past Informal AI - Carina Hong, Axiom Math](channels/latent-space/2026-06-03-scaling-past-informal-ai-carina-hong,-axiom-math-abYcV5LHMG4.md) · Latent Space
 - [Satya Nadella on AI: @NoPriorsPodcast  x Latent Space Crossover Special at Microsoft Build 2026](channels/latent-space/2026-06-03-satya-nadella-on-ai-@nopriorspodcast-x-latent-space-crossover-special-at-microsoft-build-2026-cFNI2FORAc0.md) · Latent Space
-- [ChatGPT And Codex Are Merging (This Changes Everything)](channels/riley-brown/2026-06-03-chatgpt-and-codex-are-merging-(this-changes-everything)-j--dqLJxrtE.md) · Riley Brown
-
-### 2026-06-02
-
-- [The Next $100B Market: Selling to AI Agents](channels/greg-isenberg/2026-06-02-the-next-$100b-market-selling-to-ai-agents-MlptIfpoLlw.md) · Greg Isenberg
 
 ## Data
 

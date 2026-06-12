@@ -1,9 +1,10 @@
 # Greg Isenberg
 
-43 notes in this channel.
+44 notes in this channel.
 
-本频道共 43 篇。
+本频道共 44 篇。
 
+- 2026-06-11 · [You are using Claude Fable 5 wrong](2026-06-11-you-are-using-claude-fable-5-wrong-vjdHAWvVCP4.md)
 - 2026-06-09 · [WTF Is an "AI Agent Loop"? Genius or Hype?](2026-06-09-wtf-is-an-ai-agent-loop-genius-or-hype-7clJ8IH784Q.md)
 - 2026-06-08 · [Become AI Native in less than 60 mins](2026-06-08-become-ai-native-in-less-than-60-mins-LztPaNmcWGU.md)
 - 2026-06-06 · [Hermes Agent Desktop: Full Setup + Real Use Cases](2026-06-06-hermes-agent-desktop-full-setup-+-real-use-cases-EJm8Ka-gVOc.md)
