@@ -6,8 +6,10 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-07-24](2026/07/2026-07-24.md) · 1 篇
+## [2026-07-24](2026/07/2026-07-24.md) · 3 篇
 
+- [Most Valuable Skill of 2026: Managing AI Agents](../channels/greg-isenberg/2026-07-24-most-valuable-skill-of-2026-managing-ai-agents-vJEy3nP2_C8.md) · Greg Isenberg
+- [OpenAI just released Codex Voice (It's basically Jarvis)](../channels/riley-brown/2026-07-24-openai-just-released-codex-voice-(it's-basically-jarvis)-hLFs9JtMaRg.md) · Riley Brown
 - [E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的](../channels/硅谷101/2026-07-24-e245-藏在大模型背后的新闻人-gpt们的回复是这样写出来的-ifyzclKzVOA.md) · 硅谷101
 
 ## [2026-07-22](2026/07/2026-07-22.md) · 5 篇

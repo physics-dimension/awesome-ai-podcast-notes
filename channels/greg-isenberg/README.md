@@ -1,9 +1,10 @@
 # Greg Isenberg
 
-54 notes in this channel.
+55 notes in this channel.
 
-本频道共 54 篇。
+本频道共 55 篇。
 
+- 2026-07-24 · [Most Valuable Skill of 2026: Managing AI Agents](2026-07-24-most-valuable-skill-of-2026-managing-ai-agents-vJEy3nP2_C8.md)
 - 2026-07-20 · [FDE: The $1M/Year AI Job Explained](2026-07-20-fde-the-$1m-year-ai-job-explained-zXysLUTLjw4.md)
 - 2026-07-15 · [The $1,000/hour Solo AI business (Full Course)](2026-07-15-the-$1,000-hour-solo-ai-business-(full-course)-dhbcVxYhWaQ.md)
 - 2026-07-13 · [Making $$$ with Loop Engineering](2026-07-13-making-$$$-with-loop-engineering-5p_BBdfvzgQ.md)
