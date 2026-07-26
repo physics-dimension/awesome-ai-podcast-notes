@@ -6,6 +6,10 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-07-25](2026/07/2026-07-25.md) · 1 篇
+
+- [Opus 5 Is Here… But NEW Claude Voice Is Even Bigger](../channels/riley-brown/2026-07-25-opus-5-is-here...-but-new-claude-voice-is-even-bigger-Hv8YGUXZY1g.md) · Riley Brown
+
 ## [2026-07-24](2026/07/2026-07-24.md) · 3 篇
 
 - [Most Valuable Skill of 2026: Managing AI Agents](../channels/greg-isenberg/2026-07-24-most-valuable-skill-of-2026-managing-ai-agents-vJEy3nP2_C8.md) · Greg Isenberg

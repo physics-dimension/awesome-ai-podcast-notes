@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 738 |
+| Notes | 739 |
 | Channels | 16 |
-| Structured notes | 415 |
-| Raw transcripts | 698 |
+| Structured notes | 416 |
+| Raw transcripts | 699 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-07-24 |
-| Archive updated | 2026-07-25 |
+| Latest source date | 2026-07-25 |
+| Archive updated | 2026-07-26 |
 
 Each episode can include up to three versions:
 
@@ -57,11 +57,11 @@ Each episode can include up to three versions:
 - 2026-07-21 · [Why Physical AI Is the Next Frontier | The a16z Show](channels/a16z/2026-07-21-why-physical-ai-is-the-next-frontier-the-a16z-show-56XgWH9ch0U.md)
 - 2026-07-17 · ["Being Canceled is a Choice" | Replit CEO with a16z](channels/a16z/2026-07-17-being-canceled-is-a-choice-replit-ceo-with-a16z-rghTqkclDqA.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 49 notes
+### [Riley Brown](channels/riley-brown/README.md) · 50 notes
 
+- 2026-07-25 · [Opus 5 Is Here… But NEW Claude Voice Is Even Bigger](channels/riley-brown/2026-07-25-opus-5-is-here...-but-new-claude-voice-is-even-bigger-Hv8YGUXZY1g.md)
 - 2026-07-24 · [OpenAI just released Codex Voice (It's basically Jarvis)](channels/riley-brown/2026-07-24-openai-just-released-codex-voice-(it's-basically-jarvis)-hLFs9JtMaRg.md)
 - 2026-07-21 · [I Turned Codex Into a Business Growth Machine](channels/riley-brown/2026-07-21-i-turned-codex-into-a-business-growth-machine-gOx37on-iA8.md)
-- 2026-07-16 · [Devin AI: The Full Beginner’s Guide (Better Than Claude Code?)](channels/riley-brown/2026-07-16-devin-ai-the-full-beginner’s-guide-(better-than-claude-code-)-Vyyrvna-hUY.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 40 notes
 
@@ -82,6 +82,10 @@ Each episode can include up to three versions:
 - 2026-07-16 · [146. 对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角](channels/张晓珺/2026-07-16-146.-对physical-intelligence柯丽一鸣4小时访谈-pi的开源模型研究,机器人的江湖、族谱与主角-ghKTtfM-R6g.md)
 
 ## Latest Updates
+
+### 2026-07-25
+
+- [Opus 5 Is Here… But NEW Claude Voice Is Even Bigger](channels/riley-brown/2026-07-25-opus-5-is-here...-but-new-claude-voice-is-even-bigger-Hv8YGUXZY1g.md) · Riley Brown
 
 ### 2026-07-24
 
@@ -120,7 +124,6 @@ Each episode can include up to three versions:
 ### 2026-07-16
 
 - [🔬 RL with Verifiable Rewards, but the Verifier is a Lab — Lila Sciences](channels/latent-space/2026-07-16-🔬-rl-with-verifiable-rewards,-but-the-verifier-is-a-lab-—-lila-sciences-2wIxPWK6nCs.md) · Latent Space
-- [Kay Ke: Inside Physical Intelligence's Open-Source Robot Models and the Robotics Landscape](channels/张晓珺/2026-07-16-kay-ke-inside-physical-intelligence's-open-source-robot-models-and-the-robotics-landscape-dPXZrTw-Hgk.md) · 张晓珺
 
 ## Data
 

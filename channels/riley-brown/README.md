@@ -1,9 +1,10 @@
 # Riley Brown
 
-49 notes in this channel.
+50 notes in this channel.
 
-本频道共 49 篇。
+本频道共 50 篇。
 
+- 2026-07-25 · [Opus 5 Is Here… But NEW Claude Voice Is Even Bigger](2026-07-25-opus-5-is-here...-but-new-claude-voice-is-even-bigger-Hv8YGUXZY1g.md)
 - 2026-07-24 · [OpenAI just released Codex Voice (It's basically Jarvis)](2026-07-24-openai-just-released-codex-voice-(it's-basically-jarvis)-hLFs9JtMaRg.md)
 - 2026-07-21 · [I Turned Codex Into a Business Growth Machine](2026-07-21-i-turned-codex-into-a-business-growth-machine-gOx37on-iA8.md)
 - 2026-07-16 · [Devin AI: The Full Beginner’s Guide (Better Than Claude Code?)](2026-07-16-devin-ai-the-full-beginner’s-guide-(better-than-claude-code-)-Vyyrvna-hUY.md)
