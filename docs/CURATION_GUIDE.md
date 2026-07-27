@@ -18,10 +18,10 @@ Good sources are usually:
 - Greg Isenberg: 55 notes
 - a16z: 53 notes
 - Riley Brown: 50 notes
-- Lenny's Podcast: 40 notes
+- Lenny's Podcast: 41 notes
 - Y Combinator: 40 notes
 - 张晓珺: 39 notes
-- Koji Yang: 37 notes
+- Koji Yang: 38 notes
 - 硅谷101: 34 notes
 - AI Explained: 27 notes
 - Lex Fridman: 24 notes

@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-739-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-741-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 739 |
+| 笔记 | 741 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 416 |
-| 原始文稿 | 699 |
+| 结构化文稿 | 418 |
+| 原始文稿 | 701 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-07-25 |
-| 仓库更新日期 | 2026-07-26 |
+| 最新来源日期 | 2026-07-26 |
+| 仓库更新日期 | 2026-07-27 |
 
 ## 适合谁
 
@@ -74,11 +74,11 @@
 - 2026-07-24 · [OpenAI just released Codex Voice (It's basically Jarvis)](channels/riley-brown/2026-07-24-openai-just-released-codex-voice-(it's-basically-jarvis)-hLFs9JtMaRg.md)
 - 2026-07-21 · [I Turned Codex Into a Business Growth Machine](channels/riley-brown/2026-07-21-i-turned-codex-into-a-business-growth-machine-gOx37on-iA8.md)
 
-### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 40 篇
+### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 41 篇
 
+- 2026-07-26 · [How Anthropic builds products like Claude Code before the AI models are ready | Dianne Penn](channels/lenny's-podcast/2026-07-26-how-anthropic-builds-products-like-claude-code-before-the-ai-models-are-ready-dianne-penn-tivaWTTVRhY.md)
 - 2026-07-19 · [Why Netflix is betting on systems thinkers—not specialists—in the AI era | Elizabeth Stone (CPTO)](channels/lenny's-podcast/2026-07-19-why-netflix-is-betting-on-systems-thinkers—not-specialists—in-the-ai-era-elizabeth-stone-(cpto)-t0GiTyz4syY.md)
 - 2026-07-12 · [Why the tech workforce is quietly splitting in two | Annual AI sentiment survey (Noam Segal)](channels/lenny's-podcast/2026-07-12-why-the-tech-workforce-is-quietly-splitting-in-two-annual-ai-sentiment-survey-(noam-segal)-_cmpIveXnvE.md)
-- 2026-07-09 · [The rise of taste, human authenticity and judgment in an AI world | Adam Mosseri (Head of IG)](channels/lenny's-podcast/2026-07-09-the-rise-of-taste,-human-authenticity-and-judgment-in-an-ai-world-adam-mosseri-(head-of-ig)-yQ_EWmtfWvQ.md)
 
 ### [Y Combinator](channels/y-combinator/README.md) · 40 篇
 
@@ -93,6 +93,11 @@
 - 2026-07-16 · [146. 对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角](channels/张晓珺/2026-07-16-146.-对physical-intelligence柯丽一鸣4小时访谈-pi的开源模型研究,机器人的江湖、族谱与主角-ghKTtfM-R6g.md)
 
 ## 最新更新
+
+### 2026-07-26
+
+- [【十字路口】11 年，110 亿美金，然后呢？｜对话 Airwallex 吴恺：AI 时代，下一站 1000 亿【视频播客】](channels/koji-yang/2026-07-26-【十字路口】11-年,110-亿美金,然后呢-对话-airwallex-吴恺-ai-时代,下一站-1000-亿【视频播客】-h8hI597d4iQ.md) · Koji Yang
+- [How Anthropic builds products like Claude Code before the AI models are ready | Dianne Penn](channels/lenny's-podcast/2026-07-26-how-anthropic-builds-products-like-claude-code-before-the-ai-models-are-ready-dianne-penn-tivaWTTVRhY.md) · Lenny's Podcast
 
 ### 2026-07-25
 
@@ -127,14 +132,6 @@
 
 - [【十字路口】快一点！再快一点！快到世界能实时生成｜和生数科技张金涛聊：Vidu S1、推理加速、实时交互视频【视频播客】](channels/koji-yang/2026-07-19-【十字路口】快一点!再快一点!快到世界能实时生成-和生数科技张金涛聊-vidu-s1、推理加速、实时交互视频【视频播客】-EAbsBmcDMQE.md) · Koji Yang
 - [Why Netflix is betting on systems thinkers—not specialists—in the AI era | Elizabeth Stone (CPTO)](channels/lenny's-podcast/2026-07-19-why-netflix-is-betting-on-systems-thinkers—not-specialists—in-the-ai-era-elizabeth-stone-(cpto)-t0GiTyz4syY.md) · Lenny's Podcast
-
-### 2026-07-17
-
-- ["Being Canceled is a Choice" | Replit CEO with a16z](channels/a16z/2026-07-17-being-canceled-is-a-choice-replit-ceo-with-a16z-rghTqkclDqA.md) · a16z
-
-### 2026-07-16
-
-- [🔬 RL with Verifiable Rewards, but the Verifier is a Lab — Lila Sciences](channels/latent-space/2026-07-16-🔬-rl-with-verifiable-rewards,-but-the-verifier-is-a-lab-—-lila-sciences-2wIxPWK6nCs.md) · Latent Space
 
 ## 数据与自动更新
 

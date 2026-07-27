@@ -6,6 +6,11 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-07-26](2026/07/2026-07-26.md) · 2 篇
+
+- [【十字路口】11 年，110 亿美金，然后呢？｜对话 Airwallex 吴恺：AI 时代，下一站 1000 亿【视频播客】](../channels/koji-yang/2026-07-26-【十字路口】11-年,110-亿美金,然后呢-对话-airwallex-吴恺-ai-时代,下一站-1000-亿【视频播客】-h8hI597d4iQ.md) · Koji Yang
+- [How Anthropic builds products like Claude Code before the AI models are ready | Dianne Penn](../channels/lenny's-podcast/2026-07-26-how-anthropic-builds-products-like-claude-code-before-the-ai-models-are-ready-dianne-penn-tivaWTTVRhY.md) · Lenny's Podcast
+
 ## [2026-07-25](2026/07/2026-07-25.md) · 1 篇
 
 - [Opus 5 Is Here… But NEW Claude Voice Is Even Bigger](../channels/riley-brown/2026-07-25-opus-5-is-here...-but-new-claude-voice-is-even-bigger-Hv8YGUXZY1g.md) · Riley Brown
