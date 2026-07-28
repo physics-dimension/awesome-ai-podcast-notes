@@ -1,9 +1,10 @@
 # 张晓珺
 
-39 notes in this channel.
+40 notes in this channel.
 
-本频道共 39 篇。
+本频道共 40 篇。
 
+- 2026-07-28 · [148. 对游凯超3小时访谈：开源Infra、和模型Co-design 、“如果vLLM失败，我们会后悔一辈子”](2026-07-28-148.-对游凯超3小时访谈-开源infra、和模型co-design-、“如果vllm失败,我们会后悔一辈子”-ffdR5fZTC5E.md)
 - 2026-07-22 · [147. 和蚂蚁灵波沈宇军聊：机器人原生基础模型、大脑和本体的关系、预训练与数据scale up、老师汤晓鸥](2026-07-22-147.-和蚂蚁灵波沈宇军聊-机器人原生基础模型、大脑和本体的关系、预训练与数据scale-up、老师汤晓鸥-fww9LN9baKQ.md)
 - 2026-07-16 · [Kay Ke: Inside Physical Intelligence's Open-Source Robot Models and the Robotics Landscape](2026-07-16-kay-ke-inside-physical-intelligence's-open-source-robot-models-and-the-robotics-landscape-dPXZrTw-Hgk.md)
 - 2026-07-16 · [146. 对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角](2026-07-16-146.-对physical-intelligence柯丽一鸣4小时访谈-pi的开源模型研究,机器人的江湖、族谱与主角-ghKTtfM-R6g.md)

@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-741-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-744-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 741 |
+| 笔记 | 744 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 418 |
-| 原始文稿 | 701 |
+| 结构化文稿 | 421 |
+| 原始文稿 | 704 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-07-26 |
-| 仓库更新日期 | 2026-07-27 |
+| 最新来源日期 | 2026-07-28 |
+| 仓库更新日期 | 2026-07-28 |
 
 ## 适合谁
 
@@ -56,11 +56,11 @@
 - 2026-07-21 · [Causal Models Need Causal Data - Xaira’s X-Cell model (Bo Wang & Ci Chu)](channels/latent-space/2026-07-21-causal-models-need-causal-data-xaira’s-x-cell-model-(bo-wang-&-ci-chu)-2AdS-2uuH80.md)
 - 2026-07-16 · [🔬 RL with Verifiable Rewards, but the Verifier is a Lab — Lila Sciences](channels/latent-space/2026-07-16-🔬-rl-with-verifiable-rewards,-but-the-verifier-is-a-lab-—-lila-sciences-2wIxPWK6nCs.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 55 篇
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 56 篇
 
+- 2026-07-27 · [Marketing Agents Are Too Good Now](channels/greg-isenberg/2026-07-27-marketing-agents-are-too-good-now-U2hogriGmEw.md)
 - 2026-07-24 · [Most Valuable Skill of 2026: Managing AI Agents](channels/greg-isenberg/2026-07-24-most-valuable-skill-of-2026-managing-ai-agents-vJEy3nP2_C8.md)
 - 2026-07-20 · [FDE: The $1M/Year AI Job Explained](channels/greg-isenberg/2026-07-20-fde-the-$1m-year-ai-job-explained-zXysLUTLjw4.md)
-- 2026-07-15 · [The $1,000/hour Solo AI business (Full Course)](channels/greg-isenberg/2026-07-15-the-$1,000-hour-solo-ai-business-(full-course)-dhbcVxYhWaQ.md)
 
 ### [a16z](channels/a16z/README.md) · 53 篇
 
@@ -68,11 +68,11 @@
 - 2026-07-21 · [Why Physical AI Is the Next Frontier | The a16z Show](channels/a16z/2026-07-21-why-physical-ai-is-the-next-frontier-the-a16z-show-56XgWH9ch0U.md)
 - 2026-07-17 · ["Being Canceled is a Choice" | Replit CEO with a16z](channels/a16z/2026-07-17-being-canceled-is-a-choice-replit-ceo-with-a16z-rghTqkclDqA.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 50 篇
+### [Riley Brown](channels/riley-brown/README.md) · 51 篇
 
+- 2026-07-27 · [Claude Opus 5 is INSANE at Excel (Better Than Fable)](channels/riley-brown/2026-07-27-claude-opus-5-is-insane-at-excel-(better-than-fable)-fZ1Kmuafzzk.md)
 - 2026-07-25 · [Opus 5 Is Here… But NEW Claude Voice Is Even Bigger](channels/riley-brown/2026-07-25-opus-5-is-here...-but-new-claude-voice-is-even-bigger-Hv8YGUXZY1g.md)
 - 2026-07-24 · [OpenAI just released Codex Voice (It's basically Jarvis)](channels/riley-brown/2026-07-24-openai-just-released-codex-voice-(it's-basically-jarvis)-hLFs9JtMaRg.md)
-- 2026-07-21 · [I Turned Codex Into a Business Growth Machine](channels/riley-brown/2026-07-21-i-turned-codex-into-a-business-growth-machine-gOx37on-iA8.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 41 篇
 
@@ -86,13 +86,22 @@
 - 2026-07-16 · [Building the Agentic AI Platform for Hospitals](channels/y-combinator/2026-07-16-building-the-agentic-ai-platform-for-hospitals-3lQQadC6vKg.md)
 - 2026-06-29 · [The AI Agents Helping Home Services Book More Jobs](channels/y-combinator/2026-06-29-the-ai-agents-helping-home-services-book-more-jobs-EHp1HgwCo9I.md)
 
-### [张晓珺](channels/张晓珺/README.md) · 39 篇
+### [张晓珺](channels/张晓珺/README.md) · 40 篇
 
+- 2026-07-28 · [148. 对游凯超3小时访谈：开源Infra、和模型Co-design 、“如果vLLM失败，我们会后悔一辈子”](channels/张晓珺/2026-07-28-148.-对游凯超3小时访谈-开源infra、和模型co-design-、“如果vllm失败,我们会后悔一辈子”-ffdR5fZTC5E.md)
 - 2026-07-22 · [147. 和蚂蚁灵波沈宇军聊：机器人原生基础模型、大脑和本体的关系、预训练与数据scale up、老师汤晓鸥](channels/张晓珺/2026-07-22-147.-和蚂蚁灵波沈宇军聊-机器人原生基础模型、大脑和本体的关系、预训练与数据scale-up、老师汤晓鸥-fww9LN9baKQ.md)
 - 2026-07-16 · [Kay Ke: Inside Physical Intelligence's Open-Source Robot Models and the Robotics Landscape](channels/张晓珺/2026-07-16-kay-ke-inside-physical-intelligence's-open-source-robot-models-and-the-robotics-landscape-dPXZrTw-Hgk.md)
-- 2026-07-16 · [146. 对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角](channels/张晓珺/2026-07-16-146.-对physical-intelligence柯丽一鸣4小时访谈-pi的开源模型研究,机器人的江湖、族谱与主角-ghKTtfM-R6g.md)
 
 ## 最新更新
+
+### 2026-07-28
+
+- [148. 对游凯超3小时访谈：开源Infra、和模型Co-design 、“如果vLLM失败，我们会后悔一辈子”](channels/张晓珺/2026-07-28-148.-对游凯超3小时访谈-开源infra、和模型co-design-、“如果vllm失败,我们会后悔一辈子”-ffdR5fZTC5E.md) · 张晓珺
+
+### 2026-07-27
+
+- [Marketing Agents Are Too Good Now](channels/greg-isenberg/2026-07-27-marketing-agents-are-too-good-now-U2hogriGmEw.md) · Greg Isenberg
+- [Claude Opus 5 is INSANE at Excel (Better Than Fable)](channels/riley-brown/2026-07-27-claude-opus-5-is-insane-at-excel-(better-than-fable)-fZ1Kmuafzzk.md) · Riley Brown
 
 ### 2026-07-26
 
@@ -126,12 +135,6 @@
 ### 2026-07-20
 
 - [The First Dedicated YC GPU Cluster - With Together AI](channels/y-combinator/2026-07-20-the-first-dedicated-yc-gpu-cluster-with-together-ai-tOhkv307Pm0.md) · Y Combinator
-- [FDE: The $1M/Year AI Job Explained](channels/greg-isenberg/2026-07-20-fde-the-$1m-year-ai-job-explained-zXysLUTLjw4.md) · Greg Isenberg
-
-### 2026-07-19
-
-- [【十字路口】快一点！再快一点！快到世界能实时生成｜和生数科技张金涛聊：Vidu S1、推理加速、实时交互视频【视频播客】](channels/koji-yang/2026-07-19-【十字路口】快一点!再快一点!快到世界能实时生成-和生数科技张金涛聊-vidu-s1、推理加速、实时交互视频【视频播客】-EAbsBmcDMQE.md) · Koji Yang
-- [Why Netflix is betting on systems thinkers—not specialists—in the AI era | Elizabeth Stone (CPTO)](channels/lenny's-podcast/2026-07-19-why-netflix-is-betting-on-systems-thinkers—not-specialists—in-the-ai-era-elizabeth-stone-(cpto)-t0GiTyz4syY.md) · Lenny's Podcast
 
 ## 数据与自动更新
 

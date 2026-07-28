@@ -6,6 +6,15 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-07-28](2026/07/2026-07-28.md) · 1 篇
+
+- [148. 对游凯超3小时访谈：开源Infra、和模型Co-design 、“如果vLLM失败，我们会后悔一辈子”](../channels/张晓珺/2026-07-28-148.-对游凯超3小时访谈-开源infra、和模型co-design-、“如果vllm失败,我们会后悔一辈子”-ffdR5fZTC5E.md) · 张晓珺
+
+## [2026-07-27](2026/07/2026-07-27.md) · 2 篇
+
+- [Marketing Agents Are Too Good Now](../channels/greg-isenberg/2026-07-27-marketing-agents-are-too-good-now-U2hogriGmEw.md) · Greg Isenberg
+- [Claude Opus 5 is INSANE at Excel (Better Than Fable)](../channels/riley-brown/2026-07-27-claude-opus-5-is-insane-at-excel-(better-than-fable)-fZ1Kmuafzzk.md) · Riley Brown
+
 ## [2026-07-26](2026/07/2026-07-26.md) · 2 篇
 
 - [【十字路口】11 年，110 亿美金，然后呢？｜对话 Airwallex 吴恺：AI 时代，下一站 1000 亿【视频播客】](../channels/koji-yang/2026-07-26-【十字路口】11-年,110-亿美金,然后呢-对话-airwallex-吴恺-ai-时代,下一站-1000-亿【视频播客】-h8hI597d4iQ.md) · Koji Yang
