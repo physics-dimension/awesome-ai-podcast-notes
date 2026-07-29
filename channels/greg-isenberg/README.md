@@ -1,9 +1,10 @@
 # Greg Isenberg
 
-56 notes in this channel.
+57 notes in this channel.
 
-本频道共 56 篇。
+本频道共 57 篇。
 
+- 2026-07-28 · [Jack Dorsey's Buzz: The New Hermes Agent?](2026-07-28-jack-dorsey's-buzz-the-new-hermes-agent-_jGSgzBkzrY.md)
 - 2026-07-27 · [Marketing Agents Are Too Good Now](2026-07-27-marketing-agents-are-too-good-now-U2hogriGmEw.md)
 - 2026-07-24 · [Most Valuable Skill of 2026: Managing AI Agents](2026-07-24-most-valuable-skill-of-2026-managing-ai-agents-vJEy3nP2_C8.md)
 - 2026-07-20 · [FDE: The $1M/Year AI Job Explained](2026-07-20-fde-the-$1m-year-ai-job-explained-zXysLUTLjw4.md)

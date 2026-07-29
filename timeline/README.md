@@ -6,8 +6,13 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-07-28](2026/07/2026-07-28.md) · 1 篇
+## [2026-07-28](2026/07/2026-07-28.md) · 6 篇
 
+- [Jack Dorsey's Buzz: The New Hermes Agent?](../channels/greg-isenberg/2026-07-28-jack-dorsey's-buzz-the-new-hermes-agent-_jGSgzBkzrY.md) · Greg Isenberg
+- [OpenAI’s Plan to Make ChatGPT the Everything App — Akshay Nathan, OpenAI](../channels/latent-space/2026-07-28-openai’s-plan-to-make-chatgpt-the-everything-app-—-akshay-nathan,-openai-gKhW6vL4V9A.md) · Latent Space
+- [Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499](../channels/lex-fridman/2026-07-28-gary-gallagher-american-civil-war,-slavery,-lincoln,-grant-&-lee-lex-fridman-podcast-499-XyXBwO5jYpw.md) · Lex Fridman
+- [The Next Frontier of AI Is Spatial Intelligence | Fei-Fei Li on a16z](../channels/a16z/2026-07-28-the-next-frontier-of-ai-is-spatial-intelligence-fei-fei-li-on-a16z--tabaM5l3s0.md) · a16z
+- [You Kaichao: vLLM, Open-Source Infra, Model Co-Design & Journey from Community to Startup](../channels/张晓珺/2026-07-28-you-kaichao-vllm,-open-source-infra,-model-co-design-&-journey-from-community-to-startup-ifniRXf467I.md) · 张晓珺
 - [148. 对游凯超3小时访谈：开源Infra、和模型Co-design 、“如果vLLM失败，我们会后悔一辈子”](../channels/张晓珺/2026-07-28-148.-对游凯超3小时访谈-开源infra、和模型co-design-、“如果vllm失败,我们会后悔一辈子”-ffdR5fZTC5E.md) · 张晓珺
 
 ## [2026-07-27](2026/07/2026-07-27.md) · 2 篇
