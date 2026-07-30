@@ -1,5 +1,30 @@
 [
   {
+    "id": "P1KpxzLVg7c",
+    "video_id": "P1KpxzLVg7c",
+    "title": "Claude Code + Codex Can FINALLY Work Together (Buzz AI)",
+    "channel": "Riley Brown",
+    "published": "2026-07-29",
+    "source_url": "https://www.youtube.com/watch?v=P1KpxzLVg7c",
+    "notion_url": "",
+    "tags": [
+      "Buzz",
+      "AI Agents",
+      "代理协作",
+      "开源",
+      "上下文工程",
+      "Jack Dorsey"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 12715,
+    "duration": "55:16",
+    "duration_seconds": 3316,
+    "path": "channels/riley-brown/2026-07-29-claude-code-+-codex-can-finally-work-together-(buzz-ai)-P1KpxzLVg7c.md",
+    "structured_path": "channels/riley-brown/2026-07-29-claude-code-+-codex-can-finally-work-together-(buzz-ai)-P1KpxzLVg7c.structured.md",
+    "transcript_path": "channels/riley-brown/2026-07-29-claude-code-+-codex-can-finally-work-together-(buzz-ai)-P1KpxzLVg7c.transcript.md"
+  },
+  {
     "id": "ifniRXf467I",
     "video_id": "ifniRXf467I",
     "title": "You Kaichao: vLLM, Open-Source Infra, Model Co-Design & Journey from Community to Startup",
@@ -1189,30 +1214,5 @@
     "path": "channels/latent-space/2026-07-08-the-100,000-sandbox-problem-—-akshat-bubna,-modal-cto-UwxxlTNPjWo.md",
     "structured_path": "channels/latent-space/2026-07-08-the-100,000-sandbox-problem-—-akshat-bubna,-modal-cto-UwxxlTNPjWo.structured.md",
     "transcript_path": "channels/latent-space/2026-07-08-the-100,000-sandbox-problem-—-akshat-bubna,-modal-cto-UwxxlTNPjWo.transcript.md"
-  },
-  {
-    "id": "Mxs4erDxOEE",
-    "video_id": "Mxs4erDxOEE",
-    "title": "Software in the Age of Agents | The a16z Show",
-    "channel": "a16z",
-    "published": "2026-07-07",
-    "source_url": "https://www.youtube.com/watch?v=Mxs4erDxOEE",
-    "notion_url": "",
-    "tags": [
-      "企业软件",
-      "AI Agent",
-      "无头化",
-      "颠覆性创新",
-      "创业策略",
-      "a16z"
-    ],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 7131,
-    "duration": "1:01:09",
-    "duration_seconds": 3669,
-    "path": "channels/a16z/2026-07-07-software-in-the-age-of-agents-the-a16z-show-Mxs4erDxOEE.md",
-    "structured_path": "channels/a16z/2026-07-07-software-in-the-age-of-agents-the-a16z-show-Mxs4erDxOEE.structured.md",
-    "transcript_path": "channels/a16z/2026-07-07-software-in-the-age-of-agents-the-a16z-show-Mxs4erDxOEE.transcript.md"
   }
 ]

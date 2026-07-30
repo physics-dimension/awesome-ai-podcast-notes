@@ -1,9 +1,10 @@
 # Riley Brown
 
-51 notes in this channel.
+52 notes in this channel.
 
-本频道共 51 篇。
+本频道共 52 篇。
 
+- 2026-07-29 · [Claude Code + Codex Can FINALLY Work Together (Buzz AI)](2026-07-29-claude-code-+-codex-can-finally-work-together-(buzz-ai)-P1KpxzLVg7c.md)
 - 2026-07-27 · [Claude Opus 5 is INSANE at Excel (Better Than Fable)](2026-07-27-claude-opus-5-is-insane-at-excel-(better-than-fable)-fZ1Kmuafzzk.md)
 - 2026-07-25 · [Opus 5 Is Here… But NEW Claude Voice Is Even Bigger](2026-07-25-opus-5-is-here...-but-new-claude-voice-is-even-bigger-Hv8YGUXZY1g.md)
 - 2026-07-24 · [OpenAI just released Codex Voice (It's basically Jarvis)](2026-07-24-openai-just-released-codex-voice-(it's-basically-jarvis)-hLFs9JtMaRg.md)

@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 749 |
+| Notes | 750 |
 | Channels | 16 |
-| Structured notes | 426 |
-| Raw transcripts | 709 |
+| Structured notes | 427 |
+| Raw transcripts | 710 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-07-28 |
-| Archive updated | 2026-07-29 |
+| Latest source date | 2026-07-29 |
+| Archive updated | 2026-07-30 |
 
 Each episode can include up to three versions:
 
@@ -57,11 +57,11 @@ Each episode can include up to three versions:
 - 2026-07-22 · [Building a Company in Stealth | Travis Kalanick with a16z](channels/a16z/2026-07-22-building-a-company-in-stealth-travis-kalanick-with-a16z-z6gH_v0buUc.md)
 - 2026-07-21 · [Why Physical AI Is the Next Frontier | The a16z Show](channels/a16z/2026-07-21-why-physical-ai-is-the-next-frontier-the-a16z-show-56XgWH9ch0U.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 51 notes
+### [Riley Brown](channels/riley-brown/README.md) · 52 notes
 
+- 2026-07-29 · [Claude Code + Codex Can FINALLY Work Together (Buzz AI)](channels/riley-brown/2026-07-29-claude-code-+-codex-can-finally-work-together-(buzz-ai)-P1KpxzLVg7c.md)
 - 2026-07-27 · [Claude Opus 5 is INSANE at Excel (Better Than Fable)](channels/riley-brown/2026-07-27-claude-opus-5-is-insane-at-excel-(better-than-fable)-fZ1Kmuafzzk.md)
 - 2026-07-25 · [Opus 5 Is Here… But NEW Claude Voice Is Even Bigger](channels/riley-brown/2026-07-25-opus-5-is-here...-but-new-claude-voice-is-even-bigger-Hv8YGUXZY1g.md)
-- 2026-07-24 · [OpenAI just released Codex Voice (It's basically Jarvis)](channels/riley-brown/2026-07-24-openai-just-released-codex-voice-(it's-basically-jarvis)-hLFs9JtMaRg.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 41 notes
 
@@ -82,6 +82,10 @@ Each episode can include up to three versions:
 - 2026-06-29 · [The AI Agents Helping Home Services Book More Jobs](channels/y-combinator/2026-06-29-the-ai-agents-helping-home-services-book-more-jobs-EHp1HgwCo9I.md)
 
 ## Latest Updates
+
+### 2026-07-29
+
+- [Claude Code + Codex Can FINALLY Work Together (Buzz AI)](channels/riley-brown/2026-07-29-claude-code-+-codex-can-finally-work-together-(buzz-ai)-P1KpxzLVg7c.md) · Riley Brown
 
 ### 2026-07-28
 
@@ -117,7 +121,6 @@ Each episode can include up to three versions:
 - [知识、代码、教程都不值钱了，AI时代什么值得学？｜WAIC 2026 围炉夜话](channels/koji-yang/2026-07-22-知识、代码、教程都不值钱了,ai时代什么值得学-waic-2026-围炉夜话-uxR9pOkbiY8.md) · Koji Yang
 - [Poolside’s Model Factory, Laguna S, Open Models, and the Race to AGI — Eiso Kant, Poolside AI](channels/latent-space/2026-07-22-poolside’s-model-factory,-laguna-s,-open-models,-and-the-race-to-agi-—-eiso-kant,-poolside-ai-9_0hs2sxHHo.md) · Latent Space
 - [GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype](channels/ai-explained/2026-07-22-gpt-6-goes-rogue-the-huggingface-incident,-sans-hype-wzY2fV4Mp3U.md) · AI Explained
-- [Building a Company in Stealth | Travis Kalanick with a16z](channels/a16z/2026-07-22-building-a-company-in-stealth-travis-kalanick-with-a16z-z6gH_v0buUc.md) · a16z
 
 ## Data
 

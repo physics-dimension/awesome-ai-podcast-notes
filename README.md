@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-749-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-750-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 749 |
+| 笔记 | 750 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 426 |
-| 原始文稿 | 709 |
+| 结构化文稿 | 427 |
+| 原始文稿 | 710 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-07-28 |
-| 仓库更新日期 | 2026-07-29 |
+| 最新来源日期 | 2026-07-29 |
+| 仓库更新日期 | 2026-07-30 |
 
 ## 适合谁
 
@@ -68,11 +68,11 @@
 - 2026-07-22 · [Building a Company in Stealth | Travis Kalanick with a16z](channels/a16z/2026-07-22-building-a-company-in-stealth-travis-kalanick-with-a16z-z6gH_v0buUc.md)
 - 2026-07-21 · [Why Physical AI Is the Next Frontier | The a16z Show](channels/a16z/2026-07-21-why-physical-ai-is-the-next-frontier-the-a16z-show-56XgWH9ch0U.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 51 篇
+### [Riley Brown](channels/riley-brown/README.md) · 52 篇
 
+- 2026-07-29 · [Claude Code + Codex Can FINALLY Work Together (Buzz AI)](channels/riley-brown/2026-07-29-claude-code-+-codex-can-finally-work-together-(buzz-ai)-P1KpxzLVg7c.md)
 - 2026-07-27 · [Claude Opus 5 is INSANE at Excel (Better Than Fable)](channels/riley-brown/2026-07-27-claude-opus-5-is-insane-at-excel-(better-than-fable)-fZ1Kmuafzzk.md)
 - 2026-07-25 · [Opus 5 Is Here… But NEW Claude Voice Is Even Bigger](channels/riley-brown/2026-07-25-opus-5-is-here...-but-new-claude-voice-is-even-bigger-Hv8YGUXZY1g.md)
-- 2026-07-24 · [OpenAI just released Codex Voice (It's basically Jarvis)](channels/riley-brown/2026-07-24-openai-just-released-codex-voice-(it's-basically-jarvis)-hLFs9JtMaRg.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 41 篇
 
@@ -93,6 +93,10 @@
 - 2026-06-29 · [The AI Agents Helping Home Services Book More Jobs](channels/y-combinator/2026-06-29-the-ai-agents-helping-home-services-book-more-jobs-EHp1HgwCo9I.md)
 
 ## 最新更新
+
+### 2026-07-29
+
+- [Claude Code + Codex Can FINALLY Work Together (Buzz AI)](channels/riley-brown/2026-07-29-claude-code-+-codex-can-finally-work-together-(buzz-ai)-P1KpxzLVg7c.md) · Riley Brown
 
 ### 2026-07-28
 
@@ -128,7 +132,6 @@
 - [知识、代码、教程都不值钱了，AI时代什么值得学？｜WAIC 2026 围炉夜话](channels/koji-yang/2026-07-22-知识、代码、教程都不值钱了,ai时代什么值得学-waic-2026-围炉夜话-uxR9pOkbiY8.md) · Koji Yang
 - [Poolside’s Model Factory, Laguna S, Open Models, and the Race to AGI — Eiso Kant, Poolside AI](channels/latent-space/2026-07-22-poolside’s-model-factory,-laguna-s,-open-models,-and-the-race-to-agi-—-eiso-kant,-poolside-ai-9_0hs2sxHHo.md) · Latent Space
 - [GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype](channels/ai-explained/2026-07-22-gpt-6-goes-rogue-the-huggingface-incident,-sans-hype-wzY2fV4Mp3U.md) · AI Explained
-- [Building a Company in Stealth | Travis Kalanick with a16z](channels/a16z/2026-07-22-building-a-company-in-stealth-travis-kalanick-with-a16z-z6gH_v0buUc.md) · a16z
 
 ## 数据与自动更新
 

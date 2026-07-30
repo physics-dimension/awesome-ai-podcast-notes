@@ -6,6 +6,10 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-07-29](2026/07/2026-07-29.md) · 1 篇
+
+- [Claude Code + Codex Can FINALLY Work Together (Buzz AI)](../channels/riley-brown/2026-07-29-claude-code-+-codex-can-finally-work-together-(buzz-ai)-P1KpxzLVg7c.md) · Riley Brown
+
 ## [2026-07-28](2026/07/2026-07-28.md) · 6 篇
 
 - [Jack Dorsey's Buzz: The New Hermes Agent?](../channels/greg-isenberg/2026-07-28-jack-dorsey's-buzz-the-new-hermes-agent-_jGSgzBkzrY.md) · Greg Isenberg
