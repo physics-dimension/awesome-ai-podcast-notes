@@ -1,5 +1,79 @@
 [
   {
+    "id": "H3Gs4QUHvA4",
+    "video_id": "H3Gs4QUHvA4",
+    "title": "149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark",
+    "channel": "张晓珺",
+    "published": "2026-07-31",
+    "source_url": "https://www.youtube.com/watch?v=H3Gs4QUHvA4",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "New Lab",
+      "AI for AI",
+      "机制可解释性",
+      "创业"
+    ],
+    "rating": 4,
+    "language": "中文",
+    "word_count": 13779,
+    "duration": "1:40:36",
+    "duration_seconds": 6036,
+    "path": "channels/张晓珺/2026-07-31-149.-亲历中美neo-labs资本狂潮,和清华刘子鸣聊-ai-for-ai、机制可解释性和max-tegmark-H3Gs4QUHvA4.md",
+    "structured_path": "channels/张晓珺/2026-07-31-149.-亲历中美neo-labs资本狂潮,和清华刘子鸣聊-ai-for-ai、机制可解释性和max-tegmark-H3Gs4QUHvA4.structured.md",
+    "transcript_path": "channels/张晓珺/2026-07-31-149.-亲历中美neo-labs资本狂潮,和清华刘子鸣聊-ai-for-ai、机制可解释性和max-tegmark-H3Gs4QUHvA4.transcript.md"
+  },
+  {
+    "id": "5DnOOa-5dTU",
+    "video_id": "5DnOOa-5dTU",
+    "title": "Master 95% of Cursor in 60 Minutes",
+    "channel": "Riley Brown",
+    "published": "2026-07-30",
+    "source_url": "https://www.youtube.com/watch?v=5DnOOa-5dTU",
+    "notion_url": "",
+    "tags": [
+      "Cursor",
+      "AI编程",
+      "无代码开发",
+      "iOS开发",
+      "自动化",
+      "数据库",
+      "托管部署"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 24653,
+    "duration": "1:04:17",
+    "duration_seconds": 3857,
+    "path": "channels/riley-brown/2026-07-30-master-95-of-cursor-in-60-minutes-5DnOOa-5dTU.md",
+    "structured_path": "channels/riley-brown/2026-07-30-master-95-of-cursor-in-60-minutes-5DnOOa-5dTU.structured.md",
+    "transcript_path": "channels/riley-brown/2026-07-30-master-95-of-cursor-in-60-minutes-5DnOOa-5dTU.transcript.md"
+  },
+  {
+    "id": "Fpg_8aiBxx4",
+    "video_id": "Fpg_8aiBxx4",
+    "title": "How Lassie Is Automating Healthcare Administration",
+    "channel": "a16z",
+    "published": "2026-07-30",
+    "source_url": "https://www.youtube.com/watch?v=Fpg_8aiBxx4",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "智能体",
+      "医疗行政",
+      "中小企业",
+      "创业"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 23943,
+    "duration": "58:40",
+    "duration_seconds": 3520,
+    "path": "channels/a16z/2026-07-30-how-lassie-is-automating-healthcare-administration-Fpg_8aiBxx4.md",
+    "structured_path": "channels/a16z/2026-07-30-how-lassie-is-automating-healthcare-administration-Fpg_8aiBxx4.structured.md",
+    "transcript_path": "channels/a16z/2026-07-30-how-lassie-is-automating-healthcare-administration-Fpg_8aiBxx4.transcript.md"
+  },
+  {
     "id": "P1KpxzLVg7c",
     "video_id": "P1KpxzLVg7c",
     "title": "Claude Code + Codex Can FINALLY Work Together (Buzz AI)",
@@ -1141,78 +1215,5 @@
     "path": "channels/lenny's-podcast/2026-07-09-the-rise-of-taste,-human-authenticity-and-judgment-in-an-ai-world-adam-mosseri-(head-of-ig)-yQ_EWmtfWvQ.md",
     "structured_path": "channels/lenny's-podcast/2026-07-09-the-rise-of-taste,-human-authenticity-and-judgment-in-an-ai-world-adam-mosseri-(head-of-ig)-yQ_EWmtfWvQ.structured.md",
     "transcript_path": "channels/lenny's-podcast/2026-07-09-the-rise-of-taste,-human-authenticity-and-judgment-in-an-ai-world-adam-mosseri-(head-of-ig)-yQ_EWmtfWvQ.transcript.md"
-  },
-  {
-    "id": "dLaIl6LehsU",
-    "video_id": "dLaIl6LehsU",
-    "title": "Grok 4.5 + Cursor Just Became Unstoppable",
-    "channel": "Riley Brown",
-    "published": "2026-07-09",
-    "source_url": "https://www.youtube.com/watch?v=dLaIl6LehsU",
-    "notion_url": "",
-    "tags": [
-      "AI",
-      "编程",
-      "Cursor",
-      "Grok",
-      "SpaceX",
-      "模型评测"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 13126,
-    "duration": "15:25",
-    "duration_seconds": 925,
-    "path": "channels/riley-brown/2026-07-09-grok-4.5-+-cursor-just-became-unstoppable-dLaIl6LehsU.md",
-    "structured_path": "channels/riley-brown/2026-07-09-grok-4.5-+-cursor-just-became-unstoppable-dLaIl6LehsU.structured.md",
-    "transcript_path": "channels/riley-brown/2026-07-09-grok-4.5-+-cursor-just-became-unstoppable-dLaIl6LehsU.transcript.md"
-  },
-  {
-    "id": "7pVTQSA4s5I",
-    "video_id": "7pVTQSA4s5I",
-    "title": "GPT 5.6 SOL IS HERE! How to use it.",
-    "channel": "Greg Isenberg",
-    "published": "2026-07-09",
-    "source_url": "https://www.youtube.com/watch?v=7pVTQSA4s5I",
-    "notion_url": "",
-    "tags": [
-      "AI",
-      "创业",
-      "产品设计",
-      "效率工具",
-      "SaaS"
-    ],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 8930,
-    "duration": "49:17",
-    "duration_seconds": 2957,
-    "path": "channels/greg-isenberg/2026-07-09-gpt-5.6-sol-is-here!-how-to-use-it-7pVTQSA4s5I.md",
-    "structured_path": "channels/greg-isenberg/2026-07-09-gpt-5.6-sol-is-here!-how-to-use-it-7pVTQSA4s5I.structured.md",
-    "transcript_path": "channels/greg-isenberg/2026-07-09-gpt-5.6-sol-is-here!-how-to-use-it-7pVTQSA4s5I.transcript.md"
-  },
-  {
-    "id": "UwxxlTNPjWo",
-    "video_id": "UwxxlTNPjWo",
-    "title": "The 100,000 Sandbox Problem — Akshat Bubna, Modal CTO",
-    "channel": "Latent Space",
-    "published": "2026-07-08",
-    "source_url": "https://www.youtube.com/watch?v=UwxxlTNPjWo",
-    "notion_url": "",
-    "tags": [
-      "代理体验",
-      "弹性计算",
-      "GPU沙盒",
-      "推测解码",
-      "基础设施原语"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 15867,
-    "duration": "59:10",
-    "duration_seconds": 3550,
-    "path": "channels/latent-space/2026-07-08-the-100,000-sandbox-problem-—-akshat-bubna,-modal-cto-UwxxlTNPjWo.md",
-    "structured_path": "channels/latent-space/2026-07-08-the-100,000-sandbox-problem-—-akshat-bubna,-modal-cto-UwxxlTNPjWo.structured.md",
-    "transcript_path": "channels/latent-space/2026-07-08-the-100,000-sandbox-problem-—-akshat-bubna,-modal-cto-UwxxlTNPjWo.transcript.md"
   }
 ]

@@ -1,9 +1,10 @@
 # 张晓珺
 
-41 notes in this channel.
+42 notes in this channel.
 
-本频道共 41 篇。
+本频道共 42 篇。
 
+- 2026-07-31 · [149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark](2026-07-31-149.-亲历中美neo-labs资本狂潮,和清华刘子鸣聊-ai-for-ai、机制可解释性和max-tegmark-H3Gs4QUHvA4.md)
 - 2026-07-28 · [You Kaichao: vLLM, Open-Source Infra, Model Co-Design & Journey from Community to Startup](2026-07-28-you-kaichao-vllm,-open-source-infra,-model-co-design-&-journey-from-community-to-startup-ifniRXf467I.md)
 - 2026-07-28 · [148. 对游凯超3小时访谈：开源Infra、和模型Co-design 、“如果vLLM失败，我们会后悔一辈子”](2026-07-28-148.-对游凯超3小时访谈-开源infra、和模型co-design-、“如果vllm失败,我们会后悔一辈子”-ffdR5fZTC5E.md)
 - 2026-07-22 · [147. 和蚂蚁灵波沈宇军聊：机器人原生基础模型、大脑和本体的关系、预训练与数据scale up、老师汤晓鸥](2026-07-22-147.-和蚂蚁灵波沈宇军聊-机器人原生基础模型、大脑和本体的关系、预训练与数据scale-up、老师汤晓鸥-fww9LN9baKQ.md)

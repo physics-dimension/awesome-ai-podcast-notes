@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 750 |
+| Notes | 753 |
 | Channels | 16 |
-| Structured notes | 427 |
-| Raw transcripts | 710 |
+| Structured notes | 430 |
+| Raw transcripts | 713 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-07-29 |
-| Archive updated | 2026-07-30 |
+| Latest source date | 2026-07-31 |
+| Archive updated | 2026-07-31 |
 
 Each episode can include up to three versions:
 
@@ -51,29 +51,29 @@ Each episode can include up to three versions:
 - 2026-07-27 · [Marketing Agents Are Too Good Now](channels/greg-isenberg/2026-07-27-marketing-agents-are-too-good-now-U2hogriGmEw.md)
 - 2026-07-24 · [Most Valuable Skill of 2026: Managing AI Agents](channels/greg-isenberg/2026-07-24-most-valuable-skill-of-2026-managing-ai-agents-vJEy3nP2_C8.md)
 
-### [a16z](channels/a16z/README.md) · 54 notes
+### [a16z](channels/a16z/README.md) · 55 notes
 
+- 2026-07-30 · [How Lassie Is Automating Healthcare Administration](channels/a16z/2026-07-30-how-lassie-is-automating-healthcare-administration-Fpg_8aiBxx4.md)
 - 2026-07-28 · [The Next Frontier of AI Is Spatial Intelligence | Fei-Fei Li on a16z](channels/a16z/2026-07-28-the-next-frontier-of-ai-is-spatial-intelligence-fei-fei-li-on-a16z--tabaM5l3s0.md)
 - 2026-07-22 · [Building a Company in Stealth | Travis Kalanick with a16z](channels/a16z/2026-07-22-building-a-company-in-stealth-travis-kalanick-with-a16z-z6gH_v0buUc.md)
-- 2026-07-21 · [Why Physical AI Is the Next Frontier | The a16z Show](channels/a16z/2026-07-21-why-physical-ai-is-the-next-frontier-the-a16z-show-56XgWH9ch0U.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 52 notes
+### [Riley Brown](channels/riley-brown/README.md) · 53 notes
 
+- 2026-07-30 · [Master 95% of Cursor in 60 Minutes](channels/riley-brown/2026-07-30-master-95-of-cursor-in-60-minutes-5DnOOa-5dTU.md)
 - 2026-07-29 · [Claude Code + Codex Can FINALLY Work Together (Buzz AI)](channels/riley-brown/2026-07-29-claude-code-+-codex-can-finally-work-together-(buzz-ai)-P1KpxzLVg7c.md)
 - 2026-07-27 · [Claude Opus 5 is INSANE at Excel (Better Than Fable)](channels/riley-brown/2026-07-27-claude-opus-5-is-insane-at-excel-(better-than-fable)-fZ1Kmuafzzk.md)
-- 2026-07-25 · [Opus 5 Is Here… But NEW Claude Voice Is Even Bigger](channels/riley-brown/2026-07-25-opus-5-is-here...-but-new-claude-voice-is-even-bigger-Hv8YGUXZY1g.md)
+
+### [张晓珺](channels/张晓珺/README.md) · 42 notes
+
+- 2026-07-31 · [149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark](channels/张晓珺/2026-07-31-149.-亲历中美neo-labs资本狂潮,和清华刘子鸣聊-ai-for-ai、机制可解释性和max-tegmark-H3Gs4QUHvA4.md)
+- 2026-07-28 · [You Kaichao: vLLM, Open-Source Infra, Model Co-Design & Journey from Community to Startup](channels/张晓珺/2026-07-28-you-kaichao-vllm,-open-source-infra,-model-co-design-&-journey-from-community-to-startup-ifniRXf467I.md)
+- 2026-07-28 · [148. 对游凯超3小时访谈：开源Infra、和模型Co-design 、“如果vLLM失败，我们会后悔一辈子”](channels/张晓珺/2026-07-28-148.-对游凯超3小时访谈-开源infra、和模型co-design-、“如果vllm失败,我们会后悔一辈子”-ffdR5fZTC5E.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 41 notes
 
 - 2026-07-26 · [How Anthropic builds products like Claude Code before the AI models are ready | Dianne Penn](channels/lenny's-podcast/2026-07-26-how-anthropic-builds-products-like-claude-code-before-the-ai-models-are-ready-dianne-penn-tivaWTTVRhY.md)
 - 2026-07-19 · [Why Netflix is betting on systems thinkers—not specialists—in the AI era | Elizabeth Stone (CPTO)](channels/lenny's-podcast/2026-07-19-why-netflix-is-betting-on-systems-thinkers—not-specialists—in-the-ai-era-elizabeth-stone-(cpto)-t0GiTyz4syY.md)
 - 2026-07-12 · [Why the tech workforce is quietly splitting in two | Annual AI sentiment survey (Noam Segal)](channels/lenny's-podcast/2026-07-12-why-the-tech-workforce-is-quietly-splitting-in-two-annual-ai-sentiment-survey-(noam-segal)-_cmpIveXnvE.md)
-
-### [张晓珺](channels/张晓珺/README.md) · 41 notes
-
-- 2026-07-28 · [You Kaichao: vLLM, Open-Source Infra, Model Co-Design & Journey from Community to Startup](channels/张晓珺/2026-07-28-you-kaichao-vllm,-open-source-infra,-model-co-design-&-journey-from-community-to-startup-ifniRXf467I.md)
-- 2026-07-28 · [148. 对游凯超3小时访谈：开源Infra、和模型Co-design 、“如果vLLM失败，我们会后悔一辈子”](channels/张晓珺/2026-07-28-148.-对游凯超3小时访谈-开源infra、和模型co-design-、“如果vllm失败,我们会后悔一辈子”-ffdR5fZTC5E.md)
-- 2026-07-22 · [147. 和蚂蚁灵波沈宇军聊：机器人原生基础模型、大脑和本体的关系、预训练与数据scale up、老师汤晓鸥](channels/张晓珺/2026-07-22-147.-和蚂蚁灵波沈宇军聊-机器人原生基础模型、大脑和本体的关系、预训练与数据scale-up、老师汤晓鸥-fww9LN9baKQ.md)
 
 ### [Y Combinator](channels/y-combinator/README.md) · 40 notes
 
@@ -82,6 +82,15 @@ Each episode can include up to three versions:
 - 2026-06-29 · [The AI Agents Helping Home Services Book More Jobs](channels/y-combinator/2026-06-29-the-ai-agents-helping-home-services-book-more-jobs-EHp1HgwCo9I.md)
 
 ## Latest Updates
+
+### 2026-07-31
+
+- [149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark](channels/张晓珺/2026-07-31-149.-亲历中美neo-labs资本狂潮,和清华刘子鸣聊-ai-for-ai、机制可解释性和max-tegmark-H3Gs4QUHvA4.md) · 张晓珺
+
+### 2026-07-30
+
+- [Master 95% of Cursor in 60 Minutes](channels/riley-brown/2026-07-30-master-95-of-cursor-in-60-minutes-5DnOOa-5dTU.md) · Riley Brown
+- [How Lassie Is Automating Healthcare Administration](channels/a16z/2026-07-30-how-lassie-is-automating-healthcare-administration-Fpg_8aiBxx4.md) · a16z
 
 ### 2026-07-29
 
@@ -115,12 +124,6 @@ Each episode can include up to three versions:
 - [OpenAI just released Codex Voice (It's basically Jarvis)](channels/riley-brown/2026-07-24-openai-just-released-codex-voice-(it's-basically-jarvis)-hLFs9JtMaRg.md) · Riley Brown
 - [Most Valuable Skill of 2026: Managing AI Agents](channels/greg-isenberg/2026-07-24-most-valuable-skill-of-2026-managing-ai-agents-vJEy3nP2_C8.md) · Greg Isenberg
 - [E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的](channels/硅谷101/2026-07-24-e245-藏在大模型背后的新闻人-gpt们的回复是这样写出来的-ifyzclKzVOA.md) · 硅谷101
-
-### 2026-07-22
-
-- [知识、代码、教程都不值钱了，AI时代什么值得学？｜WAIC 2026 围炉夜话](channels/koji-yang/2026-07-22-知识、代码、教程都不值钱了,ai时代什么值得学-waic-2026-围炉夜话-uxR9pOkbiY8.md) · Koji Yang
-- [Poolside’s Model Factory, Laguna S, Open Models, and the Race to AGI — Eiso Kant, Poolside AI](channels/latent-space/2026-07-22-poolside’s-model-factory,-laguna-s,-open-models,-and-the-race-to-agi-—-eiso-kant,-poolside-ai-9_0hs2sxHHo.md) · Latent Space
-- [GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype](channels/ai-explained/2026-07-22-gpt-6-goes-rogue-the-huggingface-incident,-sans-hype-wzY2fV4Mp3U.md) · AI Explained
 
 ## Data
 

@@ -6,6 +6,15 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-07-31](2026/07/2026-07-31.md) · 1 篇
+
+- [149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark](../channels/张晓珺/2026-07-31-149.-亲历中美neo-labs资本狂潮,和清华刘子鸣聊-ai-for-ai、机制可解释性和max-tegmark-H3Gs4QUHvA4.md) · 张晓珺
+
+## [2026-07-30](2026/07/2026-07-30.md) · 2 篇
+
+- [Master 95% of Cursor in 60 Minutes](../channels/riley-brown/2026-07-30-master-95-of-cursor-in-60-minutes-5DnOOa-5dTU.md) · Riley Brown
+- [How Lassie Is Automating Healthcare Administration](../channels/a16z/2026-07-30-how-lassie-is-automating-healthcare-administration-Fpg_8aiBxx4.md) · a16z
+
 ## [2026-07-29](2026/07/2026-07-29.md) · 1 篇
 
 - [Claude Code + Codex Can FINALLY Work Together (Buzz AI)](../channels/riley-brown/2026-07-29-claude-code-+-codex-can-finally-work-together-(buzz-ai)-P1KpxzLVg7c.md) · Riley Brown
