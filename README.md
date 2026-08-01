@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-753-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-755-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 753 |
+| 笔记 | 755 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 430 |
-| 原始文稿 | 713 |
+| 结构化文稿 | 432 |
+| 原始文稿 | 715 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-07-31 |
-| 仓库更新日期 | 2026-07-31 |
+| 最新来源日期 | 2026-08-01 |
+| 仓库更新日期 | 2026-08-01 |
 
 ## 适合谁
 
@@ -62,11 +62,11 @@
 - 2026-07-27 · [Marketing Agents Are Too Good Now](channels/greg-isenberg/2026-07-27-marketing-agents-are-too-good-now-U2hogriGmEw.md)
 - 2026-07-24 · [Most Valuable Skill of 2026: Managing AI Agents](channels/greg-isenberg/2026-07-24-most-valuable-skill-of-2026-managing-ai-agents-vJEy3nP2_C8.md)
 
-### [a16z](channels/a16z/README.md) · 55 篇
+### [a16z](channels/a16z/README.md) · 56 篇
 
+- 2026-07-31 · [Decagon’s Playbook for Building Enterprise AI Applications](channels/a16z/2026-07-31-decagon’s-playbook-for-building-enterprise-ai-applications-cO1f2wOxSH4.md)
 - 2026-07-30 · [How Lassie Is Automating Healthcare Administration](channels/a16z/2026-07-30-how-lassie-is-automating-healthcare-administration-Fpg_8aiBxx4.md)
 - 2026-07-28 · [The Next Frontier of AI Is Spatial Intelligence | Fei-Fei Li on a16z](channels/a16z/2026-07-28-the-next-frontier-of-ai-is-spatial-intelligence-fei-fei-li-on-a16z--tabaM5l3s0.md)
-- 2026-07-22 · [Building a Company in Stealth | Travis Kalanick with a16z](channels/a16z/2026-07-22-building-a-company-in-stealth-travis-kalanick-with-a16z-z6gH_v0buUc.md)
 
 ### [Riley Brown](channels/riley-brown/README.md) · 53 篇
 
@@ -94,8 +94,13 @@
 
 ## 最新更新
 
+### 2026-08-01
+
+- [E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿](channels/硅谷101/2026-08-01-e246-何谓蒸馏-聊聊硅谷如何看中国开放模型逼近前沿-evm0wG6QxkA.md) · 硅谷101
+
 ### 2026-07-31
 
+- [Decagon’s Playbook for Building Enterprise AI Applications](channels/a16z/2026-07-31-decagon’s-playbook-for-building-enterprise-ai-applications-cO1f2wOxSH4.md) · a16z
 - [149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark](channels/张晓珺/2026-07-31-149.-亲历中美neo-labs资本狂潮,和清华刘子鸣聊-ai-for-ai、机制可解释性和max-tegmark-H3Gs4QUHvA4.md) · 张晓珺
 
 ### 2026-07-30
@@ -133,8 +138,6 @@
 ### 2026-07-24
 
 - [OpenAI just released Codex Voice (It's basically Jarvis)](channels/riley-brown/2026-07-24-openai-just-released-codex-voice-(it's-basically-jarvis)-hLFs9JtMaRg.md) · Riley Brown
-- [Most Valuable Skill of 2026: Managing AI Agents](channels/greg-isenberg/2026-07-24-most-valuable-skill-of-2026-managing-ai-agents-vJEy3nP2_C8.md) · Greg Isenberg
-- [E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的](channels/硅谷101/2026-07-24-e245-藏在大模型背后的新闻人-gpt们的回复是这样写出来的-ifyzclKzVOA.md) · 硅谷101
 
 ## 数据与自动更新
 

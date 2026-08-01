@@ -1,5 +1,53 @@
 [
   {
+    "id": "evm0wG6QxkA",
+    "video_id": "evm0wG6QxkA",
+    "title": "E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿",
+    "channel": "硅谷101",
+    "published": "2026-08-01",
+    "source_url": "https://www.youtube.com/watch?v=evm0wG6QxkA",
+    "notion_url": "",
+    "tags": [
+      "AI开源",
+      "Kimi K3",
+      "模型蒸馏",
+      "AI商业模式",
+      "安全监管"
+    ],
+    "rating": 5,
+    "language": "中文",
+    "word_count": 19216,
+    "duration": "1:07:13",
+    "duration_seconds": 4033,
+    "path": "channels/硅谷101/2026-08-01-e246-何谓蒸馏-聊聊硅谷如何看中国开放模型逼近前沿-evm0wG6QxkA.md",
+    "structured_path": "channels/硅谷101/2026-08-01-e246-何谓蒸馏-聊聊硅谷如何看中国开放模型逼近前沿-evm0wG6QxkA.structured.md",
+    "transcript_path": "channels/硅谷101/2026-08-01-e246-何谓蒸馏-聊聊硅谷如何看中国开放模型逼近前沿-evm0wG6QxkA.transcript.md"
+  },
+  {
+    "id": "cO1f2wOxSH4",
+    "video_id": "cO1f2wOxSH4",
+    "title": "Decagon’s Playbook for Building Enterprise AI Applications",
+    "channel": "a16z",
+    "published": "2026-07-31",
+    "source_url": "https://www.youtube.com/watch?v=cO1f2wOxSH4",
+    "notion_url": "",
+    "tags": [
+      "AI应用",
+      "开源模型",
+      "企业级AI",
+      "创始人战略",
+      "智能体"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 27848,
+    "duration": "1:20:16",
+    "duration_seconds": 4816,
+    "path": "channels/a16z/2026-07-31-decagon’s-playbook-for-building-enterprise-ai-applications-cO1f2wOxSH4.md",
+    "structured_path": "channels/a16z/2026-07-31-decagon’s-playbook-for-building-enterprise-ai-applications-cO1f2wOxSH4.structured.md",
+    "transcript_path": "channels/a16z/2026-07-31-decagon’s-playbook-for-building-enterprise-ai-applications-cO1f2wOxSH4.transcript.md"
+  },
+  {
     "id": "H3Gs4QUHvA4",
     "video_id": "H3Gs4QUHvA4",
     "title": "149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark",

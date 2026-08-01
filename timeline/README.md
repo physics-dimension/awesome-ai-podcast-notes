@@ -6,8 +6,13 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-07-31](2026/07/2026-07-31.md) · 1 篇
+## [2026-08-01](2026/08/2026-08-01.md) · 1 篇
 
+- [E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿](../channels/硅谷101/2026-08-01-e246-何谓蒸馏-聊聊硅谷如何看中国开放模型逼近前沿-evm0wG6QxkA.md) · 硅谷101
+
+## [2026-07-31](2026/07/2026-07-31.md) · 2 篇
+
+- [Decagon’s Playbook for Building Enterprise AI Applications](../channels/a16z/2026-07-31-decagon’s-playbook-for-building-enterprise-ai-applications-cO1f2wOxSH4.md) · a16z
 - [149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark](../channels/张晓珺/2026-07-31-149.-亲历中美neo-labs资本狂潮,和清华刘子鸣聊-ai-for-ai、机制可解释性和max-tegmark-H3Gs4QUHvA4.md) · 张晓珺
 
 ## [2026-07-30](2026/07/2026-07-30.md) · 2 篇

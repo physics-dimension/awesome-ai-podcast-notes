@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 753 |
+| Notes | 755 |
 | Channels | 16 |
-| Structured notes | 430 |
-| Raw transcripts | 713 |
+| Structured notes | 432 |
+| Raw transcripts | 715 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-07-31 |
-| Archive updated | 2026-07-31 |
+| Latest source date | 2026-08-01 |
+| Archive updated | 2026-08-01 |
 
 Each episode can include up to three versions:
 
@@ -51,11 +51,11 @@ Each episode can include up to three versions:
 - 2026-07-27 · [Marketing Agents Are Too Good Now](channels/greg-isenberg/2026-07-27-marketing-agents-are-too-good-now-U2hogriGmEw.md)
 - 2026-07-24 · [Most Valuable Skill of 2026: Managing AI Agents](channels/greg-isenberg/2026-07-24-most-valuable-skill-of-2026-managing-ai-agents-vJEy3nP2_C8.md)
 
-### [a16z](channels/a16z/README.md) · 55 notes
+### [a16z](channels/a16z/README.md) · 56 notes
 
+- 2026-07-31 · [Decagon’s Playbook for Building Enterprise AI Applications](channels/a16z/2026-07-31-decagon’s-playbook-for-building-enterprise-ai-applications-cO1f2wOxSH4.md)
 - 2026-07-30 · [How Lassie Is Automating Healthcare Administration](channels/a16z/2026-07-30-how-lassie-is-automating-healthcare-administration-Fpg_8aiBxx4.md)
 - 2026-07-28 · [The Next Frontier of AI Is Spatial Intelligence | Fei-Fei Li on a16z](channels/a16z/2026-07-28-the-next-frontier-of-ai-is-spatial-intelligence-fei-fei-li-on-a16z--tabaM5l3s0.md)
-- 2026-07-22 · [Building a Company in Stealth | Travis Kalanick with a16z](channels/a16z/2026-07-22-building-a-company-in-stealth-travis-kalanick-with-a16z-z6gH_v0buUc.md)
 
 ### [Riley Brown](channels/riley-brown/README.md) · 53 notes
 
@@ -83,8 +83,13 @@ Each episode can include up to three versions:
 
 ## Latest Updates
 
+### 2026-08-01
+
+- [E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿](channels/硅谷101/2026-08-01-e246-何谓蒸馏-聊聊硅谷如何看中国开放模型逼近前沿-evm0wG6QxkA.md) · 硅谷101
+
 ### 2026-07-31
 
+- [Decagon’s Playbook for Building Enterprise AI Applications](channels/a16z/2026-07-31-decagon’s-playbook-for-building-enterprise-ai-applications-cO1f2wOxSH4.md) · a16z
 - [149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark](channels/张晓珺/2026-07-31-149.-亲历中美neo-labs资本狂潮,和清华刘子鸣聊-ai-for-ai、机制可解释性和max-tegmark-H3Gs4QUHvA4.md) · 张晓珺
 
 ### 2026-07-30
@@ -122,8 +127,6 @@ Each episode can include up to three versions:
 ### 2026-07-24
 
 - [OpenAI just released Codex Voice (It's basically Jarvis)](channels/riley-brown/2026-07-24-openai-just-released-codex-voice-(it's-basically-jarvis)-hLFs9JtMaRg.md) · Riley Brown
-- [Most Valuable Skill of 2026: Managing AI Agents](channels/greg-isenberg/2026-07-24-most-valuable-skill-of-2026-managing-ai-agents-vJEy3nP2_C8.md) · Greg Isenberg
-- [E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的](channels/硅谷101/2026-07-24-e245-藏在大模型背后的新闻人-gpt们的回复是这样写出来的-ifyzclKzVOA.md) · 硅谷101
 
 ## Data
 
