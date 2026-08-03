@@ -6,6 +6,11 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-08-02](2026/08/2026-08-02.md) · 2 篇
+
+- [【十字路口】「热爱一个行业15年的理由是什么？」｜对谈汪天凡：我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】](../channels/koji-yang/2026-08-02-【十字路口】「热爱一个行业15年的理由是什么-」-对谈汪天凡-我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】-TjLHRq5iTzA.md) · Koji Yang
+- [This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)](../channels/lenny's-podcast/2026-08-02-this-cpo-regrets-that-product-management-exists-tom-verrilli-(cpo-of-whatnot)-ruvis-VWg2s.md) · Lenny's Podcast
+
 ## [2026-08-01](2026/08/2026-08-01.md) · 1 篇
 
 - [E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿](../channels/硅谷101/2026-08-01-e246-何谓蒸馏-聊聊硅谷如何看中国开放模型逼近前沿-evm0wG6QxkA.md) · 硅谷101

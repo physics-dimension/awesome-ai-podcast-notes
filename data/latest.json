@@ -1,5 +1,53 @@
 [
   {
+    "id": "TjLHRq5iTzA",
+    "video_id": "TjLHRq5iTzA",
+    "title": "【十字路口】「热爱一个行业15年的理由是什么？」｜对谈汪天凡：我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】",
+    "channel": "Koji Yang",
+    "published": "2026-08-02",
+    "source_url": "https://www.youtube.com/watch?v=TjLHRq5iTzA",
+    "notion_url": "",
+    "tags": [
+      "AI投资",
+      "VC",
+      "智能与智慧",
+      "AI硬件",
+      "注意力经济"
+    ],
+    "rating": 5,
+    "language": "中文",
+    "word_count": 22607,
+    "duration": "51:19",
+    "duration_seconds": 3079,
+    "path": "channels/koji-yang/2026-08-02-【十字路口】「热爱一个行业15年的理由是什么-」-对谈汪天凡-我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】-TjLHRq5iTzA.md",
+    "structured_path": "channels/koji-yang/2026-08-02-【十字路口】「热爱一个行业15年的理由是什么-」-对谈汪天凡-我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】-TjLHRq5iTzA.structured.md",
+    "transcript_path": "channels/koji-yang/2026-08-02-【十字路口】「热爱一个行业15年的理由是什么-」-对谈汪天凡-我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】-TjLHRq5iTzA.transcript.md"
+  },
+  {
+    "id": "ruvis-VWg2s",
+    "video_id": "ruvis-VWg2s",
+    "title": "This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)",
+    "channel": "Lenny's Podcast",
+    "published": "2026-08-02",
+    "source_url": "https://www.youtube.com/watch?v=ruvis-VWg2s",
+    "notion_url": "",
+    "tags": [
+      "产品管理",
+      "AI",
+      "组织设计",
+      "招聘",
+      "领导力"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 20956,
+    "duration": "1:24:58",
+    "duration_seconds": 5098,
+    "path": "channels/lenny's-podcast/2026-08-02-this-cpo-regrets-that-product-management-exists-tom-verrilli-(cpo-of-whatnot)-ruvis-VWg2s.md",
+    "structured_path": "channels/lenny's-podcast/2026-08-02-this-cpo-regrets-that-product-management-exists-tom-verrilli-(cpo-of-whatnot)-ruvis-VWg2s.structured.md",
+    "transcript_path": "channels/lenny's-podcast/2026-08-02-this-cpo-regrets-that-product-management-exists-tom-verrilli-(cpo-of-whatnot)-ruvis-VWg2s.transcript.md"
+  },
+  {
     "id": "evm0wG6QxkA",
     "video_id": "evm0wG6QxkA",
     "title": "E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿",
@@ -1167,53 +1215,5 @@
     "path": "channels/latent-space/2026-07-10-podcast-crossover-aie,-agi,-frontier-lab-strategy-with-​-⁨@matthew_berman⁩-and-@swyxtv-bIOCKXcxloQ.md",
     "structured_path": "channels/latent-space/2026-07-10-podcast-crossover-aie,-agi,-frontier-lab-strategy-with-​-⁨@matthew_berman⁩-and-@swyxtv-bIOCKXcxloQ.structured.md",
     "transcript_path": "channels/latent-space/2026-07-10-podcast-crossover-aie,-agi,-frontier-lab-strategy-with-​-⁨@matthew_berman⁩-and-@swyxtv-bIOCKXcxloQ.transcript.md"
-  },
-  {
-    "id": "LvsQR7Vc4fQ",
-    "video_id": "LvsQR7Vc4fQ",
-    "title": "Grok 4.5 is a bigger deal than Fable 5",
-    "channel": "Greg Isenberg",
-    "published": "2026-07-10",
-    "source_url": "https://www.youtube.com/watch?v=LvsQR7Vc4fQ",
-    "notion_url": "",
-    "tags": [
-      "AI代理",
-      "Grok 4.5",
-      "Hermes",
-      "创业效率",
-      "MCP生态"
-    ],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 8421,
-    "duration": "56:00",
-    "duration_seconds": 3360,
-    "path": "channels/greg-isenberg/2026-07-10-grok-4.5-is-a-bigger-deal-than-fable-5-LvsQR7Vc4fQ.md",
-    "structured_path": "channels/greg-isenberg/2026-07-10-grok-4.5-is-a-bigger-deal-than-fable-5-LvsQR7Vc4fQ.structured.md",
-    "transcript_path": "channels/greg-isenberg/2026-07-10-grok-4.5-is-a-bigger-deal-than-fable-5-LvsQR7Vc4fQ.transcript.md"
-  },
-  {
-    "id": "tikoC9i9RH4",
-    "video_id": "tikoC9i9RH4",
-    "title": "E243｜特朗普“缓刑”红牌之外，美国资本如何硬控全球足坛",
-    "channel": "硅谷101",
-    "published": "2026-07-10",
-    "source_url": "https://www.youtube.com/watch?v=tikoC9i9RH4",
-    "notion_url": "",
-    "tags": [
-      "美国资本",
-      "欧洲足球",
-      "英超",
-      "体育商业化",
-      "全球化"
-    ],
-    "rating": 5,
-    "language": "中文",
-    "word_count": 10641,
-    "duration": "1:16:29",
-    "duration_seconds": 4589,
-    "path": "channels/硅谷101/2026-07-10-e243-特朗普“缓刑”红牌之外,美国资本如何硬控全球足坛-tikoC9i9RH4.md",
-    "structured_path": "channels/硅谷101/2026-07-10-e243-特朗普“缓刑”红牌之外,美国资本如何硬控全球足坛-tikoC9i9RH4.structured.md",
-    "transcript_path": "channels/硅谷101/2026-07-10-e243-特朗普“缓刑”红牌之外,美国资本如何硬控全球足坛-tikoC9i9RH4.transcript.md"
   }
 ]
