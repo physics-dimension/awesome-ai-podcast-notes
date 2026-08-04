@@ -1,5 +1,53 @@
 [
   {
+    "id": "JWhICz1QR8M",
+    "video_id": "JWhICz1QR8M",
+    "title": "Why Graph Engineering will 10x your Claude/Codex",
+    "channel": "Greg Isenberg",
+    "published": "2026-08-03",
+    "source_url": "https://www.youtube.com/watch?v=JWhICz1QR8M",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "图工程",
+      "Agent",
+      "工作流",
+      "创业"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 13727,
+    "duration": "26:29",
+    "duration_seconds": 1589,
+    "path": "channels/greg-isenberg/2026-08-03-why-graph-engineering-will-10x-your-claude-codex-JWhICz1QR8M.md",
+    "structured_path": "channels/greg-isenberg/2026-08-03-why-graph-engineering-will-10x-your-claude-codex-JWhICz1QR8M.structured.md",
+    "transcript_path": "channels/greg-isenberg/2026-08-03-why-graph-engineering-will-10x-your-claude-codex-JWhICz1QR8M.transcript.md"
+  },
+  {
+    "id": "7PSXtru6mmY",
+    "video_id": "7PSXtru6mmY",
+    "title": "The Inference Frontier: 10x Faster Models to Self-Optimizing AI — Philip Kiely & Ali Taha, Baseten",
+    "channel": "Latent Space",
+    "published": "2026-08-03",
+    "source_url": "https://www.youtube.com/watch?v=7PSXtru6mmY",
+    "notion_url": "",
+    "tags": [
+      "推理工程",
+      "GPU优化",
+      "量化",
+      "投机解码",
+      "AI基础设施"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 22480,
+    "duration": "1:42:54",
+    "duration_seconds": 6174,
+    "path": "channels/latent-space/2026-08-03-the-inference-frontier-10x-faster-models-to-self-optimizing-ai-—-philip-kiely-&-ali-taha,-baseten-7PSXtru6mmY.md",
+    "structured_path": "channels/latent-space/2026-08-03-the-inference-frontier-10x-faster-models-to-self-optimizing-ai-—-philip-kiely-&-ali-taha,-baseten-7PSXtru6mmY.structured.md",
+    "transcript_path": "channels/latent-space/2026-08-03-the-inference-frontier-10x-faster-models-to-self-optimizing-ai-—-philip-kiely-&-ali-taha,-baseten-7PSXtru6mmY.transcript.md"
+  },
+  {
     "id": "TjLHRq5iTzA",
     "video_id": "TjLHRq5iTzA",
     "title": "【十字路口】「热爱一个行业15年的理由是什么？」｜对谈汪天凡：我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】",
@@ -1167,53 +1215,5 @@
     "path": "channels/riley-brown/2026-07-12-openai-just-merged-chatgpt-and-codex.-this-changes-everything-Fv0XfyLT3xU.md",
     "structured_path": "channels/riley-brown/2026-07-12-openai-just-merged-chatgpt-and-codex.-this-changes-everything-Fv0XfyLT3xU.structured.md",
     "transcript_path": "channels/riley-brown/2026-07-12-openai-just-merged-chatgpt-and-codex.-this-changes-everything-Fv0XfyLT3xU.transcript.md"
-  },
-  {
-    "id": "K796MYUgt0k",
-    "video_id": "K796MYUgt0k",
-    "title": "Why AI Agents Don't Actually Understand You — Danielle Perszyk, Amazon AGI Lab",
-    "channel": "Latent Space",
-    "published": "2026-07-11",
-    "source_url": "https://www.youtube.com/watch?v=K796MYUgt0k",
-    "notion_url": "",
-    "tags": [
-      "AI智能体",
-      "AGI",
-      "AmazonAGI",
-      "人机交互",
-      "认知科学"
-    ],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 9499,
-    "duration": "48:54",
-    "duration_seconds": 2934,
-    "path": "channels/latent-space/2026-07-11-why-ai-agents-don't-actually-understand-you-—-danielle-perszyk,-amazon-agi-lab-K796MYUgt0k.md",
-    "structured_path": "channels/latent-space/2026-07-11-why-ai-agents-don't-actually-understand-you-—-danielle-perszyk,-amazon-agi-lab-K796MYUgt0k.structured.md",
-    "transcript_path": "channels/latent-space/2026-07-11-why-ai-agents-don't-actually-understand-you-—-danielle-perszyk,-amazon-agi-lab-K796MYUgt0k.transcript.md"
-  },
-  {
-    "id": "bIOCKXcxloQ",
-    "video_id": "bIOCKXcxloQ",
-    "title": "Podcast Crossover: AIE, AGI, frontier lab strategy with ​ ⁨@matthew_berman⁩  and @swyxtv",
-    "channel": "Latent Space",
-    "published": "2026-07-10",
-    "source_url": "https://www.youtube.com/watch?v=bIOCKXcxloQ",
-    "notion_url": "",
-    "tags": [
-      "AI工程",
-      "Agent Lab",
-      "AI芯片",
-      "Anthropic",
-      "创业方法论"
-    ],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 10017,
-    "duration": "28:03",
-    "duration_seconds": 1683,
-    "path": "channels/latent-space/2026-07-10-podcast-crossover-aie,-agi,-frontier-lab-strategy-with-​-⁨@matthew_berman⁩-and-@swyxtv-bIOCKXcxloQ.md",
-    "structured_path": "channels/latent-space/2026-07-10-podcast-crossover-aie,-agi,-frontier-lab-strategy-with-​-⁨@matthew_berman⁩-and-@swyxtv-bIOCKXcxloQ.structured.md",
-    "transcript_path": "channels/latent-space/2026-07-10-podcast-crossover-aie,-agi,-frontier-lab-strategy-with-​-⁨@matthew_berman⁩-and-@swyxtv-bIOCKXcxloQ.transcript.md"
   }
 ]

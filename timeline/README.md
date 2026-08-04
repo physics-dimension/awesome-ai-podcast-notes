@@ -6,6 +6,11 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-08-03](2026/08/2026-08-03.md) · 2 篇
+
+- [Why Graph Engineering will 10x your Claude/Codex](../channels/greg-isenberg/2026-08-03-why-graph-engineering-will-10x-your-claude-codex-JWhICz1QR8M.md) · Greg Isenberg
+- [The Inference Frontier: 10x Faster Models to Self-Optimizing AI — Philip Kiely & Ali Taha, Baseten](../channels/latent-space/2026-08-03-the-inference-frontier-10x-faster-models-to-self-optimizing-ai-—-philip-kiely-&-ali-taha,-baseten-7PSXtru6mmY.md) · Latent Space
+
 ## [2026-08-02](2026/08/2026-08-02.md) · 2 篇
 
 - [【十字路口】「热爱一个行业15年的理由是什么？」｜对谈汪天凡：我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】](../channels/koji-yang/2026-08-02-【十字路口】「热爱一个行业15年的理由是什么-」-对谈汪天凡-我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】-TjLHRq5iTzA.md) · Koji Yang

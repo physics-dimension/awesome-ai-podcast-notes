@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 757 |
+| Notes | 759 |
 | Channels | 16 |
-| Structured notes | 434 |
-| Raw transcripts | 717 |
+| Structured notes | 436 |
+| Raw transcripts | 719 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-08-02 |
-| Archive updated | 2026-08-03 |
+| Latest source date | 2026-08-03 |
+| Archive updated | 2026-08-04 |
 
 Each episode can include up to three versions:
 
@@ -39,17 +39,17 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [Latent Space](channels/latent-space/README.md) · 69 notes
+### [Latent Space](channels/latent-space/README.md) · 70 notes
 
+- 2026-08-03 · [The Inference Frontier: 10x Faster Models to Self-Optimizing AI — Philip Kiely & Ali Taha, Baseten](channels/latent-space/2026-08-03-the-inference-frontier-10x-faster-models-to-self-optimizing-ai-—-philip-kiely-&-ali-taha,-baseten-7PSXtru6mmY.md)
 - 2026-07-28 · [OpenAI’s Plan to Make ChatGPT the Everything App — Akshay Nathan, OpenAI](channels/latent-space/2026-07-28-openai’s-plan-to-make-chatgpt-the-everything-app-—-akshay-nathan,-openai-gKhW6vL4V9A.md)
 - 2026-07-22 · [Poolside’s Model Factory, Laguna S, Open Models, and the Race to AGI — Eiso Kant, Poolside AI](channels/latent-space/2026-07-22-poolside’s-model-factory,-laguna-s,-open-models,-and-the-race-to-agi-—-eiso-kant,-poolside-ai-9_0hs2sxHHo.md)
-- 2026-07-21 · [Causal Models Need Causal Data - Xaira’s X-Cell model (Bo Wang & Ci Chu)](channels/latent-space/2026-07-21-causal-models-need-causal-data-xaira’s-x-cell-model-(bo-wang-&-ci-chu)-2AdS-2uuH80.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 57 notes
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 58 notes
 
+- 2026-08-03 · [Why Graph Engineering will 10x your Claude/Codex](channels/greg-isenberg/2026-08-03-why-graph-engineering-will-10x-your-claude-codex-JWhICz1QR8M.md)
 - 2026-07-28 · [Jack Dorsey's Buzz: The New Hermes Agent?](channels/greg-isenberg/2026-07-28-jack-dorsey's-buzz-the-new-hermes-agent-_jGSgzBkzrY.md)
 - 2026-07-27 · [Marketing Agents Are Too Good Now](channels/greg-isenberg/2026-07-27-marketing-agents-are-too-good-now-U2hogriGmEw.md)
-- 2026-07-24 · [Most Valuable Skill of 2026: Managing AI Agents](channels/greg-isenberg/2026-07-24-most-valuable-skill-of-2026-managing-ai-agents-vJEy3nP2_C8.md)
 
 ### [a16z](channels/a16z/README.md) · 56 notes
 
@@ -82,6 +82,11 @@ Each episode can include up to three versions:
 - 2026-06-29 · [The AI Agents Helping Home Services Book More Jobs](channels/y-combinator/2026-06-29-the-ai-agents-helping-home-services-book-more-jobs-EHp1HgwCo9I.md)
 
 ## Latest Updates
+
+### 2026-08-03
+
+- [Why Graph Engineering will 10x your Claude/Codex](channels/greg-isenberg/2026-08-03-why-graph-engineering-will-10x-your-claude-codex-JWhICz1QR8M.md) · Greg Isenberg
+- [The Inference Frontier: 10x Faster Models to Self-Optimizing AI — Philip Kiely & Ali Taha, Baseten](channels/latent-space/2026-08-03-the-inference-frontier-10x-faster-models-to-self-optimizing-ai-—-philip-kiely-&-ali-taha,-baseten-7PSXtru6mmY.md) · Latent Space
 
 ### 2026-08-02
 
@@ -119,11 +124,6 @@ Each episode can include up to three versions:
 
 - [Marketing Agents Are Too Good Now](channels/greg-isenberg/2026-07-27-marketing-agents-are-too-good-now-U2hogriGmEw.md) · Greg Isenberg
 - [Claude Opus 5 is INSANE at Excel (Better Than Fable)](channels/riley-brown/2026-07-27-claude-opus-5-is-insane-at-excel-(better-than-fable)-fZ1Kmuafzzk.md) · Riley Brown
-
-### 2026-07-26
-
-- [【十字路口】11 年，110 亿美金，然后呢？｜对话 Airwallex 吴恺：AI 时代，下一站 1000 亿【视频播客】](channels/koji-yang/2026-07-26-【十字路口】11-年,110-亿美金,然后呢-对话-airwallex-吴恺-ai-时代,下一站-1000-亿【视频播客】-h8hI597d4iQ.md) · Koji Yang
-- [How Anthropic builds products like Claude Code before the AI models are ready | Dianne Penn](channels/lenny's-podcast/2026-07-26-how-anthropic-builds-products-like-claude-code-before-the-ai-models-are-ready-dianne-penn-tivaWTTVRhY.md) · Lenny's Podcast
 
 ## Data
 

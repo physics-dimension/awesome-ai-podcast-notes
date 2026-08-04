@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-757-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-759-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 757 |
+| 笔记 | 759 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 434 |
-| 原始文稿 | 717 |
+| 结构化文稿 | 436 |
+| 原始文稿 | 719 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-08-02 |
-| 仓库更新日期 | 2026-08-03 |
+| 最新来源日期 | 2026-08-03 |
+| 仓库更新日期 | 2026-08-04 |
 
 ## 适合谁
 
@@ -50,17 +50,17 @@
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [Latent Space](channels/latent-space/README.md) · 69 篇
+### [Latent Space](channels/latent-space/README.md) · 70 篇
 
+- 2026-08-03 · [The Inference Frontier: 10x Faster Models to Self-Optimizing AI — Philip Kiely & Ali Taha, Baseten](channels/latent-space/2026-08-03-the-inference-frontier-10x-faster-models-to-self-optimizing-ai-—-philip-kiely-&-ali-taha,-baseten-7PSXtru6mmY.md)
 - 2026-07-28 · [OpenAI’s Plan to Make ChatGPT the Everything App — Akshay Nathan, OpenAI](channels/latent-space/2026-07-28-openai’s-plan-to-make-chatgpt-the-everything-app-—-akshay-nathan,-openai-gKhW6vL4V9A.md)
 - 2026-07-22 · [Poolside’s Model Factory, Laguna S, Open Models, and the Race to AGI — Eiso Kant, Poolside AI](channels/latent-space/2026-07-22-poolside’s-model-factory,-laguna-s,-open-models,-and-the-race-to-agi-—-eiso-kant,-poolside-ai-9_0hs2sxHHo.md)
-- 2026-07-21 · [Causal Models Need Causal Data - Xaira’s X-Cell model (Bo Wang & Ci Chu)](channels/latent-space/2026-07-21-causal-models-need-causal-data-xaira’s-x-cell-model-(bo-wang-&-ci-chu)-2AdS-2uuH80.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 57 篇
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 58 篇
 
+- 2026-08-03 · [Why Graph Engineering will 10x your Claude/Codex](channels/greg-isenberg/2026-08-03-why-graph-engineering-will-10x-your-claude-codex-JWhICz1QR8M.md)
 - 2026-07-28 · [Jack Dorsey's Buzz: The New Hermes Agent?](channels/greg-isenberg/2026-07-28-jack-dorsey's-buzz-the-new-hermes-agent-_jGSgzBkzrY.md)
 - 2026-07-27 · [Marketing Agents Are Too Good Now](channels/greg-isenberg/2026-07-27-marketing-agents-are-too-good-now-U2hogriGmEw.md)
-- 2026-07-24 · [Most Valuable Skill of 2026: Managing AI Agents](channels/greg-isenberg/2026-07-24-most-valuable-skill-of-2026-managing-ai-agents-vJEy3nP2_C8.md)
 
 ### [a16z](channels/a16z/README.md) · 56 篇
 
@@ -93,6 +93,11 @@
 - 2026-06-29 · [The AI Agents Helping Home Services Book More Jobs](channels/y-combinator/2026-06-29-the-ai-agents-helping-home-services-book-more-jobs-EHp1HgwCo9I.md)
 
 ## 最新更新
+
+### 2026-08-03
+
+- [Why Graph Engineering will 10x your Claude/Codex](channels/greg-isenberg/2026-08-03-why-graph-engineering-will-10x-your-claude-codex-JWhICz1QR8M.md) · Greg Isenberg
+- [The Inference Frontier: 10x Faster Models to Self-Optimizing AI — Philip Kiely & Ali Taha, Baseten](channels/latent-space/2026-08-03-the-inference-frontier-10x-faster-models-to-self-optimizing-ai-—-philip-kiely-&-ali-taha,-baseten-7PSXtru6mmY.md) · Latent Space
 
 ### 2026-08-02
 
@@ -130,11 +135,6 @@
 
 - [Marketing Agents Are Too Good Now](channels/greg-isenberg/2026-07-27-marketing-agents-are-too-good-now-U2hogriGmEw.md) · Greg Isenberg
 - [Claude Opus 5 is INSANE at Excel (Better Than Fable)](channels/riley-brown/2026-07-27-claude-opus-5-is-insane-at-excel-(better-than-fable)-fZ1Kmuafzzk.md) · Riley Brown
-
-### 2026-07-26
-
-- [【十字路口】11 年，110 亿美金，然后呢？｜对话 Airwallex 吴恺：AI 时代，下一站 1000 亿【视频播客】](channels/koji-yang/2026-07-26-【十字路口】11-年,110-亿美金,然后呢-对话-airwallex-吴恺-ai-时代,下一站-1000-亿【视频播客】-h8hI597d4iQ.md) · Koji Yang
-- [How Anthropic builds products like Claude Code before the AI models are ready | Dianne Penn](channels/lenny's-podcast/2026-07-26-how-anthropic-builds-products-like-claude-code-before-the-ai-models-are-ready-dianne-penn-tivaWTTVRhY.md) · Lenny's Podcast
 
 ## 数据与自动更新
 

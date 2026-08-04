@@ -1,9 +1,10 @@
 # Latent Space
 
-69 notes in this channel.
+70 notes in this channel.
 
-本频道共 69 篇。
+本频道共 70 篇。
 
+- 2026-08-03 · [The Inference Frontier: 10x Faster Models to Self-Optimizing AI — Philip Kiely & Ali Taha, Baseten](2026-08-03-the-inference-frontier-10x-faster-models-to-self-optimizing-ai-—-philip-kiely-&-ali-taha,-baseten-7PSXtru6mmY.md)
 - 2026-07-28 · [OpenAI’s Plan to Make ChatGPT the Everything App — Akshay Nathan, OpenAI](2026-07-28-openai’s-plan-to-make-chatgpt-the-everything-app-—-akshay-nathan,-openai-gKhW6vL4V9A.md)
 - 2026-07-22 · [Poolside’s Model Factory, Laguna S, Open Models, and the Race to AGI — Eiso Kant, Poolside AI](2026-07-22-poolside’s-model-factory,-laguna-s,-open-models,-and-the-race-to-agi-—-eiso-kant,-poolside-ai-9_0hs2sxHHo.md)
 - 2026-07-21 · [Causal Models Need Causal Data - Xaira’s X-Cell model (Bo Wang & Ci Chu)](2026-07-21-causal-models-need-causal-data-xaira’s-x-cell-model-(bo-wang-&-ci-chu)-2AdS-2uuH80.md)

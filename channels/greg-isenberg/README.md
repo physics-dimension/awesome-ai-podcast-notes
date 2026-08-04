@@ -1,9 +1,10 @@
 # Greg Isenberg
 
-57 notes in this channel.
+58 notes in this channel.
 
-本频道共 57 篇。
+本频道共 58 篇。
 
+- 2026-08-03 · [Why Graph Engineering will 10x your Claude/Codex](2026-08-03-why-graph-engineering-will-10x-your-claude-codex-JWhICz1QR8M.md)
 - 2026-07-28 · [Jack Dorsey's Buzz: The New Hermes Agent?](2026-07-28-jack-dorsey's-buzz-the-new-hermes-agent-_jGSgzBkzrY.md)
 - 2026-07-27 · [Marketing Agents Are Too Good Now](2026-07-27-marketing-agents-are-too-good-now-U2hogriGmEw.md)
 - 2026-07-24 · [Most Valuable Skill of 2026: Managing AI Agents](2026-07-24-most-valuable-skill-of-2026-managing-ai-agents-vJEy3nP2_C8.md)
