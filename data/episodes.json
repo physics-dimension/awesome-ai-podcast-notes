@@ -1,5 +1,53 @@
 [
   {
+    "id": "mD7JpNHLT70",
+    "video_id": "mD7JpNHLT70",
+    "title": "These AI Marketing Agents Get You Customers",
+    "channel": "Greg Isenberg",
+    "published": "2026-08-05",
+    "source_url": "https://www.youtube.com/watch?v=mD7JpNHLT70",
+    "notion_url": "",
+    "tags": [
+      "AI营销",
+      "增长黑客",
+      "冷外呼",
+      "营销自动化",
+      "SaaS获客"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 13207,
+    "duration": "43:59",
+    "duration_seconds": 2639,
+    "path": "channels/greg-isenberg/2026-08-05-these-ai-marketing-agents-get-you-customers-mD7JpNHLT70.md",
+    "structured_path": "channels/greg-isenberg/2026-08-05-these-ai-marketing-agents-get-you-customers-mD7JpNHLT70.structured.md",
+    "transcript_path": "channels/greg-isenberg/2026-08-05-these-ai-marketing-agents-get-you-customers-mD7JpNHLT70.transcript.md"
+  },
+  {
+    "id": "-9Vh7tsgM7Y",
+    "video_id": "-9Vh7tsgM7Y",
+    "title": "The Nuclear Renaissance - Radiant |  a16z American Dynamism",
+    "channel": "a16z",
+    "published": "2026-08-05",
+    "source_url": "https://www.youtube.com/watch?v=-9Vh7tsgM7Y",
+    "notion_url": "",
+    "tags": [
+      "核能",
+      "创业",
+      "能源",
+      "创新",
+      "清洁能源"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 21656,
+    "duration": "13:14",
+    "duration_seconds": 794,
+    "path": "channels/a16z/2026-08-05-the-nuclear-renaissance-radiant-a16z-american-dynamism--9Vh7tsgM7Y.md",
+    "structured_path": "channels/a16z/2026-08-05-the-nuclear-renaissance-radiant-a16z-american-dynamism--9Vh7tsgM7Y.structured.md",
+    "transcript_path": "channels/a16z/2026-08-05-the-nuclear-renaissance-radiant-a16z-american-dynamism--9Vh7tsgM7Y.transcript.md"
+  },
+  {
     "id": "JWhICz1QR8M",
     "video_id": "JWhICz1QR8M",
     "title": "Why Graph Engineering will 10x your Claude/Codex",

@@ -6,6 +6,11 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-08-05](2026/08/2026-08-05.md) · 2 篇
+
+- [These AI Marketing Agents Get You Customers](../channels/greg-isenberg/2026-08-05-these-ai-marketing-agents-get-you-customers-mD7JpNHLT70.md) · Greg Isenberg
+- [The Nuclear Renaissance - Radiant |  a16z American Dynamism](../channels/a16z/2026-08-05-the-nuclear-renaissance-radiant-a16z-american-dynamism--9Vh7tsgM7Y.md) · a16z
+
 ## [2026-08-03](2026/08/2026-08-03.md) · 2 篇
 
 - [Why Graph Engineering will 10x your Claude/Codex](../channels/greg-isenberg/2026-08-03-why-graph-engineering-will-10x-your-claude-codex-JWhICz1QR8M.md) · Greg Isenberg
