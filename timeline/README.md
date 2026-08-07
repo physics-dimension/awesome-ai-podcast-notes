@@ -6,6 +6,12 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-08-06](2026/08/2026-08-06.md) · 3 篇
+
+- [AI is getting a little out of control](../channels/ai-explained/2026-08-06-ai-is-getting-a-little-out-of-control-xGzseSSStnw.md) · AI Explained
+- [The AI Agent Every Company is About to Build | Vercel CEO Guillermo Rauch](../channels/riley-brown/2026-08-06-the-ai-agent-every-company-is-about-to-build-vercel-ceo-guillermo-rauch-HQXi4snP36I.md) · Riley Brown
+- [How Open Source Became AI's Backbone | Inferact with a16z](../channels/a16z/2026-08-06-how-open-source-became-ai's-backbone-inferact-with-a16z-78-6dUROziQ.md) · a16z
+
 ## [2026-08-05](2026/08/2026-08-05.md) · 2 篇
 
 - [These AI Marketing Agents Get You Customers](../channels/greg-isenberg/2026-08-05-these-ai-marketing-agents-get-you-customers-mD7JpNHLT70.md) · Greg Isenberg

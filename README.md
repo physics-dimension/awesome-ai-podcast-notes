@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-761-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-764-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 761 |
+| 笔记 | 764 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 438 |
-| 原始文稿 | 721 |
+| 结构化文稿 | 441 |
+| 原始文稿 | 724 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-08-05 |
-| 仓库更新日期 | 2026-08-06 |
+| 最新来源日期 | 2026-08-06 |
+| 仓库更新日期 | 2026-08-07 |
 
 ## 适合谁
 
@@ -62,17 +62,17 @@
 - 2026-08-03 · [Why Graph Engineering will 10x your Claude/Codex](channels/greg-isenberg/2026-08-03-why-graph-engineering-will-10x-your-claude-codex-JWhICz1QR8M.md)
 - 2026-07-28 · [Jack Dorsey's Buzz: The New Hermes Agent?](channels/greg-isenberg/2026-07-28-jack-dorsey's-buzz-the-new-hermes-agent-_jGSgzBkzrY.md)
 
-### [a16z](channels/a16z/README.md) · 57 篇
+### [a16z](channels/a16z/README.md) · 58 篇
 
+- 2026-08-06 · [How Open Source Became AI's Backbone | Inferact with a16z](channels/a16z/2026-08-06-how-open-source-became-ai's-backbone-inferact-with-a16z-78-6dUROziQ.md)
 - 2026-08-05 · [The Nuclear Renaissance - Radiant |  a16z American Dynamism](channels/a16z/2026-08-05-the-nuclear-renaissance-radiant-a16z-american-dynamism--9Vh7tsgM7Y.md)
 - 2026-07-31 · [Decagon’s Playbook for Building Enterprise AI Applications](channels/a16z/2026-07-31-decagon’s-playbook-for-building-enterprise-ai-applications-cO1f2wOxSH4.md)
-- 2026-07-30 · [How Lassie Is Automating Healthcare Administration](channels/a16z/2026-07-30-how-lassie-is-automating-healthcare-administration-Fpg_8aiBxx4.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 53 篇
+### [Riley Brown](channels/riley-brown/README.md) · 54 篇
 
+- 2026-08-06 · [The AI Agent Every Company is About to Build | Vercel CEO Guillermo Rauch](channels/riley-brown/2026-08-06-the-ai-agent-every-company-is-about-to-build-vercel-ceo-guillermo-rauch-HQXi4snP36I.md)
 - 2026-07-30 · [Master 95% of Cursor in 60 Minutes](channels/riley-brown/2026-07-30-master-95-of-cursor-in-60-minutes-5DnOOa-5dTU.md)
 - 2026-07-29 · [Claude Code + Codex Can FINALLY Work Together (Buzz AI)](channels/riley-brown/2026-07-29-claude-code-+-codex-can-finally-work-together-(buzz-ai)-P1KpxzLVg7c.md)
-- 2026-07-27 · [Claude Opus 5 is INSANE at Excel (Better Than Fable)](channels/riley-brown/2026-07-27-claude-opus-5-is-insane-at-excel-(better-than-fable)-fZ1Kmuafzzk.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 42 篇
 
@@ -93,6 +93,12 @@
 - 2026-06-29 · [The AI Agents Helping Home Services Book More Jobs](channels/y-combinator/2026-06-29-the-ai-agents-helping-home-services-book-more-jobs-EHp1HgwCo9I.md)
 
 ## 最新更新
+
+### 2026-08-06
+
+- [The AI Agent Every Company is About to Build | Vercel CEO Guillermo Rauch](channels/riley-brown/2026-08-06-the-ai-agent-every-company-is-about-to-build-vercel-ceo-guillermo-rauch-HQXi4snP36I.md) · Riley Brown
+- [How Open Source Became AI's Backbone | Inferact with a16z](channels/a16z/2026-08-06-how-open-source-became-ai's-backbone-inferact-with-a16z-78-6dUROziQ.md) · a16z
+- [AI is getting a little out of control](channels/ai-explained/2026-08-06-ai-is-getting-a-little-out-of-control-xGzseSSStnw.md) · AI Explained
 
 ### 2026-08-05
 
@@ -132,9 +138,6 @@
 - [You Kaichao: vLLM, Open-Source Infra, Model Co-Design & Journey from Community to Startup](channels/张晓珺/2026-07-28-you-kaichao-vllm,-open-source-infra,-model-co-design-&-journey-from-community-to-startup-ifniRXf467I.md) · 张晓珺
 - [The Next Frontier of AI Is Spatial Intelligence | Fei-Fei Li on a16z](channels/a16z/2026-07-28-the-next-frontier-of-ai-is-spatial-intelligence-fei-fei-li-on-a16z--tabaM5l3s0.md) · a16z
 - [OpenAI’s Plan to Make ChatGPT the Everything App — Akshay Nathan, OpenAI](channels/latent-space/2026-07-28-openai’s-plan-to-make-chatgpt-the-everything-app-—-akshay-nathan,-openai-gKhW6vL4V9A.md) · Latent Space
-- [Jack Dorsey's Buzz: The New Hermes Agent?](channels/greg-isenberg/2026-07-28-jack-dorsey's-buzz-the-new-hermes-agent-_jGSgzBkzrY.md) · Greg Isenberg
-- [Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499](channels/lex-fridman/2026-07-28-gary-gallagher-american-civil-war,-slavery,-lincoln,-grant-&-lee-lex-fridman-podcast-499-XyXBwO5jYpw.md) · Lex Fridman
-- [148. 对游凯超3小时访谈：开源Infra、和模型Co-design 、“如果vLLM失败，我们会后悔一辈子”](channels/张晓珺/2026-07-28-148.-对游凯超3小时访谈-开源infra、和模型co-design-、“如果vllm失败,我们会后悔一辈子”-ffdR5fZTC5E.md) · 张晓珺
 
 ## 数据与自动更新
 

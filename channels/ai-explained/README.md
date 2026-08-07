@@ -1,9 +1,10 @@
 # AI Explained
 
-27 notes in this channel.
+28 notes in this channel.
 
-本频道共 27 篇。
+本频道共 28 篇。
 
+- 2026-08-06 · [AI is getting a little out of control](2026-08-06-ai-is-getting-a-little-out-of-control-xGzseSSStnw.md)
 - 2026-07-22 · [GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype](2026-07-22-gpt-6-goes-rogue-the-huggingface-incident,-sans-hype-wzY2fV4Mp3U.md)
 - 2026-07-10 · [A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules](2026-07-10-a-model-explosion-gpt-5.6-sol,-grok-4.5-and-meta-muse-rewrite-the-rules-mWlCituW7wo.md)
 - 2026-07-02 · [Fable 5 vs GPT 5.6 Sol: The Early Results](2026-07-02-fable-5-vs-gpt-5.6-sol-the-early-results-y24lF1q4SFY.md)

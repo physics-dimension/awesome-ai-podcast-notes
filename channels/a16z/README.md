@@ -1,9 +1,10 @@
 # a16z
 
-57 notes in this channel.
+58 notes in this channel.
 
-本频道共 57 篇。
+本频道共 58 篇。
 
+- 2026-08-06 · [How Open Source Became AI's Backbone | Inferact with a16z](2026-08-06-how-open-source-became-ai's-backbone-inferact-with-a16z-78-6dUROziQ.md)
 - 2026-08-05 · [The Nuclear Renaissance - Radiant |  a16z American Dynamism](2026-08-05-the-nuclear-renaissance-radiant-a16z-american-dynamism--9Vh7tsgM7Y.md)
 - 2026-07-31 · [Decagon’s Playbook for Building Enterprise AI Applications](2026-07-31-decagon’s-playbook-for-building-enterprise-ai-applications-cO1f2wOxSH4.md)
 - 2026-07-30 · [How Lassie Is Automating Healthcare Administration](2026-07-30-how-lassie-is-automating-healthcare-administration-Fpg_8aiBxx4.md)

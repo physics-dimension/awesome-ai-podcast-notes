@@ -1,5 +1,78 @@
 [
   {
+    "id": "HQXi4snP36I",
+    "video_id": "HQXi4snP36I",
+    "title": "The AI Agent Every Company is About to Build | Vercel CEO Guillermo Rauch",
+    "channel": "Riley Brown",
+    "published": "2026-08-06",
+    "source_url": "https://www.youtube.com/watch?v=HQXi4snP36I",
+    "notion_url": "",
+    "tags": [
+      "AI代理",
+      "企业转型",
+      "Vercel",
+      "EVE框架",
+      "模型竞争"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 20031,
+    "duration": "54:23",
+    "duration_seconds": 3263,
+    "path": "channels/riley-brown/2026-08-06-the-ai-agent-every-company-is-about-to-build-vercel-ceo-guillermo-rauch-HQXi4snP36I.md",
+    "structured_path": "channels/riley-brown/2026-08-06-the-ai-agent-every-company-is-about-to-build-vercel-ceo-guillermo-rauch-HQXi4snP36I.structured.md",
+    "transcript_path": "channels/riley-brown/2026-08-06-the-ai-agent-every-company-is-about-to-build-vercel-ceo-guillermo-rauch-HQXi4snP36I.transcript.md"
+  },
+  {
+    "id": "78-6dUROziQ",
+    "video_id": "78-6dUROziQ",
+    "title": "How Open Source Became AI's Backbone | Inferact with a16z",
+    "channel": "a16z",
+    "published": "2026-08-06",
+    "source_url": "https://www.youtube.com/watch?v=78-6dUROziQ",
+    "notion_url": "",
+    "tags": [
+      "开源AI",
+      "vLLM",
+      "推理引擎",
+      "Kimi K3",
+      "AI基础设施",
+      "模型经济学"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 20890,
+    "duration": "46:18",
+    "duration_seconds": 2778,
+    "path": "channels/a16z/2026-08-06-how-open-source-became-ai's-backbone-inferact-with-a16z-78-6dUROziQ.md",
+    "structured_path": "channels/a16z/2026-08-06-how-open-source-became-ai's-backbone-inferact-with-a16z-78-6dUROziQ.structured.md",
+    "transcript_path": "channels/a16z/2026-08-06-how-open-source-became-ai's-backbone-inferact-with-a16z-78-6dUROziQ.transcript.md"
+  },
+  {
+    "id": "xGzseSSStnw",
+    "video_id": "xGzseSSStnw",
+    "title": "AI is getting a little out of control",
+    "channel": "AI Explained",
+    "published": "2026-08-06",
+    "source_url": "https://www.youtube.com/watch?v=xGzseSSStnw",
+    "notion_url": "",
+    "tags": [
+      "AI安全",
+      "天才级模型",
+      "数学推理",
+      "网络攻击",
+      "智能体"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 16473,
+    "duration": "31:43",
+    "duration_seconds": 1903,
+    "path": "channels/ai-explained/2026-08-06-ai-is-getting-a-little-out-of-control-xGzseSSStnw.md",
+    "structured_path": "channels/ai-explained/2026-08-06-ai-is-getting-a-little-out-of-control-xGzseSSStnw.structured.md",
+    "transcript_path": "channels/ai-explained/2026-08-06-ai-is-getting-a-little-out-of-control-xGzseSSStnw.transcript.md"
+  },
+  {
     "id": "mD7JpNHLT70",
     "video_id": "mD7JpNHLT70",
     "title": "These AI Marketing Agents Get You Customers",
