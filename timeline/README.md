@@ -6,6 +6,10 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-08-07](2026/08/2026-08-07.md) · 1 篇
+
+- [AI Is Learning to Hack. Faster Than We Expected.](../channels/a16z/2026-08-07-ai-is-learning-to-hack.-faster-than-we-expected-RtNrvPBkwfA.md) · a16z
+
 ## [2026-08-06](2026/08/2026-08-06.md) · 3 篇
 
 - [AI is getting a little out of control](../channels/ai-explained/2026-08-06-ai-is-getting-a-little-out-of-control-xGzseSSStnw.md) · AI Explained

@@ -1,9 +1,10 @@
 # a16z
 
-58 notes in this channel.
+59 notes in this channel.
 
-本频道共 58 篇。
+本频道共 59 篇。
 
+- 2026-08-07 · [AI Is Learning to Hack. Faster Than We Expected.](2026-08-07-ai-is-learning-to-hack.-faster-than-we-expected-RtNrvPBkwfA.md)
 - 2026-08-06 · [How Open Source Became AI's Backbone | Inferact with a16z](2026-08-06-how-open-source-became-ai's-backbone-inferact-with-a16z-78-6dUROziQ.md)
 - 2026-08-05 · [The Nuclear Renaissance - Radiant |  a16z American Dynamism](2026-08-05-the-nuclear-renaissance-radiant-a16z-american-dynamism--9Vh7tsgM7Y.md)
 - 2026-07-31 · [Decagon’s Playbook for Building Enterprise AI Applications](2026-07-31-decagon’s-playbook-for-building-enterprise-ai-applications-cO1f2wOxSH4.md)

@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-764-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-765-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 764 |
+| 笔记 | 765 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 441 |
-| 原始文稿 | 724 |
+| 结构化文稿 | 442 |
+| 原始文稿 | 725 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-08-06 |
-| 仓库更新日期 | 2026-08-07 |
+| 最新来源日期 | 2026-08-07 |
+| 仓库更新日期 | 2026-08-08 |
 
 ## 适合谁
 
@@ -62,11 +62,11 @@
 - 2026-08-03 · [Why Graph Engineering will 10x your Claude/Codex](channels/greg-isenberg/2026-08-03-why-graph-engineering-will-10x-your-claude-codex-JWhICz1QR8M.md)
 - 2026-07-28 · [Jack Dorsey's Buzz: The New Hermes Agent?](channels/greg-isenberg/2026-07-28-jack-dorsey's-buzz-the-new-hermes-agent-_jGSgzBkzrY.md)
 
-### [a16z](channels/a16z/README.md) · 58 篇
+### [a16z](channels/a16z/README.md) · 59 篇
 
+- 2026-08-07 · [AI Is Learning to Hack. Faster Than We Expected.](channels/a16z/2026-08-07-ai-is-learning-to-hack.-faster-than-we-expected-RtNrvPBkwfA.md)
 - 2026-08-06 · [How Open Source Became AI's Backbone | Inferact with a16z](channels/a16z/2026-08-06-how-open-source-became-ai's-backbone-inferact-with-a16z-78-6dUROziQ.md)
 - 2026-08-05 · [The Nuclear Renaissance - Radiant |  a16z American Dynamism](channels/a16z/2026-08-05-the-nuclear-renaissance-radiant-a16z-american-dynamism--9Vh7tsgM7Y.md)
-- 2026-07-31 · [Decagon’s Playbook for Building Enterprise AI Applications](channels/a16z/2026-07-31-decagon’s-playbook-for-building-enterprise-ai-applications-cO1f2wOxSH4.md)
 
 ### [Riley Brown](channels/riley-brown/README.md) · 54 篇
 
@@ -93,6 +93,10 @@
 - 2026-06-29 · [The AI Agents Helping Home Services Book More Jobs](channels/y-combinator/2026-06-29-the-ai-agents-helping-home-services-book-more-jobs-EHp1HgwCo9I.md)
 
 ## 最新更新
+
+### 2026-08-07
+
+- [AI Is Learning to Hack. Faster Than We Expected.](channels/a16z/2026-08-07-ai-is-learning-to-hack.-faster-than-we-expected-RtNrvPBkwfA.md) · a16z
 
 ### 2026-08-06
 
@@ -137,7 +141,6 @@
 
 - [You Kaichao: vLLM, Open-Source Infra, Model Co-Design & Journey from Community to Startup](channels/张晓珺/2026-07-28-you-kaichao-vllm,-open-source-infra,-model-co-design-&-journey-from-community-to-startup-ifniRXf467I.md) · 张晓珺
 - [The Next Frontier of AI Is Spatial Intelligence | Fei-Fei Li on a16z](channels/a16z/2026-07-28-the-next-frontier-of-ai-is-spatial-intelligence-fei-fei-li-on-a16z--tabaM5l3s0.md) · a16z
-- [OpenAI’s Plan to Make ChatGPT the Everything App — Akshay Nathan, OpenAI](channels/latent-space/2026-07-28-openai’s-plan-to-make-chatgpt-the-everything-app-—-akshay-nathan,-openai-gKhW6vL4V9A.md) · Latent Space
 
 ## 数据与自动更新
 

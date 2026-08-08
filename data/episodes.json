@@ -1,5 +1,29 @@
 [
   {
+    "id": "RtNrvPBkwfA",
+    "video_id": "RtNrvPBkwfA",
+    "title": "AI Is Learning to Hack. Faster Than We Expected.",
+    "channel": "a16z",
+    "published": "2026-08-07",
+    "source_url": "https://www.youtube.com/watch?v=RtNrvPBkwfA",
+    "notion_url": "",
+    "tags": [
+      "AI安全",
+      "供应链攻击",
+      "密钥管理",
+      "网络防御",
+      "Agent安全"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 13189,
+    "duration": "23:48",
+    "duration_seconds": 1428,
+    "path": "channels/a16z/2026-08-07-ai-is-learning-to-hack.-faster-than-we-expected-RtNrvPBkwfA.md",
+    "structured_path": "channels/a16z/2026-08-07-ai-is-learning-to-hack.-faster-than-we-expected-RtNrvPBkwfA.structured.md",
+    "transcript_path": "channels/a16z/2026-08-07-ai-is-learning-to-hack.-faster-than-we-expected-RtNrvPBkwfA.transcript.md"
+  },
+  {
     "id": "HQXi4snP36I",
     "video_id": "HQXi4snP36I",
     "title": "The AI Agent Every Company is About to Build | Vercel CEO Guillermo Rauch",
