@@ -1,9 +1,10 @@
 # Lenny's Podcast
 
-42 notes in this channel.
+43 notes in this channel.
 
-本频道共 42 篇。
+本频道共 43 篇。
 
+- 2026-08-09 · [The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor](2026-08-09-the-playbook-for-building-high-talent-density-teams-adam-ward,-head-of-talent-at-cursor-zegYJ6dhIg4.md)
 - 2026-08-02 · [This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)](2026-08-02-this-cpo-regrets-that-product-management-exists-tom-verrilli-(cpo-of-whatnot)-ruvis-VWg2s.md)
 - 2026-07-26 · [How Anthropic builds products like Claude Code before the AI models are ready | Dianne Penn](2026-07-26-how-anthropic-builds-products-like-claude-code-before-the-ai-models-are-ready-dianne-penn-tivaWTTVRhY.md)
 - 2026-07-19 · [Why Netflix is betting on systems thinkers—not specialists—in the AI era | Elizabeth Stone (CPTO)](2026-07-19-why-netflix-is-betting-on-systems-thinkers—not-specialists—in-the-ai-era-elizabeth-stone-(cpto)-t0GiTyz4syY.md)

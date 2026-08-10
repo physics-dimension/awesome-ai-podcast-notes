@@ -6,6 +6,12 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-08-09](2026/08/2026-08-09.md) · 3 篇
+
+- [【十字路口】「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人【视频播客】](../channels/koji-yang/2026-08-09-【十字路口】「模型能力已经够了,要卷就卷-infra」-对谈戴冠兰-runta-创始人【视频播客】-AMAz05gz7HE.md) · Koji Yang
+- [The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor](../channels/lenny's-podcast/2026-08-09-the-playbook-for-building-high-talent-density-teams-adam-ward,-head-of-talent-at-cursor-zegYJ6dhIg4.md) · Lenny's Podcast
+- [Learn 99% of ChatGPT Work in 61 Minutes (Codex for Work)](../channels/riley-brown/2026-08-09-learn-99-of-chatgpt-work-in-61-minutes-(codex-for-work)-zWL6XGP3Em8.md) · Riley Brown
+
 ## [2026-08-07](2026/08/2026-08-07.md) · 1 篇
 
 - [AI Is Learning to Hack. Faster Than We Expected.](../channels/a16z/2026-08-07-ai-is-learning-to-hack.-faster-than-we-expected-RtNrvPBkwfA.md) · a16z

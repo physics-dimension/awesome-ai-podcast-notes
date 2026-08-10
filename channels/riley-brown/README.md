@@ -1,9 +1,10 @@
 # Riley Brown
 
-54 notes in this channel.
+55 notes in this channel.
 
-本频道共 54 篇。
+本频道共 55 篇。
 
+- 2026-08-09 · [Learn 99% of ChatGPT Work in 61 Minutes (Codex for Work)](2026-08-09-learn-99-of-chatgpt-work-in-61-minutes-(codex-for-work)-zWL6XGP3Em8.md)
 - 2026-08-06 · [The AI Agent Every Company is About to Build | Vercel CEO Guillermo Rauch](2026-08-06-the-ai-agent-every-company-is-about-to-build-vercel-ceo-guillermo-rauch-HQXi4snP36I.md)
 - 2026-07-30 · [Master 95% of Cursor in 60 Minutes](2026-07-30-master-95-of-cursor-in-60-minutes-5DnOOa-5dTU.md)
 - 2026-07-29 · [Claude Code + Codex Can FINALLY Work Together (Buzz AI)](2026-07-29-claude-code-+-codex-can-finally-work-together-(buzz-ai)-P1KpxzLVg7c.md)

@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-765-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-768-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 765 |
+| 笔记 | 768 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 442 |
-| 原始文稿 | 725 |
+| 结构化文稿 | 445 |
+| 原始文稿 | 728 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-08-07 |
-| 仓库更新日期 | 2026-08-08 |
+| 最新来源日期 | 2026-08-09 |
+| 仓库更新日期 | 2026-08-10 |
 
 ## 适合谁
 
@@ -68,17 +68,17 @@
 - 2026-08-06 · [How Open Source Became AI's Backbone | Inferact with a16z](channels/a16z/2026-08-06-how-open-source-became-ai's-backbone-inferact-with-a16z-78-6dUROziQ.md)
 - 2026-08-05 · [The Nuclear Renaissance - Radiant |  a16z American Dynamism](channels/a16z/2026-08-05-the-nuclear-renaissance-radiant-a16z-american-dynamism--9Vh7tsgM7Y.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 54 篇
+### [Riley Brown](channels/riley-brown/README.md) · 55 篇
 
+- 2026-08-09 · [Learn 99% of ChatGPT Work in 61 Minutes (Codex for Work)](channels/riley-brown/2026-08-09-learn-99-of-chatgpt-work-in-61-minutes-(codex-for-work)-zWL6XGP3Em8.md)
 - 2026-08-06 · [The AI Agent Every Company is About to Build | Vercel CEO Guillermo Rauch](channels/riley-brown/2026-08-06-the-ai-agent-every-company-is-about-to-build-vercel-ceo-guillermo-rauch-HQXi4snP36I.md)
 - 2026-07-30 · [Master 95% of Cursor in 60 Minutes](channels/riley-brown/2026-07-30-master-95-of-cursor-in-60-minutes-5DnOOa-5dTU.md)
-- 2026-07-29 · [Claude Code + Codex Can FINALLY Work Together (Buzz AI)](channels/riley-brown/2026-07-29-claude-code-+-codex-can-finally-work-together-(buzz-ai)-P1KpxzLVg7c.md)
 
-### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 42 篇
+### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 43 篇
 
+- 2026-08-09 · [The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor](channels/lenny's-podcast/2026-08-09-the-playbook-for-building-high-talent-density-teams-adam-ward,-head-of-talent-at-cursor-zegYJ6dhIg4.md)
 - 2026-08-02 · [This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)](channels/lenny's-podcast/2026-08-02-this-cpo-regrets-that-product-management-exists-tom-verrilli-(cpo-of-whatnot)-ruvis-VWg2s.md)
 - 2026-07-26 · [How Anthropic builds products like Claude Code before the AI models are ready | Dianne Penn](channels/lenny's-podcast/2026-07-26-how-anthropic-builds-products-like-claude-code-before-the-ai-models-are-ready-dianne-penn-tivaWTTVRhY.md)
-- 2026-07-19 · [Why Netflix is betting on systems thinkers—not specialists—in the AI era | Elizabeth Stone (CPTO)](channels/lenny's-podcast/2026-07-19-why-netflix-is-betting-on-systems-thinkers—not-specialists—in-the-ai-era-elizabeth-stone-(cpto)-t0GiTyz4syY.md)
 
 ### [张晓珺](channels/张晓珺/README.md) · 42 篇
 
@@ -86,13 +86,19 @@
 - 2026-07-28 · [You Kaichao: vLLM, Open-Source Infra, Model Co-Design & Journey from Community to Startup](channels/张晓珺/2026-07-28-you-kaichao-vllm,-open-source-infra,-model-co-design-&-journey-from-community-to-startup-ifniRXf467I.md)
 - 2026-07-28 · [148. 对游凯超3小时访谈：开源Infra、和模型Co-design 、“如果vLLM失败，我们会后悔一辈子”](channels/张晓珺/2026-07-28-148.-对游凯超3小时访谈-开源infra、和模型co-design-、“如果vllm失败,我们会后悔一辈子”-ffdR5fZTC5E.md)
 
-### [Y Combinator](channels/y-combinator/README.md) · 40 篇
+### [Koji Yang](channels/koji-yang/README.md) · 40 篇
 
-- 2026-07-20 · [The First Dedicated YC GPU Cluster - With Together AI](channels/y-combinator/2026-07-20-the-first-dedicated-yc-gpu-cluster-with-together-ai-tOhkv307Pm0.md)
-- 2026-07-16 · [Building the Agentic AI Platform for Hospitals](channels/y-combinator/2026-07-16-building-the-agentic-ai-platform-for-hospitals-3lQQadC6vKg.md)
-- 2026-06-29 · [The AI Agents Helping Home Services Book More Jobs](channels/y-combinator/2026-06-29-the-ai-agents-helping-home-services-book-more-jobs-EHp1HgwCo9I.md)
+- 2026-08-09 · [【十字路口】「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人【视频播客】](channels/koji-yang/2026-08-09-【十字路口】「模型能力已经够了,要卷就卷-infra」-对谈戴冠兰-runta-创始人【视频播客】-AMAz05gz7HE.md)
+- 2026-08-02 · [【十字路口】「热爱一个行业15年的理由是什么？」｜对谈汪天凡：我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】](channels/koji-yang/2026-08-02-【十字路口】「热爱一个行业15年的理由是什么-」-对谈汪天凡-我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】-TjLHRq5iTzA.md)
+- 2026-07-26 · [【十字路口】11 年，110 亿美金，然后呢？｜对话 Airwallex 吴恺：AI 时代，下一站 1000 亿【视频播客】](channels/koji-yang/2026-07-26-【十字路口】11-年,110-亿美金,然后呢-对话-airwallex-吴恺-ai-时代,下一站-1000-亿【视频播客】-h8hI597d4iQ.md)
 
 ## 最新更新
+
+### 2026-08-09
+
+- [【十字路口】「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人【视频播客】](channels/koji-yang/2026-08-09-【十字路口】「模型能力已经够了,要卷就卷-infra」-对谈戴冠兰-runta-创始人【视频播客】-AMAz05gz7HE.md) · Koji Yang
+- [The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor](channels/lenny's-podcast/2026-08-09-the-playbook-for-building-high-talent-density-teams-adam-ward,-head-of-talent-at-cursor-zegYJ6dhIg4.md) · Lenny's Podcast
+- [Learn 99% of ChatGPT Work in 61 Minutes (Codex for Work)](channels/riley-brown/2026-08-09-learn-99-of-chatgpt-work-in-61-minutes-(codex-for-work)-zWL6XGP3Em8.md) · Riley Brown
 
 ### 2026-08-07
 
@@ -132,15 +138,6 @@
 
 - [Master 95% of Cursor in 60 Minutes](channels/riley-brown/2026-07-30-master-95-of-cursor-in-60-minutes-5DnOOa-5dTU.md) · Riley Brown
 - [How Lassie Is Automating Healthcare Administration](channels/a16z/2026-07-30-how-lassie-is-automating-healthcare-administration-Fpg_8aiBxx4.md) · a16z
-
-### 2026-07-29
-
-- [Claude Code + Codex Can FINALLY Work Together (Buzz AI)](channels/riley-brown/2026-07-29-claude-code-+-codex-can-finally-work-together-(buzz-ai)-P1KpxzLVg7c.md) · Riley Brown
-
-### 2026-07-28
-
-- [You Kaichao: vLLM, Open-Source Infra, Model Co-Design & Journey from Community to Startup](channels/张晓珺/2026-07-28-you-kaichao-vllm,-open-source-infra,-model-co-design-&-journey-from-community-to-startup-ifniRXf467I.md) · 张晓珺
-- [The Next Frontier of AI Is Spatial Intelligence | Fei-Fei Li on a16z](channels/a16z/2026-07-28-the-next-frontier-of-ai-is-spatial-intelligence-fei-fei-li-on-a16z--tabaM5l3s0.md) · a16z
 
 ## 数据与自动更新
 

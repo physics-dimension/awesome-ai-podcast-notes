@@ -1,5 +1,77 @@
 [
   {
+    "id": "AMAz05gz7HE",
+    "video_id": "AMAz05gz7HE",
+    "title": "【十字路口】「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人【视频播客】",
+    "channel": "Koji Yang",
+    "published": "2026-08-09",
+    "source_url": "https://www.youtube.com/watch?v=AMAz05gz7HE",
+    "notion_url": "",
+    "tags": [
+      "AI基础设施",
+      "Agent",
+      "创业",
+      "投资",
+      "基础设施"
+    ],
+    "rating": 4,
+    "language": "中文",
+    "word_count": 19978,
+    "duration": "56:25",
+    "duration_seconds": 3385,
+    "path": "channels/koji-yang/2026-08-09-【十字路口】「模型能力已经够了,要卷就卷-infra」-对谈戴冠兰-runta-创始人【视频播客】-AMAz05gz7HE.md",
+    "structured_path": "channels/koji-yang/2026-08-09-【十字路口】「模型能力已经够了,要卷就卷-infra」-对谈戴冠兰-runta-创始人【视频播客】-AMAz05gz7HE.structured.md",
+    "transcript_path": "channels/koji-yang/2026-08-09-【十字路口】「模型能力已经够了,要卷就卷-infra」-对谈戴冠兰-runta-创始人【视频播客】-AMAz05gz7HE.transcript.md"
+  },
+  {
+    "id": "zegYJ6dhIg4",
+    "video_id": "zegYJ6dhIg4",
+    "title": "The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor",
+    "channel": "Lenny's Podcast",
+    "published": "2026-08-09",
+    "source_url": "https://www.youtube.com/watch?v=zegYJ6dhIg4",
+    "notion_url": "",
+    "tags": [
+      "招聘",
+      "人才密度",
+      "团队建设",
+      "AI时代",
+      "组织管理"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 22184,
+    "duration": "1:30:47",
+    "duration_seconds": 5447,
+    "path": "channels/lenny's-podcast/2026-08-09-the-playbook-for-building-high-talent-density-teams-adam-ward,-head-of-talent-at-cursor-zegYJ6dhIg4.md",
+    "structured_path": "channels/lenny's-podcast/2026-08-09-the-playbook-for-building-high-talent-density-teams-adam-ward,-head-of-talent-at-cursor-zegYJ6dhIg4.structured.md",
+    "transcript_path": "channels/lenny's-podcast/2026-08-09-the-playbook-for-building-high-talent-density-teams-adam-ward,-head-of-talent-at-cursor-zegYJ6dhIg4.transcript.md"
+  },
+  {
+    "id": "zWL6XGP3Em8",
+    "video_id": "zWL6XGP3Em8",
+    "title": "Learn 99% of ChatGPT Work in 61 Minutes (Codex for Work)",
+    "channel": "Riley Brown",
+    "published": "2026-08-09",
+    "source_url": "https://www.youtube.com/watch?v=zWL6XGP3Em8",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "ChatGPT Work",
+      "Codex",
+      "工作流自动化",
+      "效率工具"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 18700,
+    "duration": "1:01:02",
+    "duration_seconds": 3662,
+    "path": "channels/riley-brown/2026-08-09-learn-99-of-chatgpt-work-in-61-minutes-(codex-for-work)-zWL6XGP3Em8.md",
+    "structured_path": "channels/riley-brown/2026-08-09-learn-99-of-chatgpt-work-in-61-minutes-(codex-for-work)-zWL6XGP3Em8.structured.md",
+    "transcript_path": "channels/riley-brown/2026-08-09-learn-99-of-chatgpt-work-in-61-minutes-(codex-for-work)-zWL6XGP3Em8.transcript.md"
+  },
+  {
     "id": "RtNrvPBkwfA",
     "video_id": "RtNrvPBkwfA",
     "title": "AI Is Learning to Hack. Faster Than We Expected.",
@@ -1141,77 +1213,5 @@
     "path": "channels/riley-brown/2026-07-16-devin-ai-the-full-beginner’s-guide-(better-than-claude-code-)-Vyyrvna-hUY.md",
     "structured_path": "channels/riley-brown/2026-07-16-devin-ai-the-full-beginner’s-guide-(better-than-claude-code-)-Vyyrvna-hUY.structured.md",
     "transcript_path": "channels/riley-brown/2026-07-16-devin-ai-the-full-beginner’s-guide-(better-than-claude-code-)-Vyyrvna-hUY.transcript.md"
-  },
-  {
-    "id": "3lQQadC6vKg",
-    "video_id": "3lQQadC6vKg",
-    "title": "Building the Agentic AI Platform for Hospitals",
-    "channel": "Y Combinator",
-    "published": "2026-07-16",
-    "source_url": "https://www.youtube.com/watch?v=3lQQadC6vKg",
-    "notion_url": "",
-    "tags": [
-      "AI医疗",
-      "智能体平台",
-      "YC访谈",
-      "医院创新",
-      "创业方法论"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 8300,
-    "duration": "47:51",
-    "duration_seconds": 2871,
-    "path": "channels/y-combinator/2026-07-16-building-the-agentic-ai-platform-for-hospitals-3lQQadC6vKg.md",
-    "structured_path": "channels/y-combinator/2026-07-16-building-the-agentic-ai-platform-for-hospitals-3lQQadC6vKg.structured.md",
-    "transcript_path": "channels/y-combinator/2026-07-16-building-the-agentic-ai-platform-for-hospitals-3lQQadC6vKg.transcript.md"
-  },
-  {
-    "id": "ghKTtfM-R6g",
-    "video_id": "ghKTtfM-R6g",
-    "title": "146. 对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角",
-    "channel": "张晓珺",
-    "published": "2026-07-16",
-    "source_url": "https://www.youtube.com/watch?v=ghKTtfM-R6g",
-    "notion_url": "",
-    "tags": [
-      "机器人",
-      "Physical Intelligence",
-      "强化学习",
-      "创业",
-      "个人成长"
-    ],
-    "rating": 5,
-    "language": "中文",
-    "word_count": 13756,
-    "duration": "3:48:05",
-    "duration_seconds": 13685,
-    "path": "channels/张晓珺/2026-07-16-146.-对physical-intelligence柯丽一鸣4小时访谈-pi的开源模型研究,机器人的江湖、族谱与主角-ghKTtfM-R6g.md",
-    "structured_path": "channels/张晓珺/2026-07-16-146.-对physical-intelligence柯丽一鸣4小时访谈-pi的开源模型研究,机器人的江湖、族谱与主角-ghKTtfM-R6g.structured.md",
-    "transcript_path": "channels/张晓珺/2026-07-16-146.-对physical-intelligence柯丽一鸣4小时访谈-pi的开源模型研究,机器人的江湖、族谱与主角-ghKTtfM-R6g.transcript.md"
-  },
-  {
-    "id": "dhbcVxYhWaQ",
-    "video_id": "dhbcVxYhWaQ",
-    "title": "The $1,000/hour Solo AI business (Full Course)",
-    "channel": "Greg Isenberg",
-    "published": "2026-07-15",
-    "source_url": "https://www.youtube.com/watch?v=dhbcVxYhWaQ",
-    "notion_url": "",
-    "tags": [
-      "AI创业",
-      "服务型生意",
-      "获客策略",
-      "Claude",
-      "小企业咨询"
-    ],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 10652,
-    "duration": "1:01:06",
-    "duration_seconds": 3666,
-    "path": "channels/greg-isenberg/2026-07-15-the-$1,000-hour-solo-ai-business-(full-course)-dhbcVxYhWaQ.md",
-    "structured_path": "channels/greg-isenberg/2026-07-15-the-$1,000-hour-solo-ai-business-(full-course)-dhbcVxYhWaQ.structured.md",
-    "transcript_path": "channels/greg-isenberg/2026-07-15-the-$1,000-hour-solo-ai-business-(full-course)-dhbcVxYhWaQ.transcript.md"
   }
 ]
