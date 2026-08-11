@@ -1,9 +1,10 @@
 # Greg Isenberg
 
-59 notes in this channel.
+60 notes in this channel.
 
-本频道共 59 篇。
+本频道共 60 篇。
 
+- 2026-08-10 · [Cloudflare will make 1000+ AI millionaires](2026-08-10-cloudflare-will-make-1000+-ai-millionaires-MNNfat_QP0E.md)
 - 2026-08-05 · [These AI Marketing Agents Get You Customers](2026-08-05-these-ai-marketing-agents-get-you-customers-mD7JpNHLT70.md)
 - 2026-08-03 · [Why Graph Engineering will 10x your Claude/Codex](2026-08-03-why-graph-engineering-will-10x-your-claude-codex-JWhICz1QR8M.md)
 - 2026-07-28 · [Jack Dorsey's Buzz: The New Hermes Agent?](2026-07-28-jack-dorsey's-buzz-the-new-hermes-agent-_jGSgzBkzrY.md)

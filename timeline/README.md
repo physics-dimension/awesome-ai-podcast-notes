@@ -6,6 +6,12 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-08-10](2026/08/2026-08-10.md) · 3 篇
+
+- [Cloudflare will make 1000+ AI millionaires](../channels/greg-isenberg/2026-08-10-cloudflare-will-make-1000+-ai-millionaires-MNNfat_QP0E.md) · Greg Isenberg
+- [Meta's NEW Muse Code is Here and Major Codex Updates](../channels/riley-brown/2026-08-10-meta's-new-muse-code-is-here-and-major-codex-updates-piOSL8Ms9mY.md) · Riley Brown
+- [Kavak's Playbook for Rebuilding a Company Around AI](../channels/a16z/2026-08-10-kavak's-playbook-for-rebuilding-a-company-around-ai-n34CIw3gk1k.md) · a16z
+
 ## [2026-08-09](2026/08/2026-08-09.md) · 3 篇
 
 - [【十字路口】「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人【视频播客】](../channels/koji-yang/2026-08-09-【十字路口】「模型能力已经够了,要卷就卷-infra」-对谈戴冠兰-runta-创始人【视频播客】-AMAz05gz7HE.md) · Koji Yang

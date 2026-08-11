@@ -1,5 +1,78 @@
 [
   {
+    "id": "piOSL8Ms9mY",
+    "video_id": "piOSL8Ms9mY",
+    "title": "Meta's NEW Muse Code is Here and Major Codex Updates",
+    "channel": "Riley Brown",
+    "published": "2026-08-10",
+    "source_url": "https://www.youtube.com/watch?v=piOSL8Ms9mY",
+    "notion_url": "",
+    "tags": [
+      "AI代理",
+      "Muse Code",
+      "Codex",
+      "Cursor",
+      "团队协作",
+      "模型价格"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 24127,
+    "duration": "24:51",
+    "duration_seconds": 1491,
+    "path": "channels/riley-brown/2026-08-10-meta's-new-muse-code-is-here-and-major-codex-updates-piOSL8Ms9mY.md",
+    "structured_path": "channels/riley-brown/2026-08-10-meta's-new-muse-code-is-here-and-major-codex-updates-piOSL8Ms9mY.structured.md",
+    "transcript_path": "channels/riley-brown/2026-08-10-meta's-new-muse-code-is-here-and-major-codex-updates-piOSL8Ms9mY.transcript.md"
+  },
+  {
+    "id": "n34CIw3gk1k",
+    "video_id": "n34CIw3gk1k",
+    "title": "Kavak's Playbook for Rebuilding a Company Around AI",
+    "channel": "a16z",
+    "published": "2026-08-10",
+    "source_url": "https://www.youtube.com/watch?v=n34CIw3gk1k",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "组织变革",
+      "Agent架构",
+      "企业转型",
+      "创业"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 17400,
+    "duration": "36:32",
+    "duration_seconds": 2192,
+    "path": "channels/a16z/2026-08-10-kavak's-playbook-for-rebuilding-a-company-around-ai-n34CIw3gk1k.md",
+    "structured_path": "channels/a16z/2026-08-10-kavak's-playbook-for-rebuilding-a-company-around-ai-n34CIw3gk1k.structured.md",
+    "transcript_path": "channels/a16z/2026-08-10-kavak's-playbook-for-rebuilding-a-company-around-ai-n34CIw3gk1k.transcript.md"
+  },
+  {
+    "id": "MNNfat_QP0E",
+    "video_id": "MNNfat_QP0E",
+    "title": "Cloudflare will make 1000+ AI millionaires",
+    "channel": "Greg Isenberg",
+    "published": "2026-08-10",
+    "source_url": "https://www.youtube.com/watch?v=MNNfat_QP0E",
+    "notion_url": "",
+    "tags": [
+      "AI Agent",
+      "Cloudflare",
+      "创业机会",
+      "数据变现",
+      "微支付"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 17669,
+    "duration": "34:10",
+    "duration_seconds": 2050,
+    "path": "channels/greg-isenberg/2026-08-10-cloudflare-will-make-1000+-ai-millionaires-MNNfat_QP0E.md",
+    "structured_path": "channels/greg-isenberg/2026-08-10-cloudflare-will-make-1000+-ai-millionaires-MNNfat_QP0E.structured.md",
+    "transcript_path": "channels/greg-isenberg/2026-08-10-cloudflare-will-make-1000+-ai-millionaires-MNNfat_QP0E.transcript.md"
+  },
+  {
     "id": "AMAz05gz7HE",
     "video_id": "AMAz05gz7HE",
     "title": "【十字路口】「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人【视频播客】",
@@ -1141,77 +1214,5 @@
     "path": "channels/latent-space/2026-07-16-🔬-rl-with-verifiable-rewards,-but-the-verifier-is-a-lab-—-lila-sciences-2wIxPWK6nCs.md",
     "structured_path": "channels/latent-space/2026-07-16-🔬-rl-with-verifiable-rewards,-but-the-verifier-is-a-lab-—-lila-sciences-2wIxPWK6nCs.structured.md",
     "transcript_path": "channels/latent-space/2026-07-16-🔬-rl-with-verifiable-rewards,-but-the-verifier-is-a-lab-—-lila-sciences-2wIxPWK6nCs.transcript.md"
-  },
-  {
-    "id": "dPXZrTw-Hgk",
-    "video_id": "dPXZrTw-Hgk",
-    "title": "Kay Ke: Inside Physical Intelligence's Open-Source Robot Models and the Robotics Landscape",
-    "channel": "张晓珺",
-    "published": "2026-07-16",
-    "source_url": "https://www.youtube.com/watch?v=dPXZrTw-Hgk",
-    "notion_url": "",
-    "tags": [
-      "机器人",
-      "AI",
-      "创业",
-      "科研",
-      "个人成长"
-    ],
-    "rating": 4,
-    "language": "中文",
-    "word_count": 7775,
-    "duration": "3:46:13",
-    "duration_seconds": 13573,
-    "path": "channels/张晓珺/2026-07-16-kay-ke-inside-physical-intelligence's-open-source-robot-models-and-the-robotics-landscape-dPXZrTw-Hgk.md",
-    "structured_path": "channels/张晓珺/2026-07-16-kay-ke-inside-physical-intelligence's-open-source-robot-models-and-the-robotics-landscape-dPXZrTw-Hgk.structured.md",
-    "transcript_path": "channels/张晓珺/2026-07-16-kay-ke-inside-physical-intelligence's-open-source-robot-models-and-the-robotics-landscape-dPXZrTw-Hgk.transcript.md"
-  },
-  {
-    "id": "Dxh1srVJr4s",
-    "video_id": "Dxh1srVJr4s",
-    "title": "E244｜端到端vs上下分层：机器人路径之争，正在转向？",
-    "channel": "硅谷101",
-    "published": "2026-07-16",
-    "source_url": "https://www.youtube.com/watch?v=Dxh1srVJr4s",
-    "notion_url": "",
-    "tags": [
-      "机器人",
-      "Sim2Real",
-      "端到端",
-      "上下分层",
-      "具身智能"
-    ],
-    "rating": 4,
-    "language": "中文",
-    "word_count": 10698,
-    "duration": "1:17:20",
-    "duration_seconds": 4640,
-    "path": "channels/硅谷101/2026-07-16-e244-端到端vs上下分层-机器人路径之争,正在转向-Dxh1srVJr4s.md",
-    "structured_path": "channels/硅谷101/2026-07-16-e244-端到端vs上下分层-机器人路径之争,正在转向-Dxh1srVJr4s.structured.md",
-    "transcript_path": "channels/硅谷101/2026-07-16-e244-端到端vs上下分层-机器人路径之争,正在转向-Dxh1srVJr4s.transcript.md"
-  },
-  {
-    "id": "Vyyrvna-hUY",
-    "video_id": "Vyyrvna-hUY",
-    "title": "Devin AI: The Full Beginner’s Guide (Better Than Claude Code?)",
-    "channel": "Riley Brown",
-    "published": "2026-07-16",
-    "source_url": "https://www.youtube.com/watch?v=Vyyrvna-hUY",
-    "notion_url": "",
-    "tags": [
-      "AI",
-      "无代码开发",
-      "Devin",
-      "营销自动化",
-      "产品验证"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 11530,
-    "duration": "24:47",
-    "duration_seconds": 1487,
-    "path": "channels/riley-brown/2026-07-16-devin-ai-the-full-beginner’s-guide-(better-than-claude-code-)-Vyyrvna-hUY.md",
-    "structured_path": "channels/riley-brown/2026-07-16-devin-ai-the-full-beginner’s-guide-(better-than-claude-code-)-Vyyrvna-hUY.structured.md",
-    "transcript_path": "channels/riley-brown/2026-07-16-devin-ai-the-full-beginner’s-guide-(better-than-claude-code-)-Vyyrvna-hUY.transcript.md"
   }
 ]

@@ -1,9 +1,10 @@
 # a16z
 
-59 notes in this channel.
+60 notes in this channel.
 
-本频道共 59 篇。
+本频道共 60 篇。
 
+- 2026-08-10 · [Kavak's Playbook for Rebuilding a Company Around AI](2026-08-10-kavak's-playbook-for-rebuilding-a-company-around-ai-n34CIw3gk1k.md)
 - 2026-08-07 · [AI Is Learning to Hack. Faster Than We Expected.](2026-08-07-ai-is-learning-to-hack.-faster-than-we-expected-RtNrvPBkwfA.md)
 - 2026-08-06 · [How Open Source Became AI's Backbone | Inferact with a16z](2026-08-06-how-open-source-became-ai's-backbone-inferact-with-a16z-78-6dUROziQ.md)
 - 2026-08-05 · [The Nuclear Renaissance - Radiant |  a16z American Dynamism](2026-08-05-the-nuclear-renaissance-radiant-a16z-american-dynamism--9Vh7tsgM7Y.md)

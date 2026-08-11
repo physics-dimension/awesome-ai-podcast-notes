@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-768-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-771-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 768 |
+| 笔记 | 771 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 445 |
-| 原始文稿 | 728 |
+| 结构化文稿 | 448 |
+| 原始文稿 | 731 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-08-09 |
-| 仓库更新日期 | 2026-08-10 |
+| 最新来源日期 | 2026-08-10 |
+| 仓库更新日期 | 2026-08-11 |
 
 ## 适合谁
 
@@ -56,23 +56,23 @@
 - 2026-07-28 · [OpenAI’s Plan to Make ChatGPT the Everything App — Akshay Nathan, OpenAI](channels/latent-space/2026-07-28-openai’s-plan-to-make-chatgpt-the-everything-app-—-akshay-nathan,-openai-gKhW6vL4V9A.md)
 - 2026-07-22 · [Poolside’s Model Factory, Laguna S, Open Models, and the Race to AGI — Eiso Kant, Poolside AI](channels/latent-space/2026-07-22-poolside’s-model-factory,-laguna-s,-open-models,-and-the-race-to-agi-—-eiso-kant,-poolside-ai-9_0hs2sxHHo.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 59 篇
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 60 篇
 
+- 2026-08-10 · [Cloudflare will make 1000+ AI millionaires](channels/greg-isenberg/2026-08-10-cloudflare-will-make-1000+-ai-millionaires-MNNfat_QP0E.md)
 - 2026-08-05 · [These AI Marketing Agents Get You Customers](channels/greg-isenberg/2026-08-05-these-ai-marketing-agents-get-you-customers-mD7JpNHLT70.md)
 - 2026-08-03 · [Why Graph Engineering will 10x your Claude/Codex](channels/greg-isenberg/2026-08-03-why-graph-engineering-will-10x-your-claude-codex-JWhICz1QR8M.md)
-- 2026-07-28 · [Jack Dorsey's Buzz: The New Hermes Agent?](channels/greg-isenberg/2026-07-28-jack-dorsey's-buzz-the-new-hermes-agent-_jGSgzBkzrY.md)
 
-### [a16z](channels/a16z/README.md) · 59 篇
+### [a16z](channels/a16z/README.md) · 60 篇
 
+- 2026-08-10 · [Kavak's Playbook for Rebuilding a Company Around AI](channels/a16z/2026-08-10-kavak's-playbook-for-rebuilding-a-company-around-ai-n34CIw3gk1k.md)
 - 2026-08-07 · [AI Is Learning to Hack. Faster Than We Expected.](channels/a16z/2026-08-07-ai-is-learning-to-hack.-faster-than-we-expected-RtNrvPBkwfA.md)
 - 2026-08-06 · [How Open Source Became AI's Backbone | Inferact with a16z](channels/a16z/2026-08-06-how-open-source-became-ai's-backbone-inferact-with-a16z-78-6dUROziQ.md)
-- 2026-08-05 · [The Nuclear Renaissance - Radiant |  a16z American Dynamism](channels/a16z/2026-08-05-the-nuclear-renaissance-radiant-a16z-american-dynamism--9Vh7tsgM7Y.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 55 篇
+### [Riley Brown](channels/riley-brown/README.md) · 56 篇
 
+- 2026-08-10 · [Meta's NEW Muse Code is Here and Major Codex Updates](channels/riley-brown/2026-08-10-meta's-new-muse-code-is-here-and-major-codex-updates-piOSL8Ms9mY.md)
 - 2026-08-09 · [Learn 99% of ChatGPT Work in 61 Minutes (Codex for Work)](channels/riley-brown/2026-08-09-learn-99-of-chatgpt-work-in-61-minutes-(codex-for-work)-zWL6XGP3Em8.md)
 - 2026-08-06 · [The AI Agent Every Company is About to Build | Vercel CEO Guillermo Rauch](channels/riley-brown/2026-08-06-the-ai-agent-every-company-is-about-to-build-vercel-ceo-guillermo-rauch-HQXi4snP36I.md)
-- 2026-07-30 · [Master 95% of Cursor in 60 Minutes](channels/riley-brown/2026-07-30-master-95-of-cursor-in-60-minutes-5DnOOa-5dTU.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 43 篇
 
@@ -93,6 +93,12 @@
 - 2026-07-26 · [【十字路口】11 年，110 亿美金，然后呢？｜对话 Airwallex 吴恺：AI 时代，下一站 1000 亿【视频播客】](channels/koji-yang/2026-07-26-【十字路口】11-年,110-亿美金,然后呢-对话-airwallex-吴恺-ai-时代,下一站-1000-亿【视频播客】-h8hI597d4iQ.md)
 
 ## 最新更新
+
+### 2026-08-10
+
+- [Meta's NEW Muse Code is Here and Major Codex Updates](channels/riley-brown/2026-08-10-meta's-new-muse-code-is-here-and-major-codex-updates-piOSL8Ms9mY.md) · Riley Brown
+- [Kavak's Playbook for Rebuilding a Company Around AI](channels/a16z/2026-08-10-kavak's-playbook-for-rebuilding-a-company-around-ai-n34CIw3gk1k.md) · a16z
+- [Cloudflare will make 1000+ AI millionaires](channels/greg-isenberg/2026-08-10-cloudflare-will-make-1000+-ai-millionaires-MNNfat_QP0E.md) · Greg Isenberg
 
 ### 2026-08-09
 
@@ -132,12 +138,6 @@
 ### 2026-07-31
 
 - [Decagon’s Playbook for Building Enterprise AI Applications](channels/a16z/2026-07-31-decagon’s-playbook-for-building-enterprise-ai-applications-cO1f2wOxSH4.md) · a16z
-- [149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark](channels/张晓珺/2026-07-31-149.-亲历中美neo-labs资本狂潮,和清华刘子鸣聊-ai-for-ai、机制可解释性和max-tegmark-H3Gs4QUHvA4.md) · 张晓珺
-
-### 2026-07-30
-
-- [Master 95% of Cursor in 60 Minutes](channels/riley-brown/2026-07-30-master-95-of-cursor-in-60-minutes-5DnOOa-5dTU.md) · Riley Brown
-- [How Lassie Is Automating Healthcare Administration](channels/a16z/2026-07-30-how-lassie-is-automating-healthcare-administration-Fpg_8aiBxx4.md) · a16z
 
 ## 数据与自动更新
 
