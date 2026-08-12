@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 771 |
+| Notes | 773 |
 | Channels | 16 |
-| Structured notes | 448 |
-| Raw transcripts | 731 |
+| Structured notes | 450 |
+| Raw transcripts | 733 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-08-10 |
-| Archive updated | 2026-08-11 |
+| Latest source date | 2026-08-11 |
+| Archive updated | 2026-08-12 |
 
 Each episode can include up to three versions:
 
@@ -39,11 +39,11 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [Latent Space](channels/latent-space/README.md) · 70 notes
+### [Latent Space](channels/latent-space/README.md) · 71 notes
 
+- 2026-08-11 · [🔬Biology Is Turning Into Software — Matt McPartlon and Neil Patil, Chai Discovery](channels/latent-space/2026-08-11-🔬biology-is-turning-into-software-—-matt-mcpartlon-and-neil-patil,-chai-discovery-Qp5xklyJySI.md)
 - 2026-08-03 · [The Inference Frontier: 10x Faster Models to Self-Optimizing AI — Philip Kiely & Ali Taha, Baseten](channels/latent-space/2026-08-03-the-inference-frontier-10x-faster-models-to-self-optimizing-ai-—-philip-kiely-&-ali-taha,-baseten-7PSXtru6mmY.md)
 - 2026-07-28 · [OpenAI’s Plan to Make ChatGPT the Everything App — Akshay Nathan, OpenAI](channels/latent-space/2026-07-28-openai’s-plan-to-make-chatgpt-the-everything-app-—-akshay-nathan,-openai-gKhW6vL4V9A.md)
-- 2026-07-22 · [Poolside’s Model Factory, Laguna S, Open Models, and the Race to AGI — Eiso Kant, Poolside AI](channels/latent-space/2026-07-22-poolside’s-model-factory,-laguna-s,-open-models,-and-the-race-to-agi-—-eiso-kant,-poolside-ai-9_0hs2sxHHo.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 60 notes
 
@@ -57,11 +57,11 @@ Each episode can include up to three versions:
 - 2026-08-07 · [AI Is Learning to Hack. Faster Than We Expected.](channels/a16z/2026-08-07-ai-is-learning-to-hack.-faster-than-we-expected-RtNrvPBkwfA.md)
 - 2026-08-06 · [How Open Source Became AI's Backbone | Inferact with a16z](channels/a16z/2026-08-06-how-open-source-became-ai's-backbone-inferact-with-a16z-78-6dUROziQ.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 56 notes
+### [Riley Brown](channels/riley-brown/README.md) · 57 notes
 
+- 2026-08-11 · [Cursor Just Unleashed GrokBot (It’s Insane)](channels/riley-brown/2026-08-11-cursor-just-unleashed-grokbot-(it’s-insane)-8Yf9IoXkROM.md)
 - 2026-08-10 · [Meta's NEW Muse Code is Here and Major Codex Updates](channels/riley-brown/2026-08-10-meta's-new-muse-code-is-here-and-major-codex-updates-piOSL8Ms9mY.md)
 - 2026-08-09 · [Learn 99% of ChatGPT Work in 61 Minutes (Codex for Work)](channels/riley-brown/2026-08-09-learn-99-of-chatgpt-work-in-61-minutes-(codex-for-work)-zWL6XGP3Em8.md)
-- 2026-08-06 · [The AI Agent Every Company is About to Build | Vercel CEO Guillermo Rauch](channels/riley-brown/2026-08-06-the-ai-agent-every-company-is-about-to-build-vercel-ceo-guillermo-rauch-HQXi4snP36I.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 43 notes
 
@@ -82,6 +82,11 @@ Each episode can include up to three versions:
 - 2026-07-26 · [【十字路口】11 年，110 亿美金，然后呢？｜对话 Airwallex 吴恺：AI 时代，下一站 1000 亿【视频播客】](channels/koji-yang/2026-07-26-【十字路口】11-年,110-亿美金,然后呢-对话-airwallex-吴恺-ai-时代,下一站-1000-亿【视频播客】-h8hI597d4iQ.md)
 
 ## Latest Updates
+
+### 2026-08-11
+
+- [🔬Biology Is Turning Into Software — Matt McPartlon and Neil Patil, Chai Discovery](channels/latent-space/2026-08-11-🔬biology-is-turning-into-software-—-matt-mcpartlon-and-neil-patil,-chai-discovery-Qp5xklyJySI.md) · Latent Space
+- [Cursor Just Unleashed GrokBot (It’s Insane)](channels/riley-brown/2026-08-11-cursor-just-unleashed-grokbot-(it’s-insane)-8Yf9IoXkROM.md) · Riley Brown
 
 ### 2026-08-10
 
@@ -119,14 +124,6 @@ Each episode can include up to three versions:
 
 - [【十字路口】「热爱一个行业15年的理由是什么？」｜对谈汪天凡：我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】](channels/koji-yang/2026-08-02-【十字路口】「热爱一个行业15年的理由是什么-」-对谈汪天凡-我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】-TjLHRq5iTzA.md) · Koji Yang
 - [This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)](channels/lenny's-podcast/2026-08-02-this-cpo-regrets-that-product-management-exists-tom-verrilli-(cpo-of-whatnot)-ruvis-VWg2s.md) · Lenny's Podcast
-
-### 2026-08-01
-
-- [E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿](channels/硅谷101/2026-08-01-e246-何谓蒸馏-聊聊硅谷如何看中国开放模型逼近前沿-evm0wG6QxkA.md) · 硅谷101
-
-### 2026-07-31
-
-- [Decagon’s Playbook for Building Enterprise AI Applications](channels/a16z/2026-07-31-decagon’s-playbook-for-building-enterprise-ai-applications-cO1f2wOxSH4.md) · a16z
 
 ## Data
 

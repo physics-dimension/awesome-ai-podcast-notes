@@ -1,5 +1,53 @@
 [
   {
+    "id": "Qp5xklyJySI",
+    "video_id": "Qp5xklyJySI",
+    "title": "🔬Biology Is Turning Into Software — Matt McPartlon and Neil Patil, Chai Discovery",
+    "channel": "Latent Space",
+    "published": "2026-08-11",
+    "source_url": "https://www.youtube.com/watch?v=Qp5xklyJySI",
+    "notion_url": "",
+    "tags": [
+      "AI制药",
+      "蛋白质设计",
+      "抗体工程",
+      "生成模型",
+      "创业"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 33208,
+    "duration": "1:35:20",
+    "duration_seconds": 5720,
+    "path": "channels/latent-space/2026-08-11-🔬biology-is-turning-into-software-—-matt-mcpartlon-and-neil-patil,-chai-discovery-Qp5xklyJySI.md",
+    "structured_path": "channels/latent-space/2026-08-11-🔬biology-is-turning-into-software-—-matt-mcpartlon-and-neil-patil,-chai-discovery-Qp5xklyJySI.structured.md",
+    "transcript_path": "channels/latent-space/2026-08-11-🔬biology-is-turning-into-software-—-matt-mcpartlon-and-neil-patil,-chai-discovery-Qp5xklyJySI.transcript.md"
+  },
+  {
+    "id": "8Yf9IoXkROM",
+    "video_id": "8Yf9IoXkROM",
+    "title": "Cursor Just Unleashed GrokBot (It’s Insane)",
+    "channel": "Riley Brown",
+    "published": "2026-08-11",
+    "source_url": "https://www.youtube.com/watch?v=8Yf9IoXkROM",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "Cursor",
+      "GrokBot",
+      "AI代理",
+      "自动化"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 13180,
+    "duration": "20:03",
+    "duration_seconds": 1203,
+    "path": "channels/riley-brown/2026-08-11-cursor-just-unleashed-grokbot-(it’s-insane)-8Yf9IoXkROM.md",
+    "structured_path": "channels/riley-brown/2026-08-11-cursor-just-unleashed-grokbot-(it’s-insane)-8Yf9IoXkROM.structured.md",
+    "transcript_path": "channels/riley-brown/2026-08-11-cursor-just-unleashed-grokbot-(it’s-insane)-8Yf9IoXkROM.transcript.md"
+  },
+  {
     "id": "piOSL8Ms9mY",
     "video_id": "piOSL8Ms9mY",
     "title": "Meta's NEW Muse Code is Here and Major Codex Updates",

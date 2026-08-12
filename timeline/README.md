@@ -6,6 +6,11 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-08-11](2026/08/2026-08-11.md) · 2 篇
+
+- [🔬Biology Is Turning Into Software — Matt McPartlon and Neil Patil, Chai Discovery](../channels/latent-space/2026-08-11-🔬biology-is-turning-into-software-—-matt-mcpartlon-and-neil-patil,-chai-discovery-Qp5xklyJySI.md) · Latent Space
+- [Cursor Just Unleashed GrokBot (It’s Insane)](../channels/riley-brown/2026-08-11-cursor-just-unleashed-grokbot-(it’s-insane)-8Yf9IoXkROM.md) · Riley Brown
+
 ## [2026-08-10](2026/08/2026-08-10.md) · 3 篇
 
 - [Cloudflare will make 1000+ AI millionaires](../channels/greg-isenberg/2026-08-10-cloudflare-will-make-1000+-ai-millionaires-MNNfat_QP0E.md) · Greg Isenberg

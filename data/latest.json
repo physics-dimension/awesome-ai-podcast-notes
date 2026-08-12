@@ -1,5 +1,53 @@
 [
   {
+    "id": "Qp5xklyJySI",
+    "video_id": "Qp5xklyJySI",
+    "title": "🔬Biology Is Turning Into Software — Matt McPartlon and Neil Patil, Chai Discovery",
+    "channel": "Latent Space",
+    "published": "2026-08-11",
+    "source_url": "https://www.youtube.com/watch?v=Qp5xklyJySI",
+    "notion_url": "",
+    "tags": [
+      "AI制药",
+      "蛋白质设计",
+      "抗体工程",
+      "生成模型",
+      "创业"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 33208,
+    "duration": "1:35:20",
+    "duration_seconds": 5720,
+    "path": "channels/latent-space/2026-08-11-🔬biology-is-turning-into-software-—-matt-mcpartlon-and-neil-patil,-chai-discovery-Qp5xklyJySI.md",
+    "structured_path": "channels/latent-space/2026-08-11-🔬biology-is-turning-into-software-—-matt-mcpartlon-and-neil-patil,-chai-discovery-Qp5xklyJySI.structured.md",
+    "transcript_path": "channels/latent-space/2026-08-11-🔬biology-is-turning-into-software-—-matt-mcpartlon-and-neil-patil,-chai-discovery-Qp5xklyJySI.transcript.md"
+  },
+  {
+    "id": "8Yf9IoXkROM",
+    "video_id": "8Yf9IoXkROM",
+    "title": "Cursor Just Unleashed GrokBot (It’s Insane)",
+    "channel": "Riley Brown",
+    "published": "2026-08-11",
+    "source_url": "https://www.youtube.com/watch?v=8Yf9IoXkROM",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "Cursor",
+      "GrokBot",
+      "AI代理",
+      "自动化"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 13180,
+    "duration": "20:03",
+    "duration_seconds": 1203,
+    "path": "channels/riley-brown/2026-08-11-cursor-just-unleashed-grokbot-(it’s-insane)-8Yf9IoXkROM.md",
+    "structured_path": "channels/riley-brown/2026-08-11-cursor-just-unleashed-grokbot-(it’s-insane)-8Yf9IoXkROM.structured.md",
+    "transcript_path": "channels/riley-brown/2026-08-11-cursor-just-unleashed-grokbot-(it’s-insane)-8Yf9IoXkROM.transcript.md"
+  },
+  {
     "id": "piOSL8Ms9mY",
     "video_id": "piOSL8Ms9mY",
     "title": "Meta's NEW Muse Code is Here and Major Codex Updates",
@@ -1165,54 +1213,5 @@
     "path": "channels/lenny's-podcast/2026-07-19-why-netflix-is-betting-on-systems-thinkers—not-specialists—in-the-ai-era-elizabeth-stone-(cpto)-t0GiTyz4syY.md",
     "structured_path": "channels/lenny's-podcast/2026-07-19-why-netflix-is-betting-on-systems-thinkers—not-specialists—in-the-ai-era-elizabeth-stone-(cpto)-t0GiTyz4syY.structured.md",
     "transcript_path": "channels/lenny's-podcast/2026-07-19-why-netflix-is-betting-on-systems-thinkers—not-specialists—in-the-ai-era-elizabeth-stone-(cpto)-t0GiTyz4syY.transcript.md"
-  },
-  {
-    "id": "rghTqkclDqA",
-    "video_id": "rghTqkclDqA",
-    "title": "\"Being Canceled is a Choice\" | Replit CEO with a16z",
-    "channel": "a16z",
-    "published": "2026-07-17",
-    "source_url": "https://www.youtube.com/watch?v=rghTqkclDqA",
-    "notion_url": "",
-    "tags": [
-      "CEO个人品牌",
-      "公关危机",
-      "创业心理",
-      "叙事策略",
-      "平台运营"
-    ],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 7321,
-    "duration": "26:15",
-    "duration_seconds": 1575,
-    "path": "channels/a16z/2026-07-17-being-canceled-is-a-choice-replit-ceo-with-a16z-rghTqkclDqA.md",
-    "structured_path": "channels/a16z/2026-07-17-being-canceled-is-a-choice-replit-ceo-with-a16z-rghTqkclDqA.structured.md",
-    "transcript_path": "channels/a16z/2026-07-17-being-canceled-is-a-choice-replit-ceo-with-a16z-rghTqkclDqA.transcript.md"
-  },
-  {
-    "id": "2wIxPWK6nCs",
-    "video_id": "2wIxPWK6nCs",
-    "title": "🔬 RL with Verifiable Rewards, but the Verifier is a Lab — Lila Sciences",
-    "channel": "Latent Space",
-    "published": "2026-07-16",
-    "source_url": "https://www.youtube.com/watch?v=2wIxPWK6nCs",
-    "notion_url": "",
-    "tags": [
-      "AI for Science",
-      "强化学习",
-      "自动化实验室",
-      "生物技术",
-      "Lila Sciences",
-      "科研范式变革"
-    ],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 10349,
-    "duration": "1:41:04",
-    "duration_seconds": 6064,
-    "path": "channels/latent-space/2026-07-16-🔬-rl-with-verifiable-rewards,-but-the-verifier-is-a-lab-—-lila-sciences-2wIxPWK6nCs.md",
-    "structured_path": "channels/latent-space/2026-07-16-🔬-rl-with-verifiable-rewards,-but-the-verifier-is-a-lab-—-lila-sciences-2wIxPWK6nCs.structured.md",
-    "transcript_path": "channels/latent-space/2026-07-16-🔬-rl-with-verifiable-rewards,-but-the-verifier-is-a-lab-—-lila-sciences-2wIxPWK6nCs.transcript.md"
   }
 ]

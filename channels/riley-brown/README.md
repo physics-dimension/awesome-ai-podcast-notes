@@ -1,9 +1,10 @@
 # Riley Brown
 
-56 notes in this channel.
+57 notes in this channel.
 
-本频道共 56 篇。
+本频道共 57 篇。
 
+- 2026-08-11 · [Cursor Just Unleashed GrokBot (It’s Insane)](2026-08-11-cursor-just-unleashed-grokbot-(it’s-insane)-8Yf9IoXkROM.md)
 - 2026-08-10 · [Meta's NEW Muse Code is Here and Major Codex Updates](2026-08-10-meta's-new-muse-code-is-here-and-major-codex-updates-piOSL8Ms9mY.md)
 - 2026-08-09 · [Learn 99% of ChatGPT Work in 61 Minutes (Codex for Work)](2026-08-09-learn-99-of-chatgpt-work-in-61-minutes-(codex-for-work)-zWL6XGP3Em8.md)
 - 2026-08-06 · [The AI Agent Every Company is About to Build | Vercel CEO Guillermo Rauch](2026-08-06-the-ai-agent-every-company-is-about-to-build-vercel-ceo-guillermo-rauch-HQXi4snP36I.md)
