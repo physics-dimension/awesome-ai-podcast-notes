@@ -1,9 +1,10 @@
 # Lex Fridman
 
-25 notes in this channel.
+26 notes in this channel.
 
-本频道共 25 篇。
+本频道共 26 篇。
 
+- 2026-08-12 · [Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football | Lex Fridman Podcast #500](2026-08-12-khabib-nurmagomedov-dagestan,-mma,-ufc,-islam,-conor,-fedor-&-football-lex-fridman-podcast-500-l6USUAIKJls.md)
 - 2026-07-28 · [Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499](2026-07-28-gary-gallagher-american-civil-war,-slavery,-lincoln,-grant-&-lee-lex-fridman-podcast-499-XyXBwO5jYpw.md)
 - 2026-06-30 · [The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498](2026-06-30-the-rise-and-fall-of-the-roman-empire-and-the-byzantine-empire-lex-fridman-podcast-498-pv1TUJSEM2k.md)
 - 2026-05-29 · [Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE - Don Lincoln | Lex Fridman Podcast #497](2026-05-29-biggest-mysteries-in-physics-antimatter,-dark-energy-&-toe-don-lincoln-lex-fridman-podcast-497-1M3Vdl6DRkU.md)
