@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-778-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-779-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 778 |
+| 笔记 | 779 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 455 |
-| 原始文稿 | 738 |
+| 结构化文稿 | 456 |
+| 原始文稿 | 739 |
 | 最早来源日期 | 2016-10-07 |
 | 最新来源日期 | 2026-08-13 |
-| 仓库更新日期 | 2026-08-13 |
+| 仓库更新日期 | 2026-08-14 |
 
 ## 适合谁
 
@@ -56,17 +56,17 @@
 - 2026-08-03 · [The Inference Frontier: 10x Faster Models to Self-Optimizing AI — Philip Kiely & Ali Taha, Baseten](channels/latent-space/2026-08-03-the-inference-frontier-10x-faster-models-to-self-optimizing-ai-—-philip-kiely-&-ali-taha,-baseten-7PSXtru6mmY.md)
 - 2026-07-28 · [OpenAI’s Plan to Make ChatGPT the Everything App — Akshay Nathan, OpenAI](channels/latent-space/2026-07-28-openai’s-plan-to-make-chatgpt-the-everything-app-—-akshay-nathan,-openai-gKhW6vL4V9A.md)
 
+### [a16z](channels/a16z/README.md) · 62 篇
+
+- 2026-08-13 · [Lighthouse or Landgrab? How to Pick Your AI Sales Strategy](channels/a16z/2026-08-13-lighthouse-or-landgrab-how-to-pick-your-ai-sales-strategy-aakZLqxRQfo.md)
+- 2026-08-12 · [The New Rules for Founders | Garry Tan on a16z](channels/a16z/2026-08-12-the-new-rules-for-founders-garry-tan-on-a16z-fsTtKywmWlU.md)
+- 2026-08-10 · [Kavak's Playbook for Rebuilding a Company Around AI](channels/a16z/2026-08-10-kavak's-playbook-for-rebuilding-a-company-around-ai-n34CIw3gk1k.md)
+
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 61 篇
 
 - 2026-08-12 · [My top secrets to running an AI Agent Workforce](channels/greg-isenberg/2026-08-12-my-top-secrets-to-running-an-ai-agent-workforce-EzQAgnjTq2k.md)
 - 2026-08-10 · [Cloudflare will make 1000+ AI millionaires](channels/greg-isenberg/2026-08-10-cloudflare-will-make-1000+-ai-millionaires-MNNfat_QP0E.md)
 - 2026-08-05 · [These AI Marketing Agents Get You Customers](channels/greg-isenberg/2026-08-05-these-ai-marketing-agents-get-you-customers-mD7JpNHLT70.md)
-
-### [a16z](channels/a16z/README.md) · 61 篇
-
-- 2026-08-12 · [The New Rules for Founders | Garry Tan on a16z](channels/a16z/2026-08-12-the-new-rules-for-founders-garry-tan-on-a16z-fsTtKywmWlU.md)
-- 2026-08-10 · [Kavak's Playbook for Rebuilding a Company Around AI](channels/a16z/2026-08-10-kavak's-playbook-for-rebuilding-a-company-around-ai-n34CIw3gk1k.md)
-- 2026-08-07 · [AI Is Learning to Hack. Faster Than We Expected.](channels/a16z/2026-08-07-ai-is-learning-to-hack.-faster-than-we-expected-RtNrvPBkwfA.md)
 
 ### [Riley Brown](channels/riley-brown/README.md) · 57 篇
 
@@ -97,6 +97,7 @@
 ### 2026-08-13
 
 - [NVIDIA VP Ming-Yu Liu: Cosmos 3, World Models, Kung Fu, What Jensen Taught Me](channels/张晓珺/2026-08-13-nvidia-vp-ming-yu-liu-cosmos-3,-world-models,-kung-fu,-what-jensen-taught-me-zawGTDLtWFY.md) · 张晓珺
+- [Lighthouse or Landgrab? How to Pick Your AI Sales Strategy](channels/a16z/2026-08-13-lighthouse-or-landgrab-how-to-pick-your-ai-sales-strategy-aakZLqxRQfo.md) · a16z
 
 ### 2026-08-12
 
@@ -131,10 +132,6 @@
 - [The AI Agent Every Company is About to Build | Vercel CEO Guillermo Rauch](channels/riley-brown/2026-08-06-the-ai-agent-every-company-is-about-to-build-vercel-ceo-guillermo-rauch-HQXi4snP36I.md) · Riley Brown
 - [How Open Source Became AI's Backbone | Inferact with a16z](channels/a16z/2026-08-06-how-open-source-became-ai's-backbone-inferact-with-a16z-78-6dUROziQ.md) · a16z
 - [AI is getting a little out of control](channels/ai-explained/2026-08-06-ai-is-getting-a-little-out-of-control-xGzseSSStnw.md) · AI Explained
-
-### 2026-08-05
-
-- [These AI Marketing Agents Get You Customers](channels/greg-isenberg/2026-08-05-these-ai-marketing-agents-get-you-customers-mD7JpNHLT70.md) · Greg Isenberg
 
 ## 数据与自动更新
 

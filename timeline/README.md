@@ -6,8 +6,9 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-08-13](2026/08/2026-08-13.md) · 1 篇
+## [2026-08-13](2026/08/2026-08-13.md) · 2 篇
 
+- [Lighthouse or Landgrab? How to Pick Your AI Sales Strategy](../channels/a16z/2026-08-13-lighthouse-or-landgrab-how-to-pick-your-ai-sales-strategy-aakZLqxRQfo.md) · a16z
 - [NVIDIA VP Ming-Yu Liu: Cosmos 3, World Models, Kung Fu, What Jensen Taught Me](../channels/张晓珺/2026-08-13-nvidia-vp-ming-yu-liu-cosmos-3,-world-models,-kung-fu,-what-jensen-taught-me-zawGTDLtWFY.md) · 张晓珺
 
 ## [2026-08-12](2026/08/2026-08-12.md) · 4 篇

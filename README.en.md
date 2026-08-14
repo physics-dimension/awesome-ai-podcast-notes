@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 778 |
+| Notes | 779 |
 | Channels | 16 |
-| Structured notes | 455 |
-| Raw transcripts | 738 |
+| Structured notes | 456 |
+| Raw transcripts | 739 |
 | Earliest source date | 2016-10-07 |
 | Latest source date | 2026-08-13 |
-| Archive updated | 2026-08-13 |
+| Archive updated | 2026-08-14 |
 
 Each episode can include up to three versions:
 
@@ -45,17 +45,17 @@ Each episode can include up to three versions:
 - 2026-08-03 · [The Inference Frontier: 10x Faster Models to Self-Optimizing AI — Philip Kiely & Ali Taha, Baseten](channels/latent-space/2026-08-03-the-inference-frontier-10x-faster-models-to-self-optimizing-ai-—-philip-kiely-&-ali-taha,-baseten-7PSXtru6mmY.md)
 - 2026-07-28 · [OpenAI’s Plan to Make ChatGPT the Everything App — Akshay Nathan, OpenAI](channels/latent-space/2026-07-28-openai’s-plan-to-make-chatgpt-the-everything-app-—-akshay-nathan,-openai-gKhW6vL4V9A.md)
 
+### [a16z](channels/a16z/README.md) · 62 notes
+
+- 2026-08-13 · [Lighthouse or Landgrab? How to Pick Your AI Sales Strategy](channels/a16z/2026-08-13-lighthouse-or-landgrab-how-to-pick-your-ai-sales-strategy-aakZLqxRQfo.md)
+- 2026-08-12 · [The New Rules for Founders | Garry Tan on a16z](channels/a16z/2026-08-12-the-new-rules-for-founders-garry-tan-on-a16z-fsTtKywmWlU.md)
+- 2026-08-10 · [Kavak's Playbook for Rebuilding a Company Around AI](channels/a16z/2026-08-10-kavak's-playbook-for-rebuilding-a-company-around-ai-n34CIw3gk1k.md)
+
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 61 notes
 
 - 2026-08-12 · [My top secrets to running an AI Agent Workforce](channels/greg-isenberg/2026-08-12-my-top-secrets-to-running-an-ai-agent-workforce-EzQAgnjTq2k.md)
 - 2026-08-10 · [Cloudflare will make 1000+ AI millionaires](channels/greg-isenberg/2026-08-10-cloudflare-will-make-1000+-ai-millionaires-MNNfat_QP0E.md)
 - 2026-08-05 · [These AI Marketing Agents Get You Customers](channels/greg-isenberg/2026-08-05-these-ai-marketing-agents-get-you-customers-mD7JpNHLT70.md)
-
-### [a16z](channels/a16z/README.md) · 61 notes
-
-- 2026-08-12 · [The New Rules for Founders | Garry Tan on a16z](channels/a16z/2026-08-12-the-new-rules-for-founders-garry-tan-on-a16z-fsTtKywmWlU.md)
-- 2026-08-10 · [Kavak's Playbook for Rebuilding a Company Around AI](channels/a16z/2026-08-10-kavak's-playbook-for-rebuilding-a-company-around-ai-n34CIw3gk1k.md)
-- 2026-08-07 · [AI Is Learning to Hack. Faster Than We Expected.](channels/a16z/2026-08-07-ai-is-learning-to-hack.-faster-than-we-expected-RtNrvPBkwfA.md)
 
 ### [Riley Brown](channels/riley-brown/README.md) · 57 notes
 
@@ -86,6 +86,7 @@ Each episode can include up to three versions:
 ### 2026-08-13
 
 - [NVIDIA VP Ming-Yu Liu: Cosmos 3, World Models, Kung Fu, What Jensen Taught Me](channels/张晓珺/2026-08-13-nvidia-vp-ming-yu-liu-cosmos-3,-world-models,-kung-fu,-what-jensen-taught-me-zawGTDLtWFY.md) · 张晓珺
+- [Lighthouse or Landgrab? How to Pick Your AI Sales Strategy](channels/a16z/2026-08-13-lighthouse-or-landgrab-how-to-pick-your-ai-sales-strategy-aakZLqxRQfo.md) · a16z
 
 ### 2026-08-12
 
@@ -120,10 +121,6 @@ Each episode can include up to three versions:
 - [The AI Agent Every Company is About to Build | Vercel CEO Guillermo Rauch](channels/riley-brown/2026-08-06-the-ai-agent-every-company-is-about-to-build-vercel-ceo-guillermo-rauch-HQXi4snP36I.md) · Riley Brown
 - [How Open Source Became AI's Backbone | Inferact with a16z](channels/a16z/2026-08-06-how-open-source-became-ai's-backbone-inferact-with-a16z-78-6dUROziQ.md) · a16z
 - [AI is getting a little out of control](channels/ai-explained/2026-08-06-ai-is-getting-a-little-out-of-control-xGzseSSStnw.md) · AI Explained
-
-### 2026-08-05
-
-- [These AI Marketing Agents Get You Customers](channels/greg-isenberg/2026-08-05-these-ai-marketing-agents-get-you-customers-mD7JpNHLT70.md) · Greg Isenberg
 
 ## Data
 
