@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-779-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-781-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 779 |
+| 笔记 | 781 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 456 |
-| 原始文稿 | 739 |
+| 结构化文稿 | 458 |
+| 原始文稿 | 741 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-08-13 |
-| 仓库更新日期 | 2026-08-14 |
+| 最新来源日期 | 2026-08-14 |
+| 仓库更新日期 | 2026-08-15 |
 
 ## 适合谁
 
@@ -56,11 +56,11 @@
 - 2026-08-03 · [The Inference Frontier: 10x Faster Models to Self-Optimizing AI — Philip Kiely & Ali Taha, Baseten](channels/latent-space/2026-08-03-the-inference-frontier-10x-faster-models-to-self-optimizing-ai-—-philip-kiely-&-ali-taha,-baseten-7PSXtru6mmY.md)
 - 2026-07-28 · [OpenAI’s Plan to Make ChatGPT the Everything App — Akshay Nathan, OpenAI](channels/latent-space/2026-07-28-openai’s-plan-to-make-chatgpt-the-everything-app-—-akshay-nathan,-openai-gKhW6vL4V9A.md)
 
-### [a16z](channels/a16z/README.md) · 62 篇
+### [a16z](channels/a16z/README.md) · 63 篇
 
+- 2026-08-14 · [Travis Kalanick: How AI Will Transform the Physical World](channels/a16z/2026-08-14-travis-kalanick-how-ai-will-transform-the-physical-world-r8qKNFeBPXE.md)
 - 2026-08-13 · [Lighthouse or Landgrab? How to Pick Your AI Sales Strategy](channels/a16z/2026-08-13-lighthouse-or-landgrab-how-to-pick-your-ai-sales-strategy-aakZLqxRQfo.md)
 - 2026-08-12 · [The New Rules for Founders | Garry Tan on a16z](channels/a16z/2026-08-12-the-new-rules-for-founders-garry-tan-on-a16z-fsTtKywmWlU.md)
-- 2026-08-10 · [Kavak's Playbook for Rebuilding a Company Around AI](channels/a16z/2026-08-10-kavak's-playbook-for-rebuilding-a-company-around-ai-n34CIw3gk1k.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 61 篇
 
@@ -86,13 +86,18 @@
 - 2026-08-02 · [This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)](channels/lenny's-podcast/2026-08-02-this-cpo-regrets-that-product-management-exists-tom-verrilli-(cpo-of-whatnot)-ruvis-VWg2s.md)
 - 2026-07-26 · [How Anthropic builds products like Claude Code before the AI models are ready | Dianne Penn](channels/lenny's-podcast/2026-07-26-how-anthropic-builds-products-like-claude-code-before-the-ai-models-are-ready-dianne-penn-tivaWTTVRhY.md)
 
-### [Koji Yang](channels/koji-yang/README.md) · 40 篇
+### [Y Combinator](channels/y-combinator/README.md) · 41 篇
 
-- 2026-08-09 · [【十字路口】「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人【视频播客】](channels/koji-yang/2026-08-09-【十字路口】「模型能力已经够了,要卷就卷-infra」-对谈戴冠兰-runta-创始人【视频播客】-AMAz05gz7HE.md)
-- 2026-08-02 · [【十字路口】「热爱一个行业15年的理由是什么？」｜对谈汪天凡：我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】](channels/koji-yang/2026-08-02-【十字路口】「热爱一个行业15年的理由是什么-」-对谈汪天凡-我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】-TjLHRq5iTzA.md)
-- 2026-07-26 · [【十字路口】11 年，110 亿美金，然后呢？｜对话 Airwallex 吴恺：AI 时代，下一站 1000 亿【视频播客】](channels/koji-yang/2026-07-26-【十字路口】11-年,110-亿美金,然后呢-对话-airwallex-吴恺-ai-时代,下一站-1000-亿【视频播客】-h8hI597d4iQ.md)
+- 2026-08-14 · [Building And Structuring An AI Native Company](channels/y-combinator/2026-08-14-building-and-structuring-an-ai-native-company-Z3JyAqh4ixg.md)
+- 2026-07-20 · [The First Dedicated YC GPU Cluster - With Together AI](channels/y-combinator/2026-07-20-the-first-dedicated-yc-gpu-cluster-with-together-ai-tOhkv307Pm0.md)
+- 2026-07-16 · [Building the Agentic AI Platform for Hospitals](channels/y-combinator/2026-07-16-building-the-agentic-ai-platform-for-hospitals-3lQQadC6vKg.md)
 
 ## 最新更新
+
+### 2026-08-14
+
+- [Travis Kalanick: How AI Will Transform the Physical World](channels/a16z/2026-08-14-travis-kalanick-how-ai-will-transform-the-physical-world-r8qKNFeBPXE.md) · a16z
+- [Building And Structuring An AI Native Company](channels/y-combinator/2026-08-14-building-and-structuring-an-ai-native-company-Z3JyAqh4ixg.md) · Y Combinator
 
 ### 2026-08-13
 
@@ -130,8 +135,6 @@
 ### 2026-08-06
 
 - [The AI Agent Every Company is About to Build | Vercel CEO Guillermo Rauch](channels/riley-brown/2026-08-06-the-ai-agent-every-company-is-about-to-build-vercel-ceo-guillermo-rauch-HQXi4snP36I.md) · Riley Brown
-- [How Open Source Became AI's Backbone | Inferact with a16z](channels/a16z/2026-08-06-how-open-source-became-ai's-backbone-inferact-with-a16z-78-6dUROziQ.md) · a16z
-- [AI is getting a little out of control](channels/ai-explained/2026-08-06-ai-is-getting-a-little-out-of-control-xGzseSSStnw.md) · AI Explained
 
 ## 数据与自动更新
 

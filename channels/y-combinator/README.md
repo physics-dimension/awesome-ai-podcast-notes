@@ -1,9 +1,10 @@
 # Y Combinator
 
-40 notes in this channel.
+41 notes in this channel.
 
-本频道共 40 篇。
+本频道共 41 篇。
 
+- 2026-08-14 · [Building And Structuring An AI Native Company](2026-08-14-building-and-structuring-an-ai-native-company-Z3JyAqh4ixg.md)
 - 2026-07-20 · [The First Dedicated YC GPU Cluster - With Together AI](2026-07-20-the-first-dedicated-yc-gpu-cluster-with-together-ai-tOhkv307Pm0.md)
 - 2026-07-16 · [Building the Agentic AI Platform for Hospitals](2026-07-16-building-the-agentic-ai-platform-for-hospitals-3lQQadC6vKg.md)
 - 2026-06-29 · [The AI Agents Helping Home Services Book More Jobs](2026-06-29-the-ai-agents-helping-home-services-book-more-jobs-EHp1HgwCo9I.md)

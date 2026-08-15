@@ -1,5 +1,53 @@
 [
   {
+    "id": "r8qKNFeBPXE",
+    "video_id": "r8qKNFeBPXE",
+    "title": "Travis Kalanick: How AI Will Transform the Physical World",
+    "channel": "a16z",
+    "published": "2026-08-14",
+    "source_url": "https://www.youtube.com/watch?v=r8qKNFeBPXE",
+    "notion_url": "",
+    "tags": [
+      "工业AI",
+      "创业哲学",
+      "自动化",
+      "机器人",
+      "组织管理"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 9418,
+    "duration": "54:51",
+    "duration_seconds": 3291,
+    "path": "channels/a16z/2026-08-14-travis-kalanick-how-ai-will-transform-the-physical-world-r8qKNFeBPXE.md",
+    "structured_path": "channels/a16z/2026-08-14-travis-kalanick-how-ai-will-transform-the-physical-world-r8qKNFeBPXE.structured.md",
+    "transcript_path": "channels/a16z/2026-08-14-travis-kalanick-how-ai-will-transform-the-physical-world-r8qKNFeBPXE.transcript.md"
+  },
+  {
+    "id": "Z3JyAqh4ixg",
+    "video_id": "Z3JyAqh4ixg",
+    "title": "Building And Structuring An AI Native Company",
+    "channel": "Y Combinator",
+    "published": "2026-08-14",
+    "source_url": "https://www.youtube.com/watch?v=Z3JyAqh4ixg",
+    "notion_url": "",
+    "tags": [
+      "AI原生公司",
+      "AI代理",
+      "组织架构",
+      "Y Combinator",
+      "AI循环"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 23206,
+    "duration": "21:20",
+    "duration_seconds": 1280,
+    "path": "channels/y-combinator/2026-08-14-building-and-structuring-an-ai-native-company-Z3JyAqh4ixg.md",
+    "structured_path": "channels/y-combinator/2026-08-14-building-and-structuring-an-ai-native-company-Z3JyAqh4ixg.structured.md",
+    "transcript_path": "channels/y-combinator/2026-08-14-building-and-structuring-an-ai-native-company-Z3JyAqh4ixg.transcript.md"
+  },
+  {
     "id": "zawGTDLtWFY",
     "video_id": "zawGTDLtWFY",
     "title": "NVIDIA VP Ming-Yu Liu: Cosmos 3, World Models, Kung Fu, What Jensen Taught Me",

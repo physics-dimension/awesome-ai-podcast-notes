@@ -1,9 +1,10 @@
 # a16z
 
-62 notes in this channel.
+63 notes in this channel.
 
-本频道共 62 篇。
+本频道共 63 篇。
 
+- 2026-08-14 · [Travis Kalanick: How AI Will Transform the Physical World](2026-08-14-travis-kalanick-how-ai-will-transform-the-physical-world-r8qKNFeBPXE.md)
 - 2026-08-13 · [Lighthouse or Landgrab? How to Pick Your AI Sales Strategy](2026-08-13-lighthouse-or-landgrab-how-to-pick-your-ai-sales-strategy-aakZLqxRQfo.md)
 - 2026-08-12 · [The New Rules for Founders | Garry Tan on a16z](2026-08-12-the-new-rules-for-founders-garry-tan-on-a16z-fsTtKywmWlU.md)
 - 2026-08-10 · [Kavak's Playbook for Rebuilding a Company Around AI](2026-08-10-kavak's-playbook-for-rebuilding-a-company-around-ai-n34CIw3gk1k.md)

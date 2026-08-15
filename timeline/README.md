@@ -6,6 +6,11 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-08-14](2026/08/2026-08-14.md) · 2 篇
+
+- [Building And Structuring An AI Native Company](../channels/y-combinator/2026-08-14-building-and-structuring-an-ai-native-company-Z3JyAqh4ixg.md) · Y Combinator
+- [Travis Kalanick: How AI Will Transform the Physical World](../channels/a16z/2026-08-14-travis-kalanick-how-ai-will-transform-the-physical-world-r8qKNFeBPXE.md) · a16z
+
 ## [2026-08-13](2026/08/2026-08-13.md) · 2 篇
 
 - [Lighthouse or Landgrab? How to Pick Your AI Sales Strategy](../channels/a16z/2026-08-13-lighthouse-or-landgrab-how-to-pick-your-ai-sales-strategy-aakZLqxRQfo.md) · a16z
