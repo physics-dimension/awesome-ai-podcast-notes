@@ -1,5 +1,53 @@
 [
   {
+    "id": "VWDnptnvFrA",
+    "video_id": "VWDnptnvFrA",
+    "title": "Grok 4.6 is Actually Good… And Claude Keeps Getting Better",
+    "channel": "Riley Brown",
+    "published": "2026-08-15",
+    "source_url": "https://www.youtube.com/watch?v=VWDnptnvFrA",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "AI Agent",
+      "Grok",
+      "Claude",
+      "模型定价"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 20600,
+    "duration": "25:22",
+    "duration_seconds": 1522,
+    "path": "channels/riley-brown/2026-08-15-grok-4.6-is-actually-good...-and-claude-keeps-getting-better-VWDnptnvFrA.md",
+    "structured_path": "channels/riley-brown/2026-08-15-grok-4.6-is-actually-good...-and-claude-keeps-getting-better-VWDnptnvFrA.structured.md",
+    "transcript_path": "channels/riley-brown/2026-08-15-grok-4.6-is-actually-good...-and-claude-keeps-getting-better-VWDnptnvFrA.transcript.md"
+  },
+  {
+    "id": "5lFD-34dhqE",
+    "video_id": "5lFD-34dhqE",
+    "title": "Exo: Harnesses should see their own code and logs — Alex Krentsel",
+    "channel": "Latent Space",
+    "published": "2026-08-15",
+    "source_url": "https://www.youtube.com/watch?v=5lFD-34dhqE",
+    "notion_url": "",
+    "tags": [
+      "AI Agent",
+      "RSI",
+      "系统架构",
+      "LLM",
+      "Exo"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 16657,
+    "duration": "47:11",
+    "duration_seconds": 2831,
+    "path": "channels/latent-space/2026-08-15-exo-harnesses-should-see-their-own-code-and-logs-—-alex-krentsel-5lFD-34dhqE.md",
+    "structured_path": "channels/latent-space/2026-08-15-exo-harnesses-should-see-their-own-code-and-logs-—-alex-krentsel-5lFD-34dhqE.structured.md",
+    "transcript_path": "channels/latent-space/2026-08-15-exo-harnesses-should-see-their-own-code-and-logs-—-alex-krentsel-5lFD-34dhqE.transcript.md"
+  },
+  {
     "id": "r8qKNFeBPXE",
     "video_id": "r8qKNFeBPXE",
     "title": "Travis Kalanick: How AI Will Transform the Physical World",

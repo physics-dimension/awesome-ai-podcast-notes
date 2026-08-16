@@ -14,10 +14,10 @@ Good sources are usually:
 ## Current Channel Coverage
 
 - 李弘毅: 253 notes
-- Latent Space: 71 notes
+- Latent Space: 72 notes
 - a16z: 63 notes
 - Greg Isenberg: 61 notes
-- Riley Brown: 57 notes
+- Riley Brown: 58 notes
 - 张晓珺: 44 notes
 - Lenny's Podcast: 43 notes
 - Y Combinator: 41 notes

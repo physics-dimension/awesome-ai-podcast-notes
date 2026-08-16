@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 781 |
+| Notes | 783 |
 | Channels | 16 |
-| Structured notes | 458 |
-| Raw transcripts | 741 |
+| Structured notes | 460 |
+| Raw transcripts | 743 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-08-14 |
-| Archive updated | 2026-08-15 |
+| Latest source date | 2026-08-15 |
+| Archive updated | 2026-08-16 |
 
 Each episode can include up to three versions:
 
@@ -39,11 +39,11 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [Latent Space](channels/latent-space/README.md) · 71 notes
+### [Latent Space](channels/latent-space/README.md) · 72 notes
 
+- 2026-08-15 · [Exo: Harnesses should see their own code and logs — Alex Krentsel](channels/latent-space/2026-08-15-exo-harnesses-should-see-their-own-code-and-logs-—-alex-krentsel-5lFD-34dhqE.md)
 - 2026-08-11 · [🔬Biology Is Turning Into Software — Matt McPartlon and Neil Patil, Chai Discovery](channels/latent-space/2026-08-11-🔬biology-is-turning-into-software-—-matt-mcpartlon-and-neil-patil,-chai-discovery-Qp5xklyJySI.md)
 - 2026-08-03 · [The Inference Frontier: 10x Faster Models to Self-Optimizing AI — Philip Kiely & Ali Taha, Baseten](channels/latent-space/2026-08-03-the-inference-frontier-10x-faster-models-to-self-optimizing-ai-—-philip-kiely-&-ali-taha,-baseten-7PSXtru6mmY.md)
-- 2026-07-28 · [OpenAI’s Plan to Make ChatGPT the Everything App — Akshay Nathan, OpenAI](channels/latent-space/2026-07-28-openai’s-plan-to-make-chatgpt-the-everything-app-—-akshay-nathan,-openai-gKhW6vL4V9A.md)
 
 ### [a16z](channels/a16z/README.md) · 63 notes
 
@@ -57,11 +57,11 @@ Each episode can include up to three versions:
 - 2026-08-10 · [Cloudflare will make 1000+ AI millionaires](channels/greg-isenberg/2026-08-10-cloudflare-will-make-1000+-ai-millionaires-MNNfat_QP0E.md)
 - 2026-08-05 · [These AI Marketing Agents Get You Customers](channels/greg-isenberg/2026-08-05-these-ai-marketing-agents-get-you-customers-mD7JpNHLT70.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 57 notes
+### [Riley Brown](channels/riley-brown/README.md) · 58 notes
 
+- 2026-08-15 · [Grok 4.6 is Actually Good… And Claude Keeps Getting Better](channels/riley-brown/2026-08-15-grok-4.6-is-actually-good...-and-claude-keeps-getting-better-VWDnptnvFrA.md)
 - 2026-08-11 · [Cursor Just Unleashed GrokBot (It’s Insane)](channels/riley-brown/2026-08-11-cursor-just-unleashed-grokbot-(it’s-insane)-8Yf9IoXkROM.md)
 - 2026-08-10 · [Meta's NEW Muse Code is Here and Major Codex Updates](channels/riley-brown/2026-08-10-meta's-new-muse-code-is-here-and-major-codex-updates-piOSL8Ms9mY.md)
-- 2026-08-09 · [Learn 99% of ChatGPT Work in 61 Minutes (Codex for Work)](channels/riley-brown/2026-08-09-learn-99-of-chatgpt-work-in-61-minutes-(codex-for-work)-zWL6XGP3Em8.md)
 
 ### [张晓珺](channels/张晓珺/README.md) · 44 notes
 
@@ -82,6 +82,11 @@ Each episode can include up to three versions:
 - 2026-07-16 · [Building the Agentic AI Platform for Hospitals](channels/y-combinator/2026-07-16-building-the-agentic-ai-platform-for-hospitals-3lQQadC6vKg.md)
 
 ## Latest Updates
+
+### 2026-08-15
+
+- [Grok 4.6 is Actually Good… And Claude Keeps Getting Better](channels/riley-brown/2026-08-15-grok-4.6-is-actually-good...-and-claude-keeps-getting-better-VWDnptnvFrA.md) · Riley Brown
+- [Exo: Harnesses should see their own code and logs — Alex Krentsel](channels/latent-space/2026-08-15-exo-harnesses-should-see-their-own-code-and-logs-—-alex-krentsel-5lFD-34dhqE.md) · Latent Space
 
 ### 2026-08-14
 
@@ -116,14 +121,6 @@ Each episode can include up to three versions:
 - [【十字路口】「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人【视频播客】](channels/koji-yang/2026-08-09-【十字路口】「模型能力已经够了,要卷就卷-infra」-对谈戴冠兰-runta-创始人【视频播客】-AMAz05gz7HE.md) · Koji Yang
 - [The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor](channels/lenny's-podcast/2026-08-09-the-playbook-for-building-high-talent-density-teams-adam-ward,-head-of-talent-at-cursor-zegYJ6dhIg4.md) · Lenny's Podcast
 - [Learn 99% of ChatGPT Work in 61 Minutes (Codex for Work)](channels/riley-brown/2026-08-09-learn-99-of-chatgpt-work-in-61-minutes-(codex-for-work)-zWL6XGP3Em8.md) · Riley Brown
-
-### 2026-08-07
-
-- [AI Is Learning to Hack. Faster Than We Expected.](channels/a16z/2026-08-07-ai-is-learning-to-hack.-faster-than-we-expected-RtNrvPBkwfA.md) · a16z
-
-### 2026-08-06
-
-- [The AI Agent Every Company is About to Build | Vercel CEO Guillermo Rauch](channels/riley-brown/2026-08-06-the-ai-agent-every-company-is-about-to-build-vercel-ceo-guillermo-rauch-HQXi4snP36I.md) · Riley Brown
 
 ## Data
 

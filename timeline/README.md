@@ -6,6 +6,11 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-08-15](2026/08/2026-08-15.md) · 2 篇
+
+- [Exo: Harnesses should see their own code and logs — Alex Krentsel](../channels/latent-space/2026-08-15-exo-harnesses-should-see-their-own-code-and-logs-—-alex-krentsel-5lFD-34dhqE.md) · Latent Space
+- [Grok 4.6 is Actually Good… And Claude Keeps Getting Better](../channels/riley-brown/2026-08-15-grok-4.6-is-actually-good...-and-claude-keeps-getting-better-VWDnptnvFrA.md) · Riley Brown
+
 ## [2026-08-14](2026/08/2026-08-14.md) · 2 篇
 
 - [Building And Structuring An AI Native Company](../channels/y-combinator/2026-08-14-building-and-structuring-an-ai-native-company-Z3JyAqh4ixg.md) · Y Combinator
