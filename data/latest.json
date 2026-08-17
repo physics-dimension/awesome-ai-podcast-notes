@@ -1,5 +1,53 @@
 [
   {
+    "id": "BV0hy6NET-U",
+    "video_id": "BV0hy6NET-U",
+    "title": "OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber",
+    "channel": "Lenny's Podcast",
+    "published": "2026-08-16",
+    "source_url": "https://www.youtube.com/watch?v=BV0hy6NET-U",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "产品设计",
+      "职业发展",
+      "OpenAI",
+      "设计思维"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 17323,
+    "duration": "1:12:05",
+    "duration_seconds": 4325,
+    "path": "channels/lenny's-podcast/2026-08-16-openai’s-head-of-design-this-is-the-best-time-in-history-to-be-a-designer-ian-silber-BV0hy6NET-U.md",
+    "structured_path": "channels/lenny's-podcast/2026-08-16-openai’s-head-of-design-this-is-the-best-time-in-history-to-be-a-designer-ian-silber-BV0hy6NET-U.structured.md",
+    "transcript_path": "channels/lenny's-podcast/2026-08-16-openai’s-head-of-design-this-is-the-best-time-in-history-to-be-a-designer-ian-silber-BV0hy6NET-U.transcript.md"
+  },
+  {
+    "id": "NR_GMq2lDCE",
+    "video_id": "NR_GMq2lDCE",
+    "title": "Codex Just Replaced All His Apps | Bilawal Sidhu",
+    "channel": "Riley Brown",
+    "published": "2026-08-16",
+    "source_url": "https://www.youtube.com/watch?v=NR_GMq2lDCE",
+    "notion_url": "",
+    "tags": [
+      "AI Agent",
+      "Codex",
+      "空间智能",
+      "视频创作",
+      "创业"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 20719,
+    "duration": "1:03:48",
+    "duration_seconds": 3828,
+    "path": "channels/riley-brown/2026-08-16-codex-just-replaced-all-his-apps-bilawal-sidhu-NR_GMq2lDCE.md",
+    "structured_path": "channels/riley-brown/2026-08-16-codex-just-replaced-all-his-apps-bilawal-sidhu-NR_GMq2lDCE.structured.md",
+    "transcript_path": "channels/riley-brown/2026-08-16-codex-just-replaced-all-his-apps-bilawal-sidhu-NR_GMq2lDCE.transcript.md"
+  },
+  {
     "id": "VWDnptnvFrA",
     "video_id": "VWDnptnvFrA",
     "title": "Grok 4.6 is Actually Good… And Claude Keeps Getting Better",
@@ -1166,53 +1214,5 @@
     "path": "channels/硅谷101/2026-07-24-e245-藏在大模型背后的新闻人-gpt们的回复是这样写出来的-ifyzclKzVOA.md",
     "structured_path": "channels/硅谷101/2026-07-24-e245-藏在大模型背后的新闻人-gpt们的回复是这样写出来的-ifyzclKzVOA.structured.md",
     "transcript_path": "channels/硅谷101/2026-07-24-e245-藏在大模型背后的新闻人-gpt们的回复是这样写出来的-ifyzclKzVOA.transcript.md"
-  },
-  {
-    "id": "uxR9pOkbiY8",
-    "video_id": "uxR9pOkbiY8",
-    "title": "知识、代码、教程都不值钱了，AI时代什么值得学？｜WAIC 2026 围炉夜话",
-    "channel": "Koji Yang",
-    "published": "2026-07-22",
-    "source_url": "https://www.youtube.com/watch?v=uxR9pOkbiY8",
-    "notion_url": "",
-    "tags": [
-      "AI学习",
-      "知识管理",
-      "技能经验",
-      "实战主义",
-      "认知升级"
-    ],
-    "rating": 4,
-    "language": "中文",
-    "word_count": 9849,
-    "duration": "59:50",
-    "duration_seconds": 3590,
-    "path": "channels/koji-yang/2026-07-22-知识、代码、教程都不值钱了,ai时代什么值得学-waic-2026-围炉夜话-uxR9pOkbiY8.md",
-    "structured_path": "channels/koji-yang/2026-07-22-知识、代码、教程都不值钱了,ai时代什么值得学-waic-2026-围炉夜话-uxR9pOkbiY8.structured.md",
-    "transcript_path": "channels/koji-yang/2026-07-22-知识、代码、教程都不值钱了,ai时代什么值得学-waic-2026-围炉夜话-uxR9pOkbiY8.transcript.md"
-  },
-  {
-    "id": "9_0hs2sxHHo",
-    "video_id": "9_0hs2sxHHo",
-    "title": "Poolside’s Model Factory, Laguna S, Open Models, and the Race to AGI — Eiso Kant, Poolside AI",
-    "channel": "Latent Space",
-    "published": "2026-07-22",
-    "source_url": "https://www.youtube.com/watch?v=9_0hs2sxHHo",
-    "notion_url": "",
-    "tags": [
-      "Poolside",
-      "模型工厂",
-      "开源",
-      "AGI",
-      "强化学习"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 10370,
-    "duration": "1:56:13",
-    "duration_seconds": 6973,
-    "path": "channels/latent-space/2026-07-22-poolside’s-model-factory,-laguna-s,-open-models,-and-the-race-to-agi-—-eiso-kant,-poolside-ai-9_0hs2sxHHo.md",
-    "structured_path": "channels/latent-space/2026-07-22-poolside’s-model-factory,-laguna-s,-open-models,-and-the-race-to-agi-—-eiso-kant,-poolside-ai-9_0hs2sxHHo.structured.md",
-    "transcript_path": "channels/latent-space/2026-07-22-poolside’s-model-factory,-laguna-s,-open-models,-and-the-race-to-agi-—-eiso-kant,-poolside-ai-9_0hs2sxHHo.transcript.md"
   }
 ]

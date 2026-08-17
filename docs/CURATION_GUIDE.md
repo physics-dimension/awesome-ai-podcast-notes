@@ -17,9 +17,9 @@ Good sources are usually:
 - Latent Space: 72 notes
 - a16z: 63 notes
 - Greg Isenberg: 61 notes
-- Riley Brown: 58 notes
+- Riley Brown: 59 notes
+- Lenny's Podcast: 44 notes
 - 张晓珺: 44 notes
-- Lenny's Podcast: 43 notes
 - Y Combinator: 41 notes
 - Koji Yang: 40 notes
 - 硅谷101: 35 notes

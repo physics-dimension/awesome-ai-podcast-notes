@@ -1,5 +1,53 @@
 [
   {
+    "id": "BV0hy6NET-U",
+    "video_id": "BV0hy6NET-U",
+    "title": "OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber",
+    "channel": "Lenny's Podcast",
+    "published": "2026-08-16",
+    "source_url": "https://www.youtube.com/watch?v=BV0hy6NET-U",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "产品设计",
+      "职业发展",
+      "OpenAI",
+      "设计思维"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 17323,
+    "duration": "1:12:05",
+    "duration_seconds": 4325,
+    "path": "channels/lenny's-podcast/2026-08-16-openai’s-head-of-design-this-is-the-best-time-in-history-to-be-a-designer-ian-silber-BV0hy6NET-U.md",
+    "structured_path": "channels/lenny's-podcast/2026-08-16-openai’s-head-of-design-this-is-the-best-time-in-history-to-be-a-designer-ian-silber-BV0hy6NET-U.structured.md",
+    "transcript_path": "channels/lenny's-podcast/2026-08-16-openai’s-head-of-design-this-is-the-best-time-in-history-to-be-a-designer-ian-silber-BV0hy6NET-U.transcript.md"
+  },
+  {
+    "id": "NR_GMq2lDCE",
+    "video_id": "NR_GMq2lDCE",
+    "title": "Codex Just Replaced All His Apps | Bilawal Sidhu",
+    "channel": "Riley Brown",
+    "published": "2026-08-16",
+    "source_url": "https://www.youtube.com/watch?v=NR_GMq2lDCE",
+    "notion_url": "",
+    "tags": [
+      "AI Agent",
+      "Codex",
+      "空间智能",
+      "视频创作",
+      "创业"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 20719,
+    "duration": "1:03:48",
+    "duration_seconds": 3828,
+    "path": "channels/riley-brown/2026-08-16-codex-just-replaced-all-his-apps-bilawal-sidhu-NR_GMq2lDCE.md",
+    "structured_path": "channels/riley-brown/2026-08-16-codex-just-replaced-all-his-apps-bilawal-sidhu-NR_GMq2lDCE.structured.md",
+    "transcript_path": "channels/riley-brown/2026-08-16-codex-just-replaced-all-his-apps-bilawal-sidhu-NR_GMq2lDCE.transcript.md"
+  },
+  {
     "id": "VWDnptnvFrA",
     "video_id": "VWDnptnvFrA",
     "title": "Grok 4.6 is Actually Good… And Claude Keeps Getting Better",

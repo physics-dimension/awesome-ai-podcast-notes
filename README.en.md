@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 783 |
+| Notes | 785 |
 | Channels | 16 |
-| Structured notes | 460 |
-| Raw transcripts | 743 |
+| Structured notes | 462 |
+| Raw transcripts | 745 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-08-15 |
-| Archive updated | 2026-08-16 |
+| Latest source date | 2026-08-16 |
+| Archive updated | 2026-08-17 |
 
 Each episode can include up to three versions:
 
@@ -57,23 +57,23 @@ Each episode can include up to three versions:
 - 2026-08-10 · [Cloudflare will make 1000+ AI millionaires](channels/greg-isenberg/2026-08-10-cloudflare-will-make-1000+-ai-millionaires-MNNfat_QP0E.md)
 - 2026-08-05 · [These AI Marketing Agents Get You Customers](channels/greg-isenberg/2026-08-05-these-ai-marketing-agents-get-you-customers-mD7JpNHLT70.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 58 notes
+### [Riley Brown](channels/riley-brown/README.md) · 59 notes
 
+- 2026-08-16 · [Codex Just Replaced All His Apps | Bilawal Sidhu](channels/riley-brown/2026-08-16-codex-just-replaced-all-his-apps-bilawal-sidhu-NR_GMq2lDCE.md)
 - 2026-08-15 · [Grok 4.6 is Actually Good… And Claude Keeps Getting Better](channels/riley-brown/2026-08-15-grok-4.6-is-actually-good...-and-claude-keeps-getting-better-VWDnptnvFrA.md)
 - 2026-08-11 · [Cursor Just Unleashed GrokBot (It’s Insane)](channels/riley-brown/2026-08-11-cursor-just-unleashed-grokbot-(it’s-insane)-8Yf9IoXkROM.md)
-- 2026-08-10 · [Meta's NEW Muse Code is Here and Major Codex Updates](channels/riley-brown/2026-08-10-meta's-new-muse-code-is-here-and-major-codex-updates-piOSL8Ms9mY.md)
+
+### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 44 notes
+
+- 2026-08-16 · [OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber](channels/lenny's-podcast/2026-08-16-openai’s-head-of-design-this-is-the-best-time-in-history-to-be-a-designer-ian-silber-BV0hy6NET-U.md)
+- 2026-08-09 · [The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor](channels/lenny's-podcast/2026-08-09-the-playbook-for-building-high-talent-density-teams-adam-ward,-head-of-talent-at-cursor-zegYJ6dhIg4.md)
+- 2026-08-02 · [This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)](channels/lenny's-podcast/2026-08-02-this-cpo-regrets-that-product-management-exists-tom-verrilli-(cpo-of-whatnot)-ruvis-VWg2s.md)
 
 ### [张晓珺](channels/张晓珺/README.md) · 44 notes
 
 - 2026-08-13 · [NVIDIA VP Ming-Yu Liu: Cosmos 3, World Models, Kung Fu, What Jensen Taught Me](channels/张晓珺/2026-08-13-nvidia-vp-ming-yu-liu-cosmos-3,-world-models,-kung-fu,-what-jensen-taught-me-zawGTDLtWFY.md)
 - 2026-08-12 · [150. 对英伟达研究副总裁刘洺堉的4小时访谈：功夫、Cosmos 3、开源世界模型、黄仁勋、你不需要击败所有对手](channels/张晓珺/2026-08-12-150.-对英伟达研究副总裁刘洺堉的4小时访谈-功夫、cosmos-3、开源世界模型、黄仁勋、你不需要击败所有对手-Cj_kb9nlAlE.md)
 - 2026-07-31 · [149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark](channels/张晓珺/2026-07-31-149.-亲历中美neo-labs资本狂潮,和清华刘子鸣聊-ai-for-ai、机制可解释性和max-tegmark-H3Gs4QUHvA4.md)
-
-### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 43 notes
-
-- 2026-08-09 · [The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor](channels/lenny's-podcast/2026-08-09-the-playbook-for-building-high-talent-density-teams-adam-ward,-head-of-talent-at-cursor-zegYJ6dhIg4.md)
-- 2026-08-02 · [This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)](channels/lenny's-podcast/2026-08-02-this-cpo-regrets-that-product-management-exists-tom-verrilli-(cpo-of-whatnot)-ruvis-VWg2s.md)
-- 2026-07-26 · [How Anthropic builds products like Claude Code before the AI models are ready | Dianne Penn](channels/lenny's-podcast/2026-07-26-how-anthropic-builds-products-like-claude-code-before-the-ai-models-are-ready-dianne-penn-tivaWTTVRhY.md)
 
 ### [Y Combinator](channels/y-combinator/README.md) · 41 notes
 
@@ -82,6 +82,11 @@ Each episode can include up to three versions:
 - 2026-07-16 · [Building the Agentic AI Platform for Hospitals](channels/y-combinator/2026-07-16-building-the-agentic-ai-platform-for-hospitals-3lQQadC6vKg.md)
 
 ## Latest Updates
+
+### 2026-08-16
+
+- [OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber](channels/lenny's-podcast/2026-08-16-openai’s-head-of-design-this-is-the-best-time-in-history-to-be-a-designer-ian-silber-BV0hy6NET-U.md) · Lenny's Podcast
+- [Codex Just Replaced All His Apps | Bilawal Sidhu](channels/riley-brown/2026-08-16-codex-just-replaced-all-his-apps-bilawal-sidhu-NR_GMq2lDCE.md) · Riley Brown
 
 ### 2026-08-15
 
@@ -119,8 +124,6 @@ Each episode can include up to three versions:
 ### 2026-08-09
 
 - [【十字路口】「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人【视频播客】](channels/koji-yang/2026-08-09-【十字路口】「模型能力已经够了,要卷就卷-infra」-对谈戴冠兰-runta-创始人【视频播客】-AMAz05gz7HE.md) · Koji Yang
-- [The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor](channels/lenny's-podcast/2026-08-09-the-playbook-for-building-high-talent-density-teams-adam-ward,-head-of-talent-at-cursor-zegYJ6dhIg4.md) · Lenny's Podcast
-- [Learn 99% of ChatGPT Work in 61 Minutes (Codex for Work)](channels/riley-brown/2026-08-09-learn-99-of-chatgpt-work-in-61-minutes-(codex-for-work)-zWL6XGP3Em8.md) · Riley Brown
 
 ## Data
 

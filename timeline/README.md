@@ -6,6 +6,11 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-08-16](2026/08/2026-08-16.md) · 2 篇
+
+- [OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber](../channels/lenny's-podcast/2026-08-16-openai’s-head-of-design-this-is-the-best-time-in-history-to-be-a-designer-ian-silber-BV0hy6NET-U.md) · Lenny's Podcast
+- [Codex Just Replaced All His Apps | Bilawal Sidhu](../channels/riley-brown/2026-08-16-codex-just-replaced-all-his-apps-bilawal-sidhu-NR_GMq2lDCE.md) · Riley Brown
+
 ## [2026-08-15](2026/08/2026-08-15.md) · 2 篇
 
 - [Exo: Harnesses should see their own code and logs — Alex Krentsel](../channels/latent-space/2026-08-15-exo-harnesses-should-see-their-own-code-and-logs-—-alex-krentsel-5lFD-34dhqE.md) · Latent Space

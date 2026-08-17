@@ -1,9 +1,10 @@
 # Riley Brown
 
-58 notes in this channel.
+59 notes in this channel.
 
-本频道共 58 篇。
+本频道共 59 篇。
 
+- 2026-08-16 · [Codex Just Replaced All His Apps | Bilawal Sidhu](2026-08-16-codex-just-replaced-all-his-apps-bilawal-sidhu-NR_GMq2lDCE.md)
 - 2026-08-15 · [Grok 4.6 is Actually Good… And Claude Keeps Getting Better](2026-08-15-grok-4.6-is-actually-good...-and-claude-keeps-getting-better-VWDnptnvFrA.md)
 - 2026-08-11 · [Cursor Just Unleashed GrokBot (It’s Insane)](2026-08-11-cursor-just-unleashed-grokbot-(it’s-insane)-8Yf9IoXkROM.md)
 - 2026-08-10 · [Meta's NEW Muse Code is Here and Major Codex Updates](2026-08-10-meta's-new-muse-code-is-here-and-major-codex-updates-piOSL8Ms9mY.md)
