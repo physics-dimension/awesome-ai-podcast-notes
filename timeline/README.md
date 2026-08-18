@@ -6,6 +6,11 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-08-17](2026/08/2026-08-17.md) · 2 篇
+
+- [Claude Code New Features, Explained](../channels/greg-isenberg/2026-08-17-claude-code-new-features,-explained-SkY-tR9kf-k.md) · Greg Isenberg
+- [Tokens Are the New Dollars | Stripe with a16z](../channels/a16z/2026-08-17-tokens-are-the-new-dollars-stripe-with-a16z-P5iICDVn5gc.md) · a16z
+
 ## [2026-08-16](2026/08/2026-08-16.md) · 2 篇
 
 - [OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber](../channels/lenny's-podcast/2026-08-16-openai’s-head-of-design-this-is-the-best-time-in-history-to-be-a-designer-ian-silber-BV0hy6NET-U.md) · Lenny's Podcast

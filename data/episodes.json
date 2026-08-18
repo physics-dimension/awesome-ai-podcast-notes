@@ -1,5 +1,53 @@
 [
   {
+    "id": "P5iICDVn5gc",
+    "video_id": "P5iICDVn5gc",
+    "title": "Tokens Are the New Dollars | Stripe with a16z",
+    "channel": "a16z",
+    "published": "2026-08-17",
+    "source_url": "https://www.youtube.com/watch?v=P5iICDVn5gc",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "Stripe",
+      "智能体经济",
+      "稳定币",
+      "组织管理"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 25606,
+    "duration": "53:49",
+    "duration_seconds": 3229,
+    "path": "channels/a16z/2026-08-17-tokens-are-the-new-dollars-stripe-with-a16z-P5iICDVn5gc.md",
+    "structured_path": "channels/a16z/2026-08-17-tokens-are-the-new-dollars-stripe-with-a16z-P5iICDVn5gc.structured.md",
+    "transcript_path": "channels/a16z/2026-08-17-tokens-are-the-new-dollars-stripe-with-a16z-P5iICDVn5gc.transcript.md"
+  },
+  {
+    "id": "SkY-tR9kf-k",
+    "video_id": "SkY-tR9kf-k",
+    "title": "Claude Code New Features, Explained",
+    "channel": "Greg Isenberg",
+    "published": "2026-08-17",
+    "source_url": "https://www.youtube.com/watch?v=SkY-tR9kf-k",
+    "notion_url": "",
+    "tags": [
+      "Claude Code",
+      "AI员工",
+      "AI Agent",
+      "自动化工作流",
+      "AI编程"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 21390,
+    "duration": "48:10",
+    "duration_seconds": 2890,
+    "path": "channels/greg-isenberg/2026-08-17-claude-code-new-features,-explained-SkY-tR9kf-k.md",
+    "structured_path": "channels/greg-isenberg/2026-08-17-claude-code-new-features,-explained-SkY-tR9kf-k.structured.md",
+    "transcript_path": "channels/greg-isenberg/2026-08-17-claude-code-new-features,-explained-SkY-tR9kf-k.transcript.md"
+  },
+  {
     "id": "BV0hy6NET-U",
     "video_id": "BV0hy6NET-U",
     "title": "OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber",

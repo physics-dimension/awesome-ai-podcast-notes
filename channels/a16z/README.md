@@ -1,9 +1,10 @@
 # a16z
 
-63 notes in this channel.
+64 notes in this channel.
 
-本频道共 63 篇。
+本频道共 64 篇。
 
+- 2026-08-17 · [Tokens Are the New Dollars | Stripe with a16z](2026-08-17-tokens-are-the-new-dollars-stripe-with-a16z-P5iICDVn5gc.md)
 - 2026-08-14 · [Travis Kalanick: How AI Will Transform the Physical World](2026-08-14-travis-kalanick-how-ai-will-transform-the-physical-world-r8qKNFeBPXE.md)
 - 2026-08-13 · [Lighthouse or Landgrab? How to Pick Your AI Sales Strategy](2026-08-13-lighthouse-or-landgrab-how-to-pick-your-ai-sales-strategy-aakZLqxRQfo.md)
 - 2026-08-12 · [The New Rules for Founders | Garry Tan on a16z](2026-08-12-the-new-rules-for-founders-garry-tan-on-a16z-fsTtKywmWlU.md)

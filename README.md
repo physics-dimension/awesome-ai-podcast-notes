@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-785-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-787-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 785 |
+| 笔记 | 787 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 462 |
-| 原始文稿 | 745 |
+| 结构化文稿 | 464 |
+| 原始文稿 | 747 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-08-16 |
-| 仓库更新日期 | 2026-08-17 |
+| 最新来源日期 | 2026-08-17 |
+| 仓库更新日期 | 2026-08-18 |
 
 ## 适合谁
 
@@ -56,17 +56,17 @@
 - 2026-08-11 · [🔬Biology Is Turning Into Software — Matt McPartlon and Neil Patil, Chai Discovery](channels/latent-space/2026-08-11-🔬biology-is-turning-into-software-—-matt-mcpartlon-and-neil-patil,-chai-discovery-Qp5xklyJySI.md)
 - 2026-08-03 · [The Inference Frontier: 10x Faster Models to Self-Optimizing AI — Philip Kiely & Ali Taha, Baseten](channels/latent-space/2026-08-03-the-inference-frontier-10x-faster-models-to-self-optimizing-ai-—-philip-kiely-&-ali-taha,-baseten-7PSXtru6mmY.md)
 
-### [a16z](channels/a16z/README.md) · 63 篇
+### [a16z](channels/a16z/README.md) · 64 篇
 
+- 2026-08-17 · [Tokens Are the New Dollars | Stripe with a16z](channels/a16z/2026-08-17-tokens-are-the-new-dollars-stripe-with-a16z-P5iICDVn5gc.md)
 - 2026-08-14 · [Travis Kalanick: How AI Will Transform the Physical World](channels/a16z/2026-08-14-travis-kalanick-how-ai-will-transform-the-physical-world-r8qKNFeBPXE.md)
 - 2026-08-13 · [Lighthouse or Landgrab? How to Pick Your AI Sales Strategy](channels/a16z/2026-08-13-lighthouse-or-landgrab-how-to-pick-your-ai-sales-strategy-aakZLqxRQfo.md)
-- 2026-08-12 · [The New Rules for Founders | Garry Tan on a16z](channels/a16z/2026-08-12-the-new-rules-for-founders-garry-tan-on-a16z-fsTtKywmWlU.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 61 篇
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 62 篇
 
+- 2026-08-17 · [Claude Code New Features, Explained](channels/greg-isenberg/2026-08-17-claude-code-new-features,-explained-SkY-tR9kf-k.md)
 - 2026-08-12 · [My top secrets to running an AI Agent Workforce](channels/greg-isenberg/2026-08-12-my-top-secrets-to-running-an-ai-agent-workforce-EzQAgnjTq2k.md)
 - 2026-08-10 · [Cloudflare will make 1000+ AI millionaires](channels/greg-isenberg/2026-08-10-cloudflare-will-make-1000+-ai-millionaires-MNNfat_QP0E.md)
-- 2026-08-05 · [These AI Marketing Agents Get You Customers](channels/greg-isenberg/2026-08-05-these-ai-marketing-agents-get-you-customers-mD7JpNHLT70.md)
 
 ### [Riley Brown](channels/riley-brown/README.md) · 59 篇
 
@@ -93,6 +93,11 @@
 - 2026-07-16 · [Building the Agentic AI Platform for Hospitals](channels/y-combinator/2026-07-16-building-the-agentic-ai-platform-for-hospitals-3lQQadC6vKg.md)
 
 ## 最新更新
+
+### 2026-08-17
+
+- [Tokens Are the New Dollars | Stripe with a16z](channels/a16z/2026-08-17-tokens-are-the-new-dollars-stripe-with-a16z-P5iICDVn5gc.md) · a16z
+- [Claude Code New Features, Explained](channels/greg-isenberg/2026-08-17-claude-code-new-features,-explained-SkY-tR9kf-k.md) · Greg Isenberg
 
 ### 2026-08-16
 
@@ -130,11 +135,6 @@
 
 - [Meta's NEW Muse Code is Here and Major Codex Updates](channels/riley-brown/2026-08-10-meta's-new-muse-code-is-here-and-major-codex-updates-piOSL8Ms9mY.md) · Riley Brown
 - [Kavak's Playbook for Rebuilding a Company Around AI](channels/a16z/2026-08-10-kavak's-playbook-for-rebuilding-a-company-around-ai-n34CIw3gk1k.md) · a16z
-- [Cloudflare will make 1000+ AI millionaires](channels/greg-isenberg/2026-08-10-cloudflare-will-make-1000+-ai-millionaires-MNNfat_QP0E.md) · Greg Isenberg
-
-### 2026-08-09
-
-- [【十字路口】「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人【视频播客】](channels/koji-yang/2026-08-09-【十字路口】「模型能力已经够了,要卷就卷-infra」-对谈戴冠兰-runta-创始人【视频播客】-AMAz05gz7HE.md) · Koji Yang
 
 ## 数据与自动更新
 
