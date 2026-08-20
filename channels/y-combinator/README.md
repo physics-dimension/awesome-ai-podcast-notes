@@ -1,9 +1,10 @@
 # Y Combinator
 
-41 notes in this channel.
+42 notes in this channel.
 
-本频道共 41 篇。
+本频道共 42 篇。
 
+- 2026-08-19 · [PostHog: Pivots Were The Real Lesson In Building A Startup](2026-08-19-posthog-pivots-were-the-real-lesson-in-building-a-startup-6A4u7Nl-SHY.md)
 - 2026-08-14 · [Building And Structuring An AI Native Company](2026-08-14-building-and-structuring-an-ai-native-company-Z3JyAqh4ixg.md)
 - 2026-07-20 · [The First Dedicated YC GPU Cluster - With Together AI](2026-07-20-the-first-dedicated-yc-gpu-cluster-with-together-ai-tOhkv307Pm0.md)
 - 2026-07-16 · [Building the Agentic AI Platform for Hospitals](2026-07-16-building-the-agentic-ai-platform-for-hospitals-3lQQadC6vKg.md)

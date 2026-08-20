@@ -1,9 +1,10 @@
 # Greg Isenberg
 
-62 notes in this channel.
+63 notes in this channel.
 
-本频道共 62 篇。
+本频道共 63 篇。
 
+- 2026-08-19 · [Biggest Unlock for AI Agents in 2026: Skillsmaxxing](2026-08-19-biggest-unlock-for-ai-agents-in-2026-skillsmaxxing-xHsftiyT9pQ.md)
 - 2026-08-17 · [Claude Code New Features, Explained](2026-08-17-claude-code-new-features,-explained-SkY-tR9kf-k.md)
 - 2026-08-12 · [My top secrets to running an AI Agent Workforce](2026-08-12-my-top-secrets-to-running-an-ai-agent-workforce-EzQAgnjTq2k.md)
 - 2026-08-10 · [Cloudflare will make 1000+ AI millionaires](2026-08-10-cloudflare-will-make-1000+-ai-millionaires-MNNfat_QP0E.md)

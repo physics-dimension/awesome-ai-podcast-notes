@@ -6,6 +6,16 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-08-20](2026/08/2026-08-20.md) · 1 篇
+
+- [E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路](../channels/硅谷101/2026-08-20-e249-token经济转点-openclaw、hermes到本地自研的agent进化之路-6FUJbpMrYRA.md) · 硅谷101
+
+## [2026-08-19](2026/08/2026-08-19.md) · 3 篇
+
+- [Biggest Unlock for AI Agents in 2026: Skillsmaxxing](../channels/greg-isenberg/2026-08-19-biggest-unlock-for-ai-agents-in-2026-skillsmaxxing-xHsftiyT9pQ.md) · Greg Isenberg
+- [PostHog: Pivots Were The Real Lesson In Building A Startup](../channels/y-combinator/2026-08-19-posthog-pivots-were-the-real-lesson-in-building-a-startup-6A4u7Nl-SHY.md) · Y Combinator
+- [Inside Whatnot's Bet on Live Shopping](../channels/a16z/2026-08-19-inside-whatnot's-bet-on-live-shopping-XqEr7hk89HY.md) · a16z
+
 ## [2026-08-17](2026/08/2026-08-17.md) · 2 篇
 
 - [Claude Code New Features, Explained](../channels/greg-isenberg/2026-08-17-claude-code-new-features,-explained-SkY-tR9kf-k.md) · Greg Isenberg
