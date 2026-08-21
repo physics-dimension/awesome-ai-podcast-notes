@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-791-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-793-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 791 |
+| 笔记 | 793 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 468 |
-| 原始文稿 | 751 |
+| 结构化文稿 | 470 |
+| 原始文稿 | 753 |
 | 最早来源日期 | 2016-10-07 |
 | 最新来源日期 | 2026-08-20 |
-| 仓库更新日期 | 2026-08-20 |
+| 仓库更新日期 | 2026-08-21 |
 
 ## 适合谁
 
@@ -56,11 +56,11 @@
 - 2026-08-11 · [🔬Biology Is Turning Into Software — Matt McPartlon and Neil Patil, Chai Discovery](channels/latent-space/2026-08-11-🔬biology-is-turning-into-software-—-matt-mcpartlon-and-neil-patil,-chai-discovery-Qp5xklyJySI.md)
 - 2026-08-03 · [The Inference Frontier: 10x Faster Models to Self-Optimizing AI — Philip Kiely & Ali Taha, Baseten](channels/latent-space/2026-08-03-the-inference-frontier-10x-faster-models-to-self-optimizing-ai-—-philip-kiely-&-ali-taha,-baseten-7PSXtru6mmY.md)
 
-### [a16z](channels/a16z/README.md) · 65 篇
+### [a16z](channels/a16z/README.md) · 66 篇
 
+- 2026-08-20 · [Why the Next Great Founders Will Be Borderless](channels/a16z/2026-08-20-why-the-next-great-founders-will-be-borderless-0t3TpJXa5-A.md)
 - 2026-08-19 · [Inside Whatnot's Bet on Live Shopping](channels/a16z/2026-08-19-inside-whatnot's-bet-on-live-shopping-XqEr7hk89HY.md)
 - 2026-08-17 · [Tokens Are the New Dollars | Stripe with a16z](channels/a16z/2026-08-17-tokens-are-the-new-dollars-stripe-with-a16z-P5iICDVn5gc.md)
-- 2026-08-14 · [Travis Kalanick: How AI Will Transform the Physical World](channels/a16z/2026-08-14-travis-kalanick-how-ai-will-transform-the-physical-world-r8qKNFeBPXE.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 63 篇
 
@@ -86,16 +86,18 @@
 - 2026-08-12 · [150. 对英伟达研究副总裁刘洺堉的4小时访谈：功夫、Cosmos 3、开源世界模型、黄仁勋、你不需要击败所有对手](channels/张晓珺/2026-08-12-150.-对英伟达研究副总裁刘洺堉的4小时访谈-功夫、cosmos-3、开源世界模型、黄仁勋、你不需要击败所有对手-Cj_kb9nlAlE.md)
 - 2026-07-31 · [149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark](channels/张晓珺/2026-07-31-149.-亲历中美neo-labs资本狂潮,和清华刘子鸣聊-ai-for-ai、机制可解释性和max-tegmark-H3Gs4QUHvA4.md)
 
-### [Y Combinator](channels/y-combinator/README.md) · 42 篇
+### [Y Combinator](channels/y-combinator/README.md) · 43 篇
 
+- 2026-08-20 · [How Olivier Pomel Built Datadog By Refusing Every Shortcut](channels/y-combinator/2026-08-20-how-olivier-pomel-built-datadog-by-refusing-every-shortcut-zcUoVg8Xvrk.md)
 - 2026-08-19 · [PostHog: Pivots Were The Real Lesson In Building A Startup](channels/y-combinator/2026-08-19-posthog-pivots-were-the-real-lesson-in-building-a-startup-6A4u7Nl-SHY.md)
 - 2026-08-14 · [Building And Structuring An AI Native Company](channels/y-combinator/2026-08-14-building-and-structuring-an-ai-native-company-Z3JyAqh4ixg.md)
-- 2026-07-20 · [The First Dedicated YC GPU Cluster - With Together AI](channels/y-combinator/2026-07-20-the-first-dedicated-yc-gpu-cluster-with-together-ai-tOhkv307Pm0.md)
 
 ## 最新更新
 
 ### 2026-08-20
 
+- [Why the Next Great Founders Will Be Borderless](channels/a16z/2026-08-20-why-the-next-great-founders-will-be-borderless-0t3TpJXa5-A.md) · a16z
+- [How Olivier Pomel Built Datadog By Refusing Every Shortcut](channels/y-combinator/2026-08-20-how-olivier-pomel-built-datadog-by-refusing-every-shortcut-zcUoVg8Xvrk.md) · Y Combinator
 - [E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路](channels/硅谷101/2026-08-20-e249-token经济转点-openclaw、hermes到本地自研的agent进化之路-6FUJbpMrYRA.md) · 硅谷101
 
 ### 2026-08-19
@@ -133,8 +135,6 @@
 
 - [The New Rules for Founders | Garry Tan on a16z](channels/a16z/2026-08-12-the-new-rules-for-founders-garry-tan-on-a16z-fsTtKywmWlU.md) · a16z
 - [My top secrets to running an AI Agent Workforce](channels/greg-isenberg/2026-08-12-my-top-secrets-to-running-an-ai-agent-workforce-EzQAgnjTq2k.md) · Greg Isenberg
-- [Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football | Lex Fridman Podcast #500](channels/lex-fridman/2026-08-12-khabib-nurmagomedov-dagestan,-mma,-ufc,-islam,-conor,-fedor-&-football-lex-fridman-podcast-500-l6USUAIKJls.md) · Lex Fridman
-- [150. 对英伟达研究副总裁刘洺堉的4小时访谈：功夫、Cosmos 3、开源世界模型、黄仁勋、你不需要击败所有对手](channels/张晓珺/2026-08-12-150.-对英伟达研究副总裁刘洺堉的4小时访谈-功夫、cosmos-3、开源世界模型、黄仁勋、你不需要击败所有对手-Cj_kb9nlAlE.md) · 张晓珺
 
 ## 数据与自动更新
 

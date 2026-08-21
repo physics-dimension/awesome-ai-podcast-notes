@@ -6,8 +6,10 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-08-20](2026/08/2026-08-20.md) · 1 篇
+## [2026-08-20](2026/08/2026-08-20.md) · 3 篇
 
+- [How Olivier Pomel Built Datadog By Refusing Every Shortcut](../channels/y-combinator/2026-08-20-how-olivier-pomel-built-datadog-by-refusing-every-shortcut-zcUoVg8Xvrk.md) · Y Combinator
+- [Why the Next Great Founders Will Be Borderless](../channels/a16z/2026-08-20-why-the-next-great-founders-will-be-borderless-0t3TpJXa5-A.md) · a16z
 - [E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路](../channels/硅谷101/2026-08-20-e249-token经济转点-openclaw、hermes到本地自研的agent进化之路-6FUJbpMrYRA.md) · 硅谷101
 
 ## [2026-08-19](2026/08/2026-08-19.md) · 3 篇

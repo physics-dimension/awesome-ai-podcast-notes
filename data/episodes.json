@@ -1,5 +1,53 @@
 [
   {
+    "id": "0t3TpJXa5-A",
+    "video_id": "0t3TpJXa5-A",
+    "title": "Why the Next Great Founders Will Be Borderless",
+    "channel": "a16z",
+    "published": "2026-08-20",
+    "source_url": "https://www.youtube.com/watch?v=0t3TpJXa5-A",
+    "notion_url": "",
+    "tags": [
+      "无国界创始人",
+      "风险投资",
+      "全球化创业",
+      "人才网络",
+      "AI"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 16628,
+    "duration": "44:49",
+    "duration_seconds": 2689,
+    "path": "channels/a16z/2026-08-20-why-the-next-great-founders-will-be-borderless-0t3TpJXa5-A.md",
+    "structured_path": "channels/a16z/2026-08-20-why-the-next-great-founders-will-be-borderless-0t3TpJXa5-A.structured.md",
+    "transcript_path": "channels/a16z/2026-08-20-why-the-next-great-founders-will-be-borderless-0t3TpJXa5-A.transcript.md"
+  },
+  {
+    "id": "zcUoVg8Xvrk",
+    "video_id": "zcUoVg8Xvrk",
+    "title": "How Olivier Pomel Built Datadog By Refusing Every Shortcut",
+    "channel": "Y Combinator",
+    "published": "2026-08-20",
+    "source_url": "https://www.youtube.com/watch?v=zcUoVg8Xvrk",
+    "notion_url": "",
+    "tags": [
+      "创业",
+      "长期主义",
+      "产品决策",
+      "AI",
+      "创始人文化"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 17445,
+    "duration": "29:09",
+    "duration_seconds": 1749,
+    "path": "channels/y-combinator/2026-08-20-how-olivier-pomel-built-datadog-by-refusing-every-shortcut-zcUoVg8Xvrk.md",
+    "structured_path": "channels/y-combinator/2026-08-20-how-olivier-pomel-built-datadog-by-refusing-every-shortcut-zcUoVg8Xvrk.structured.md",
+    "transcript_path": "channels/y-combinator/2026-08-20-how-olivier-pomel-built-datadog-by-refusing-every-shortcut-zcUoVg8Xvrk.transcript.md"
+  },
+  {
     "id": "6FUJbpMrYRA",
     "video_id": "6FUJbpMrYRA",
     "title": "E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路",

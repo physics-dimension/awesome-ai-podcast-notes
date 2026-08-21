@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 791 |
+| Notes | 793 |
 | Channels | 16 |
-| Structured notes | 468 |
-| Raw transcripts | 751 |
+| Structured notes | 470 |
+| Raw transcripts | 753 |
 | Earliest source date | 2016-10-07 |
 | Latest source date | 2026-08-20 |
-| Archive updated | 2026-08-20 |
+| Archive updated | 2026-08-21 |
 
 Each episode can include up to three versions:
 
@@ -45,11 +45,11 @@ Each episode can include up to three versions:
 - 2026-08-11 · [🔬Biology Is Turning Into Software — Matt McPartlon and Neil Patil, Chai Discovery](channels/latent-space/2026-08-11-🔬biology-is-turning-into-software-—-matt-mcpartlon-and-neil-patil,-chai-discovery-Qp5xklyJySI.md)
 - 2026-08-03 · [The Inference Frontier: 10x Faster Models to Self-Optimizing AI — Philip Kiely & Ali Taha, Baseten](channels/latent-space/2026-08-03-the-inference-frontier-10x-faster-models-to-self-optimizing-ai-—-philip-kiely-&-ali-taha,-baseten-7PSXtru6mmY.md)
 
-### [a16z](channels/a16z/README.md) · 65 notes
+### [a16z](channels/a16z/README.md) · 66 notes
 
+- 2026-08-20 · [Why the Next Great Founders Will Be Borderless](channels/a16z/2026-08-20-why-the-next-great-founders-will-be-borderless-0t3TpJXa5-A.md)
 - 2026-08-19 · [Inside Whatnot's Bet on Live Shopping](channels/a16z/2026-08-19-inside-whatnot's-bet-on-live-shopping-XqEr7hk89HY.md)
 - 2026-08-17 · [Tokens Are the New Dollars | Stripe with a16z](channels/a16z/2026-08-17-tokens-are-the-new-dollars-stripe-with-a16z-P5iICDVn5gc.md)
-- 2026-08-14 · [Travis Kalanick: How AI Will Transform the Physical World](channels/a16z/2026-08-14-travis-kalanick-how-ai-will-transform-the-physical-world-r8qKNFeBPXE.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 63 notes
 
@@ -75,16 +75,18 @@ Each episode can include up to three versions:
 - 2026-08-12 · [150. 对英伟达研究副总裁刘洺堉的4小时访谈：功夫、Cosmos 3、开源世界模型、黄仁勋、你不需要击败所有对手](channels/张晓珺/2026-08-12-150.-对英伟达研究副总裁刘洺堉的4小时访谈-功夫、cosmos-3、开源世界模型、黄仁勋、你不需要击败所有对手-Cj_kb9nlAlE.md)
 - 2026-07-31 · [149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark](channels/张晓珺/2026-07-31-149.-亲历中美neo-labs资本狂潮,和清华刘子鸣聊-ai-for-ai、机制可解释性和max-tegmark-H3Gs4QUHvA4.md)
 
-### [Y Combinator](channels/y-combinator/README.md) · 42 notes
+### [Y Combinator](channels/y-combinator/README.md) · 43 notes
 
+- 2026-08-20 · [How Olivier Pomel Built Datadog By Refusing Every Shortcut](channels/y-combinator/2026-08-20-how-olivier-pomel-built-datadog-by-refusing-every-shortcut-zcUoVg8Xvrk.md)
 - 2026-08-19 · [PostHog: Pivots Were The Real Lesson In Building A Startup](channels/y-combinator/2026-08-19-posthog-pivots-were-the-real-lesson-in-building-a-startup-6A4u7Nl-SHY.md)
 - 2026-08-14 · [Building And Structuring An AI Native Company](channels/y-combinator/2026-08-14-building-and-structuring-an-ai-native-company-Z3JyAqh4ixg.md)
-- 2026-07-20 · [The First Dedicated YC GPU Cluster - With Together AI](channels/y-combinator/2026-07-20-the-first-dedicated-yc-gpu-cluster-with-together-ai-tOhkv307Pm0.md)
 
 ## Latest Updates
 
 ### 2026-08-20
 
+- [Why the Next Great Founders Will Be Borderless](channels/a16z/2026-08-20-why-the-next-great-founders-will-be-borderless-0t3TpJXa5-A.md) · a16z
+- [How Olivier Pomel Built Datadog By Refusing Every Shortcut](channels/y-combinator/2026-08-20-how-olivier-pomel-built-datadog-by-refusing-every-shortcut-zcUoVg8Xvrk.md) · Y Combinator
 - [E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路](channels/硅谷101/2026-08-20-e249-token经济转点-openclaw、hermes到本地自研的agent进化之路-6FUJbpMrYRA.md) · 硅谷101
 
 ### 2026-08-19
@@ -122,8 +124,6 @@ Each episode can include up to three versions:
 
 - [The New Rules for Founders | Garry Tan on a16z](channels/a16z/2026-08-12-the-new-rules-for-founders-garry-tan-on-a16z-fsTtKywmWlU.md) · a16z
 - [My top secrets to running an AI Agent Workforce](channels/greg-isenberg/2026-08-12-my-top-secrets-to-running-an-ai-agent-workforce-EzQAgnjTq2k.md) · Greg Isenberg
-- [Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football | Lex Fridman Podcast #500](channels/lex-fridman/2026-08-12-khabib-nurmagomedov-dagestan,-mma,-ufc,-islam,-conor,-fedor-&-football-lex-fridman-podcast-500-l6USUAIKJls.md) · Lex Fridman
-- [150. 对英伟达研究副总裁刘洺堉的4小时访谈：功夫、Cosmos 3、开源世界模型、黄仁勋、你不需要击败所有对手](channels/张晓珺/2026-08-12-150.-对英伟达研究副总裁刘洺堉的4小时访谈-功夫、cosmos-3、开源世界模型、黄仁勋、你不需要击败所有对手-Cj_kb9nlAlE.md) · 张晓珺
 
 ## Data
 
