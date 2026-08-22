@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-793-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-797-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 793 |
+| 笔记 | 797 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 470 |
-| 原始文稿 | 753 |
+| 结构化文稿 | 474 |
+| 原始文稿 | 757 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-08-20 |
-| 仓库更新日期 | 2026-08-21 |
+| 最新来源日期 | 2026-08-21 |
+| 仓库更新日期 | 2026-08-22 |
 
 ## 适合谁
 
@@ -50,11 +50,11 @@
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [Latent Space](channels/latent-space/README.md) · 72 篇
+### [Latent Space](channels/latent-space/README.md) · 73 篇
 
+- 2026-08-21 · [Simulating Humanity: from Generative Agents to 8 Billion Digital Twins — Joon Sung Park, Simile AI](channels/latent-space/2026-08-21-simulating-humanity-from-generative-agents-to-8-billion-digital-twins-—-joon-sung-park,-simile-ai-KpOW9Pk4BUs.md)
 - 2026-08-15 · [Exo: Harnesses should see their own code and logs — Alex Krentsel](channels/latent-space/2026-08-15-exo-harnesses-should-see-their-own-code-and-logs-—-alex-krentsel-5lFD-34dhqE.md)
 - 2026-08-11 · [🔬Biology Is Turning Into Software — Matt McPartlon and Neil Patil, Chai Discovery](channels/latent-space/2026-08-11-🔬biology-is-turning-into-software-—-matt-mcpartlon-and-neil-patil,-chai-discovery-Qp5xklyJySI.md)
-- 2026-08-03 · [The Inference Frontier: 10x Faster Models to Self-Optimizing AI — Philip Kiely & Ali Taha, Baseten](channels/latent-space/2026-08-03-the-inference-frontier-10x-faster-models-to-self-optimizing-ai-—-philip-kiely-&-ali-taha,-baseten-7PSXtru6mmY.md)
 
 ### [a16z](channels/a16z/README.md) · 66 篇
 
@@ -62,17 +62,17 @@
 - 2026-08-19 · [Inside Whatnot's Bet on Live Shopping](channels/a16z/2026-08-19-inside-whatnot's-bet-on-live-shopping-XqEr7hk89HY.md)
 - 2026-08-17 · [Tokens Are the New Dollars | Stripe with a16z](channels/a16z/2026-08-17-tokens-are-the-new-dollars-stripe-with-a16z-P5iICDVn5gc.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 63 篇
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 64 篇
 
+- 2026-08-21 · [Making $$$ with Grok Bot](channels/greg-isenberg/2026-08-21-making-$$$-with-grok-bot-qQluNEfSVHk.md)
 - 2026-08-19 · [Biggest Unlock for AI Agents in 2026: Skillsmaxxing](channels/greg-isenberg/2026-08-19-biggest-unlock-for-ai-agents-in-2026-skillsmaxxing-xHsftiyT9pQ.md)
 - 2026-08-17 · [Claude Code New Features, Explained](channels/greg-isenberg/2026-08-17-claude-code-new-features,-explained-SkY-tR9kf-k.md)
-- 2026-08-12 · [My top secrets to running an AI Agent Workforce](channels/greg-isenberg/2026-08-12-my-top-secrets-to-running-an-ai-agent-workforce-EzQAgnjTq2k.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 59 篇
+### [Riley Brown](channels/riley-brown/README.md) · 60 篇
 
+- 2026-08-21 · [Codex Can CONTROL Your Messages Now (Endless Possibilities)](channels/riley-brown/2026-08-21-codex-can-control-your-messages-now-(endless-possibilities)-ETa6ZYqoIXo.md)
 - 2026-08-16 · [Codex Just Replaced All His Apps | Bilawal Sidhu](channels/riley-brown/2026-08-16-codex-just-replaced-all-his-apps-bilawal-sidhu-NR_GMq2lDCE.md)
 - 2026-08-15 · [Grok 4.6 is Actually Good… And Claude Keeps Getting Better](channels/riley-brown/2026-08-15-grok-4.6-is-actually-good...-and-claude-keeps-getting-better-VWDnptnvFrA.md)
-- 2026-08-11 · [Cursor Just Unleashed GrokBot (It’s Insane)](channels/riley-brown/2026-08-11-cursor-just-unleashed-grokbot-(it’s-insane)-8Yf9IoXkROM.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 44 篇
 
@@ -80,19 +80,26 @@
 - 2026-08-09 · [The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor](channels/lenny's-podcast/2026-08-09-the-playbook-for-building-high-talent-density-teams-adam-ward,-head-of-talent-at-cursor-zegYJ6dhIg4.md)
 - 2026-08-02 · [This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)](channels/lenny's-podcast/2026-08-02-this-cpo-regrets-that-product-management-exists-tom-verrilli-(cpo-of-whatnot)-ruvis-VWg2s.md)
 
+### [Y Combinator](channels/y-combinator/README.md) · 44 篇
+
+- 2026-08-21 · [Supabase: Cash Does Not Equal Success](channels/y-combinator/2026-08-21-supabase-cash-does-not-equal-success-2cRbdYhs3VY.md)
+- 2026-08-20 · [How Olivier Pomel Built Datadog By Refusing Every Shortcut](channels/y-combinator/2026-08-20-how-olivier-pomel-built-datadog-by-refusing-every-shortcut-zcUoVg8Xvrk.md)
+- 2026-08-19 · [PostHog: Pivots Were The Real Lesson In Building A Startup](channels/y-combinator/2026-08-19-posthog-pivots-were-the-real-lesson-in-building-a-startup-6A4u7Nl-SHY.md)
+
 ### [张晓珺](channels/张晓珺/README.md) · 44 篇
 
 - 2026-08-13 · [NVIDIA VP Ming-Yu Liu: Cosmos 3, World Models, Kung Fu, What Jensen Taught Me](channels/张晓珺/2026-08-13-nvidia-vp-ming-yu-liu-cosmos-3,-world-models,-kung-fu,-what-jensen-taught-me-zawGTDLtWFY.md)
 - 2026-08-12 · [150. 对英伟达研究副总裁刘洺堉的4小时访谈：功夫、Cosmos 3、开源世界模型、黄仁勋、你不需要击败所有对手](channels/张晓珺/2026-08-12-150.-对英伟达研究副总裁刘洺堉的4小时访谈-功夫、cosmos-3、开源世界模型、黄仁勋、你不需要击败所有对手-Cj_kb9nlAlE.md)
 - 2026-07-31 · [149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark](channels/张晓珺/2026-07-31-149.-亲历中美neo-labs资本狂潮,和清华刘子鸣聊-ai-for-ai、机制可解释性和max-tegmark-H3Gs4QUHvA4.md)
 
-### [Y Combinator](channels/y-combinator/README.md) · 43 篇
-
-- 2026-08-20 · [How Olivier Pomel Built Datadog By Refusing Every Shortcut](channels/y-combinator/2026-08-20-how-olivier-pomel-built-datadog-by-refusing-every-shortcut-zcUoVg8Xvrk.md)
-- 2026-08-19 · [PostHog: Pivots Were The Real Lesson In Building A Startup](channels/y-combinator/2026-08-19-posthog-pivots-were-the-real-lesson-in-building-a-startup-6A4u7Nl-SHY.md)
-- 2026-08-14 · [Building And Structuring An AI Native Company](channels/y-combinator/2026-08-14-building-and-structuring-an-ai-native-company-Z3JyAqh4ixg.md)
-
 ## 最新更新
+
+### 2026-08-21
+
+- [Supabase: Cash Does Not Equal Success](channels/y-combinator/2026-08-21-supabase-cash-does-not-equal-success-2cRbdYhs3VY.md) · Y Combinator
+- [Simulating Humanity: from Generative Agents to 8 Billion Digital Twins — Joon Sung Park, Simile AI](channels/latent-space/2026-08-21-simulating-humanity-from-generative-agents-to-8-billion-digital-twins-—-joon-sung-park,-simile-ai-KpOW9Pk4BUs.md) · Latent Space
+- [Making $$$ with Grok Bot](channels/greg-isenberg/2026-08-21-making-$$$-with-grok-bot-qQluNEfSVHk.md) · Greg Isenberg
+- [Codex Can CONTROL Your Messages Now (Endless Possibilities)](channels/riley-brown/2026-08-21-codex-can-control-your-messages-now-(endless-possibilities)-ETa6ZYqoIXo.md) · Riley Brown
 
 ### 2026-08-20
 
@@ -125,16 +132,6 @@
 
 - [Travis Kalanick: How AI Will Transform the Physical World](channels/a16z/2026-08-14-travis-kalanick-how-ai-will-transform-the-physical-world-r8qKNFeBPXE.md) · a16z
 - [Building And Structuring An AI Native Company](channels/y-combinator/2026-08-14-building-and-structuring-an-ai-native-company-Z3JyAqh4ixg.md) · Y Combinator
-
-### 2026-08-13
-
-- [NVIDIA VP Ming-Yu Liu: Cosmos 3, World Models, Kung Fu, What Jensen Taught Me](channels/张晓珺/2026-08-13-nvidia-vp-ming-yu-liu-cosmos-3,-world-models,-kung-fu,-what-jensen-taught-me-zawGTDLtWFY.md) · 张晓珺
-- [Lighthouse or Landgrab? How to Pick Your AI Sales Strategy](channels/a16z/2026-08-13-lighthouse-or-landgrab-how-to-pick-your-ai-sales-strategy-aakZLqxRQfo.md) · a16z
-
-### 2026-08-12
-
-- [The New Rules for Founders | Garry Tan on a16z](channels/a16z/2026-08-12-the-new-rules-for-founders-garry-tan-on-a16z-fsTtKywmWlU.md) · a16z
-- [My top secrets to running an AI Agent Workforce](channels/greg-isenberg/2026-08-12-my-top-secrets-to-running-an-ai-agent-workforce-EzQAgnjTq2k.md) · Greg Isenberg
 
 ## 数据与自动更新
 

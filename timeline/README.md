@@ -6,6 +6,13 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-08-21](2026/08/2026-08-21.md) · 4 篇
+
+- [Making $$$ with Grok Bot](../channels/greg-isenberg/2026-08-21-making-$$$-with-grok-bot-qQluNEfSVHk.md) · Greg Isenberg
+- [Simulating Humanity: from Generative Agents to 8 Billion Digital Twins — Joon Sung Park, Simile AI](../channels/latent-space/2026-08-21-simulating-humanity-from-generative-agents-to-8-billion-digital-twins-—-joon-sung-park,-simile-ai-KpOW9Pk4BUs.md) · Latent Space
+- [Codex Can CONTROL Your Messages Now (Endless Possibilities)](../channels/riley-brown/2026-08-21-codex-can-control-your-messages-now-(endless-possibilities)-ETa6ZYqoIXo.md) · Riley Brown
+- [Supabase: Cash Does Not Equal Success](../channels/y-combinator/2026-08-21-supabase-cash-does-not-equal-success-2cRbdYhs3VY.md) · Y Combinator
+
 ## [2026-08-20](2026/08/2026-08-20.md) · 3 篇
 
 - [How Olivier Pomel Built Datadog By Refusing Every Shortcut](../channels/y-combinator/2026-08-20-how-olivier-pomel-built-datadog-by-refusing-every-shortcut-zcUoVg8Xvrk.md) · Y Combinator
