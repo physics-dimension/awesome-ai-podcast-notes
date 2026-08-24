@@ -6,6 +6,10 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-08-23](2026/08/2026-08-23.md) · 1 篇
+
+- [84 minutes of enterprise sales alpha | Jen Abel](../channels/lenny's-podcast/2026-08-23-84-minutes-of-enterprise-sales-alpha-jen-abel-YS9In813jJ0.md) · Lenny's Podcast
+
 ## [2026-08-21](2026/08/2026-08-21.md) · 4 篇
 
 - [Making $$$ with Grok Bot](../channels/greg-isenberg/2026-08-21-making-$$$-with-grok-bot-qQluNEfSVHk.md) · Greg Isenberg

@@ -1,9 +1,10 @@
 # Lenny's Podcast
 
-44 notes in this channel.
+45 notes in this channel.
 
-本频道共 44 篇。
+本频道共 45 篇。
 
+- 2026-08-23 · [84 minutes of enterprise sales alpha | Jen Abel](2026-08-23-84-minutes-of-enterprise-sales-alpha-jen-abel-YS9In813jJ0.md)
 - 2026-08-16 · [OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber](2026-08-16-openai’s-head-of-design-this-is-the-best-time-in-history-to-be-a-designer-ian-silber-BV0hy6NET-U.md)
 - 2026-08-09 · [The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor](2026-08-09-the-playbook-for-building-high-talent-density-teams-adam-ward,-head-of-talent-at-cursor-zegYJ6dhIg4.md)
 - 2026-08-02 · [This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)](2026-08-02-this-cpo-regrets-that-product-management-exists-tom-verrilli-(cpo-of-whatnot)-ruvis-VWg2s.md)

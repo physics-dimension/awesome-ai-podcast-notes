@@ -1,5 +1,29 @@
 [
   {
+    "id": "YS9In813jJ0",
+    "video_id": "YS9In813jJ0",
+    "title": "84 minutes of enterprise sales alpha | Jen Abel",
+    "channel": "Lenny's Podcast",
+    "published": "2026-08-23",
+    "source_url": "https://www.youtube.com/watch?v=YS9In813jJ0",
+    "notion_url": "",
+    "tags": [
+      "企业销售",
+      "销售技巧",
+      "B2B",
+      "SaaS",
+      "销售流程"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 21883,
+    "duration": "1:24:57",
+    "duration_seconds": 5097,
+    "path": "channels/lenny's-podcast/2026-08-23-84-minutes-of-enterprise-sales-alpha-jen-abel-YS9In813jJ0.md",
+    "structured_path": "channels/lenny's-podcast/2026-08-23-84-minutes-of-enterprise-sales-alpha-jen-abel-YS9In813jJ0.structured.md",
+    "transcript_path": "channels/lenny's-podcast/2026-08-23-84-minutes-of-enterprise-sales-alpha-jen-abel-YS9In813jJ0.transcript.md"
+  },
+  {
     "id": "2cRbdYhs3VY",
     "video_id": "2cRbdYhs3VY",
     "title": "Supabase: Cash Does Not Equal Success",
@@ -1182,29 +1206,5 @@
     "path": "channels/张晓珺/2026-07-28-you-kaichao-vllm,-open-source-infra,-model-co-design-&-journey-from-community-to-startup-ifniRXf467I.md",
     "structured_path": "channels/张晓珺/2026-07-28-you-kaichao-vllm,-open-source-infra,-model-co-design-&-journey-from-community-to-startup-ifniRXf467I.structured.md",
     "transcript_path": "channels/张晓珺/2026-07-28-you-kaichao-vllm,-open-source-infra,-model-co-design-&-journey-from-community-to-startup-ifniRXf467I.transcript.md"
-  },
-  {
-    "id": "-tabaM5l3s0",
-    "video_id": "-tabaM5l3s0",
-    "title": "The Next Frontier of AI Is Spatial Intelligence | Fei-Fei Li on a16z",
-    "channel": "a16z",
-    "published": "2026-07-28",
-    "source_url": "https://www.youtube.com/watch?v=-tabaM5l3s0",
-    "notion_url": "",
-    "tags": [
-      "AI",
-      "空间智能",
-      "机器人",
-      "仿真",
-      "具身智能"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 10635,
-    "duration": "42:21",
-    "duration_seconds": 2541,
-    "path": "channels/a16z/2026-07-28-the-next-frontier-of-ai-is-spatial-intelligence-fei-fei-li-on-a16z--tabaM5l3s0.md",
-    "structured_path": "channels/a16z/2026-07-28-the-next-frontier-of-ai-is-spatial-intelligence-fei-fei-li-on-a16z--tabaM5l3s0.structured.md",
-    "transcript_path": "channels/a16z/2026-07-28-the-next-frontier-of-ai-is-spatial-intelligence-fei-fei-li-on-a16z--tabaM5l3s0.transcript.md"
   }
 ]

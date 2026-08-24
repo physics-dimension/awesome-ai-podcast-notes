@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-797-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-798-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 797 |
+| 笔记 | 798 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 474 |
-| 原始文稿 | 757 |
+| 结构化文稿 | 475 |
+| 原始文稿 | 758 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-08-21 |
-| 仓库更新日期 | 2026-08-22 |
+| 最新来源日期 | 2026-08-23 |
+| 仓库更新日期 | 2026-08-24 |
 
 ## 适合谁
 
@@ -74,11 +74,11 @@
 - 2026-08-16 · [Codex Just Replaced All His Apps | Bilawal Sidhu](channels/riley-brown/2026-08-16-codex-just-replaced-all-his-apps-bilawal-sidhu-NR_GMq2lDCE.md)
 - 2026-08-15 · [Grok 4.6 is Actually Good… And Claude Keeps Getting Better](channels/riley-brown/2026-08-15-grok-4.6-is-actually-good...-and-claude-keeps-getting-better-VWDnptnvFrA.md)
 
-### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 44 篇
+### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 45 篇
 
+- 2026-08-23 · [84 minutes of enterprise sales alpha | Jen Abel](channels/lenny's-podcast/2026-08-23-84-minutes-of-enterprise-sales-alpha-jen-abel-YS9In813jJ0.md)
 - 2026-08-16 · [OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber](channels/lenny's-podcast/2026-08-16-openai’s-head-of-design-this-is-the-best-time-in-history-to-be-a-designer-ian-silber-BV0hy6NET-U.md)
 - 2026-08-09 · [The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor](channels/lenny's-podcast/2026-08-09-the-playbook-for-building-high-talent-density-teams-adam-ward,-head-of-talent-at-cursor-zegYJ6dhIg4.md)
-- 2026-08-02 · [This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)](channels/lenny's-podcast/2026-08-02-this-cpo-regrets-that-product-management-exists-tom-verrilli-(cpo-of-whatnot)-ruvis-VWg2s.md)
 
 ### [Y Combinator](channels/y-combinator/README.md) · 44 篇
 
@@ -93,6 +93,10 @@
 - 2026-07-31 · [149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark](channels/张晓珺/2026-07-31-149.-亲历中美neo-labs资本狂潮,和清华刘子鸣聊-ai-for-ai、机制可解释性和max-tegmark-H3Gs4QUHvA4.md)
 
 ## 最新更新
+
+### 2026-08-23
+
+- [84 minutes of enterprise sales alpha | Jen Abel](channels/lenny's-podcast/2026-08-23-84-minutes-of-enterprise-sales-alpha-jen-abel-YS9In813jJ0.md) · Lenny's Podcast
 
 ### 2026-08-21
 
@@ -131,7 +135,6 @@
 ### 2026-08-14
 
 - [Travis Kalanick: How AI Will Transform the Physical World](channels/a16z/2026-08-14-travis-kalanick-how-ai-will-transform-the-physical-world-r8qKNFeBPXE.md) · a16z
-- [Building And Structuring An AI Native Company](channels/y-combinator/2026-08-14-building-and-structuring-an-ai-native-company-Z3JyAqh4ixg.md) · Y Combinator
 
 ## 数据与自动更新
 

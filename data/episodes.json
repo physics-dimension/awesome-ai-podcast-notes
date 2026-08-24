@@ -1,5 +1,29 @@
 [
   {
+    "id": "YS9In813jJ0",
+    "video_id": "YS9In813jJ0",
+    "title": "84 minutes of enterprise sales alpha | Jen Abel",
+    "channel": "Lenny's Podcast",
+    "published": "2026-08-23",
+    "source_url": "https://www.youtube.com/watch?v=YS9In813jJ0",
+    "notion_url": "",
+    "tags": [
+      "企业销售",
+      "销售技巧",
+      "B2B",
+      "SaaS",
+      "销售流程"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 21883,
+    "duration": "1:24:57",
+    "duration_seconds": 5097,
+    "path": "channels/lenny's-podcast/2026-08-23-84-minutes-of-enterprise-sales-alpha-jen-abel-YS9In813jJ0.md",
+    "structured_path": "channels/lenny's-podcast/2026-08-23-84-minutes-of-enterprise-sales-alpha-jen-abel-YS9In813jJ0.structured.md",
+    "transcript_path": "channels/lenny's-podcast/2026-08-23-84-minutes-of-enterprise-sales-alpha-jen-abel-YS9In813jJ0.transcript.md"
+  },
+  {
     "id": "2cRbdYhs3VY",
     "video_id": "2cRbdYhs3VY",
     "title": "Supabase: Cash Does Not Equal Success",

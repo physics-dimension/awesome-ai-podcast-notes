@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 797 |
+| Notes | 798 |
 | Channels | 16 |
-| Structured notes | 474 |
-| Raw transcripts | 757 |
+| Structured notes | 475 |
+| Raw transcripts | 758 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-08-21 |
-| Archive updated | 2026-08-22 |
+| Latest source date | 2026-08-23 |
+| Archive updated | 2026-08-24 |
 
 Each episode can include up to three versions:
 
@@ -63,11 +63,11 @@ Each episode can include up to three versions:
 - 2026-08-16 · [Codex Just Replaced All His Apps | Bilawal Sidhu](channels/riley-brown/2026-08-16-codex-just-replaced-all-his-apps-bilawal-sidhu-NR_GMq2lDCE.md)
 - 2026-08-15 · [Grok 4.6 is Actually Good… And Claude Keeps Getting Better](channels/riley-brown/2026-08-15-grok-4.6-is-actually-good...-and-claude-keeps-getting-better-VWDnptnvFrA.md)
 
-### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 44 notes
+### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 45 notes
 
+- 2026-08-23 · [84 minutes of enterprise sales alpha | Jen Abel](channels/lenny's-podcast/2026-08-23-84-minutes-of-enterprise-sales-alpha-jen-abel-YS9In813jJ0.md)
 - 2026-08-16 · [OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber](channels/lenny's-podcast/2026-08-16-openai’s-head-of-design-this-is-the-best-time-in-history-to-be-a-designer-ian-silber-BV0hy6NET-U.md)
 - 2026-08-09 · [The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor](channels/lenny's-podcast/2026-08-09-the-playbook-for-building-high-talent-density-teams-adam-ward,-head-of-talent-at-cursor-zegYJ6dhIg4.md)
-- 2026-08-02 · [This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)](channels/lenny's-podcast/2026-08-02-this-cpo-regrets-that-product-management-exists-tom-verrilli-(cpo-of-whatnot)-ruvis-VWg2s.md)
 
 ### [Y Combinator](channels/y-combinator/README.md) · 44 notes
 
@@ -82,6 +82,10 @@ Each episode can include up to three versions:
 - 2026-07-31 · [149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark](channels/张晓珺/2026-07-31-149.-亲历中美neo-labs资本狂潮,和清华刘子鸣聊-ai-for-ai、机制可解释性和max-tegmark-H3Gs4QUHvA4.md)
 
 ## Latest Updates
+
+### 2026-08-23
+
+- [84 minutes of enterprise sales alpha | Jen Abel](channels/lenny's-podcast/2026-08-23-84-minutes-of-enterprise-sales-alpha-jen-abel-YS9In813jJ0.md) · Lenny's Podcast
 
 ### 2026-08-21
 
@@ -120,7 +124,6 @@ Each episode can include up to three versions:
 ### 2026-08-14
 
 - [Travis Kalanick: How AI Will Transform the Physical World](channels/a16z/2026-08-14-travis-kalanick-how-ai-will-transform-the-physical-world-r8qKNFeBPXE.md) · a16z
-- [Building And Structuring An AI Native Company](channels/y-combinator/2026-08-14-building-and-structuring-an-ai-native-company-Z3JyAqh4ixg.md) · Y Combinator
 
 ## Data
 
