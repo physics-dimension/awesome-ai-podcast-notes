@@ -1,9 +1,10 @@
 # Latent Space
 
-73 notes in this channel.
+74 notes in this channel.
 
-本频道共 73 篇。
+本频道共 74 篇。
 
+- 2026-08-25 · [⏭️ Forward Deployed: Voice AI on what works in 2026](2026-08-25-⏭️-forward-deployed-voice-ai-on-what-works-in-2026-MwNvowwcZOo.md)
 - 2026-08-21 · [Simulating Humanity: from Generative Agents to 8 Billion Digital Twins — Joon Sung Park, Simile AI](2026-08-21-simulating-humanity-from-generative-agents-to-8-billion-digital-twins-—-joon-sung-park,-simile-ai-KpOW9Pk4BUs.md)
 - 2026-08-15 · [Exo: Harnesses should see their own code and logs — Alex Krentsel](2026-08-15-exo-harnesses-should-see-their-own-code-and-logs-—-alex-krentsel-5lFD-34dhqE.md)
 - 2026-08-11 · [🔬Biology Is Turning Into Software — Matt McPartlon and Neil Patil, Chai Discovery](2026-08-11-🔬biology-is-turning-into-software-—-matt-mcpartlon-and-neil-patil,-chai-discovery-Qp5xklyJySI.md)

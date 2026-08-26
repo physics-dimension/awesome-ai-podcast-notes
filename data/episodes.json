@@ -1,5 +1,53 @@
 [
   {
+    "id": "mHqSBCHEZOY",
+    "video_id": "mHqSBCHEZOY",
+    "title": "ChatGPT Can Build Apps You’ll Actually Use (ChatGPT Sites)",
+    "channel": "Riley Brown",
+    "published": "2026-08-26",
+    "source_url": "https://www.youtube.com/watch?v=mHqSBCHEZOY",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "ChatGPT",
+      "无代码开发",
+      "智能体",
+      "SaaS替代"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 16129,
+    "duration": "13:06",
+    "duration_seconds": 786,
+    "path": "channels/riley-brown/2026-08-26-chatgpt-can-build-apps-you’ll-actually-use-(chatgpt-sites)-mHqSBCHEZOY.md",
+    "structured_path": "",
+    "transcript_path": "channels/riley-brown/2026-08-26-chatgpt-can-build-apps-you’ll-actually-use-(chatgpt-sites)-mHqSBCHEZOY.transcript.md"
+  },
+  {
+    "id": "MwNvowwcZOo",
+    "video_id": "MwNvowwcZOo",
+    "title": "⏭️ Forward Deployed: Voice AI on what works in 2026",
+    "channel": "Latent Space",
+    "published": "2026-08-25",
+    "source_url": "https://www.youtube.com/watch?v=MwNvowwcZOo",
+    "notion_url": "",
+    "tags": [
+      "Voice AI",
+      "前部署工程",
+      "语音代理",
+      "大模型工程",
+      "AI基础设施"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 15578,
+    "duration": "36:31",
+    "duration_seconds": 2191,
+    "path": "channels/latent-space/2026-08-25-⏭️-forward-deployed-voice-ai-on-what-works-in-2026-MwNvowwcZOo.md",
+    "structured_path": "channels/latent-space/2026-08-25-⏭️-forward-deployed-voice-ai-on-what-works-in-2026-MwNvowwcZOo.structured.md",
+    "transcript_path": "channels/latent-space/2026-08-25-⏭️-forward-deployed-voice-ai-on-what-works-in-2026-MwNvowwcZOo.transcript.md"
+  },
+  {
     "id": "YS9In813jJ0",
     "video_id": "YS9In813jJ0",
     "title": "84 minutes of enterprise sales alpha | Jen Abel",

@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 798 |
+| Notes | 800 |
 | Channels | 16 |
-| Structured notes | 475 |
-| Raw transcripts | 758 |
+| Structured notes | 476 |
+| Raw transcripts | 760 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-08-23 |
-| Archive updated | 2026-08-24 |
+| Latest source date | 2026-08-26 |
+| Archive updated | 2026-08-26 |
 
 Each episode can include up to three versions:
 
@@ -39,11 +39,11 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [Latent Space](channels/latent-space/README.md) · 73 notes
+### [Latent Space](channels/latent-space/README.md) · 74 notes
 
+- 2026-08-25 · [⏭️ Forward Deployed: Voice AI on what works in 2026](channels/latent-space/2026-08-25-⏭️-forward-deployed-voice-ai-on-what-works-in-2026-MwNvowwcZOo.md)
 - 2026-08-21 · [Simulating Humanity: from Generative Agents to 8 Billion Digital Twins — Joon Sung Park, Simile AI](channels/latent-space/2026-08-21-simulating-humanity-from-generative-agents-to-8-billion-digital-twins-—-joon-sung-park,-simile-ai-KpOW9Pk4BUs.md)
 - 2026-08-15 · [Exo: Harnesses should see their own code and logs — Alex Krentsel](channels/latent-space/2026-08-15-exo-harnesses-should-see-their-own-code-and-logs-—-alex-krentsel-5lFD-34dhqE.md)
-- 2026-08-11 · [🔬Biology Is Turning Into Software — Matt McPartlon and Neil Patil, Chai Discovery](channels/latent-space/2026-08-11-🔬biology-is-turning-into-software-—-matt-mcpartlon-and-neil-patil,-chai-discovery-Qp5xklyJySI.md)
 
 ### [a16z](channels/a16z/README.md) · 66 notes
 
@@ -57,11 +57,11 @@ Each episode can include up to three versions:
 - 2026-08-19 · [Biggest Unlock for AI Agents in 2026: Skillsmaxxing](channels/greg-isenberg/2026-08-19-biggest-unlock-for-ai-agents-in-2026-skillsmaxxing-xHsftiyT9pQ.md)
 - 2026-08-17 · [Claude Code New Features, Explained](channels/greg-isenberg/2026-08-17-claude-code-new-features,-explained-SkY-tR9kf-k.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 60 notes
+### [Riley Brown](channels/riley-brown/README.md) · 61 notes
 
+- 2026-08-26 · [ChatGPT Can Build Apps You’ll Actually Use (ChatGPT Sites)](channels/riley-brown/2026-08-26-chatgpt-can-build-apps-you’ll-actually-use-(chatgpt-sites)-mHqSBCHEZOY.md)
 - 2026-08-21 · [Codex Can CONTROL Your Messages Now (Endless Possibilities)](channels/riley-brown/2026-08-21-codex-can-control-your-messages-now-(endless-possibilities)-ETa6ZYqoIXo.md)
 - 2026-08-16 · [Codex Just Replaced All His Apps | Bilawal Sidhu](channels/riley-brown/2026-08-16-codex-just-replaced-all-his-apps-bilawal-sidhu-NR_GMq2lDCE.md)
-- 2026-08-15 · [Grok 4.6 is Actually Good… And Claude Keeps Getting Better](channels/riley-brown/2026-08-15-grok-4.6-is-actually-good...-and-claude-keeps-getting-better-VWDnptnvFrA.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 45 notes
 
@@ -82,6 +82,14 @@ Each episode can include up to three versions:
 - 2026-07-31 · [149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark](channels/张晓珺/2026-07-31-149.-亲历中美neo-labs资本狂潮,和清华刘子鸣聊-ai-for-ai、机制可解释性和max-tegmark-H3Gs4QUHvA4.md)
 
 ## Latest Updates
+
+### 2026-08-26
+
+- [ChatGPT Can Build Apps You’ll Actually Use (ChatGPT Sites)](channels/riley-brown/2026-08-26-chatgpt-can-build-apps-you’ll-actually-use-(chatgpt-sites)-mHqSBCHEZOY.md) · Riley Brown
+
+### 2026-08-25
+
+- [⏭️ Forward Deployed: Voice AI on what works in 2026](channels/latent-space/2026-08-25-⏭️-forward-deployed-voice-ai-on-what-works-in-2026-MwNvowwcZOo.md) · Latent Space
 
 ### 2026-08-23
 
@@ -119,11 +127,6 @@ Each episode can include up to three versions:
 ### 2026-08-15
 
 - [Grok 4.6 is Actually Good… And Claude Keeps Getting Better](channels/riley-brown/2026-08-15-grok-4.6-is-actually-good...-and-claude-keeps-getting-better-VWDnptnvFrA.md) · Riley Brown
-- [Exo: Harnesses should see their own code and logs — Alex Krentsel](channels/latent-space/2026-08-15-exo-harnesses-should-see-their-own-code-and-logs-—-alex-krentsel-5lFD-34dhqE.md) · Latent Space
-
-### 2026-08-14
-
-- [Travis Kalanick: How AI Will Transform the Physical World](channels/a16z/2026-08-14-travis-kalanick-how-ai-will-transform-the-physical-world-r8qKNFeBPXE.md) · a16z
 
 ## Data
 

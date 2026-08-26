@@ -6,6 +6,14 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-08-26](2026/08/2026-08-26.md) · 1 篇
+
+- [ChatGPT Can Build Apps You’ll Actually Use (ChatGPT Sites)](../channels/riley-brown/2026-08-26-chatgpt-can-build-apps-you’ll-actually-use-(chatgpt-sites)-mHqSBCHEZOY.md) · Riley Brown
+
+## [2026-08-25](2026/08/2026-08-25.md) · 1 篇
+
+- [⏭️ Forward Deployed: Voice AI on what works in 2026](../channels/latent-space/2026-08-25-⏭️-forward-deployed-voice-ai-on-what-works-in-2026-MwNvowwcZOo.md) · Latent Space
+
 ## [2026-08-23](2026/08/2026-08-23.md) · 1 篇
 
 - [84 minutes of enterprise sales alpha | Jen Abel](../channels/lenny's-podcast/2026-08-23-84-minutes-of-enterprise-sales-alpha-jen-abel-YS9In813jJ0.md) · Lenny's Podcast

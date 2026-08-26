@@ -1,9 +1,10 @@
 # Riley Brown
 
-60 notes in this channel.
+61 notes in this channel.
 
-本频道共 60 篇。
+本频道共 61 篇。
 
+- 2026-08-26 · [ChatGPT Can Build Apps You’ll Actually Use (ChatGPT Sites)](2026-08-26-chatgpt-can-build-apps-you’ll-actually-use-(chatgpt-sites)-mHqSBCHEZOY.md)
 - 2026-08-21 · [Codex Can CONTROL Your Messages Now (Endless Possibilities)](2026-08-21-codex-can-control-your-messages-now-(endless-possibilities)-ETa6ZYqoIXo.md)
 - 2026-08-16 · [Codex Just Replaced All His Apps | Bilawal Sidhu](2026-08-16-codex-just-replaced-all-his-apps-bilawal-sidhu-NR_GMq2lDCE.md)
 - 2026-08-15 · [Grok 4.6 is Actually Good… And Claude Keeps Getting Better](2026-08-15-grok-4.6-is-actually-good...-and-claude-keeps-getting-better-VWDnptnvFrA.md)
