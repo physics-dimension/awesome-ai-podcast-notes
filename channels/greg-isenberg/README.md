@@ -1,9 +1,10 @@
 # Greg Isenberg
 
-64 notes in this channel.
+65 notes in this channel.
 
-本频道共 64 篇。
+本频道共 65 篇。
 
+- 2026-08-26 · [WebMCP: Let AI Agents pay you money](2026-08-26-webmcp-let-ai-agents-pay-you-money-EoNH3Tn8wYE.md)
 - 2026-08-21 · [Making $$$ with Grok Bot](2026-08-21-making-$$$-with-grok-bot-qQluNEfSVHk.md)
 - 2026-08-19 · [Biggest Unlock for AI Agents in 2026: Skillsmaxxing](2026-08-19-biggest-unlock-for-ai-agents-in-2026-skillsmaxxing-xHsftiyT9pQ.md)
 - 2026-08-17 · [Claude Code New Features, Explained](2026-08-17-claude-code-new-features,-explained-SkY-tR9kf-k.md)

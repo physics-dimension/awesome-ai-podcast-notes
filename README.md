@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-800-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-810-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 800 |
+| 笔记 | 810 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 476 |
-| 原始文稿 | 760 |
+| 结构化文稿 | 486 |
+| 原始文稿 | 770 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-08-26 |
-| 仓库更新日期 | 2026-08-26 |
+| 最新来源日期 | 2026-08-28 |
+| 仓库更新日期 | 2026-08-29 |
 
 ## 适合谁
 
@@ -50,29 +50,29 @@
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [Latent Space](channels/latent-space/README.md) · 74 篇
+### [Latent Space](channels/latent-space/README.md) · 75 篇
 
+- 2026-08-26 · [🔬 Why Transformers Hit a Wall the Moment Physics Shows Up — Anima Anandkumar, Caltech](channels/latent-space/2026-08-26-🔬-why-transformers-hit-a-wall-the-moment-physics-shows-up-—-anima-anandkumar,-caltech-79mIutht1f4.md)
 - 2026-08-25 · [⏭️ Forward Deployed: Voice AI on what works in 2026](channels/latent-space/2026-08-25-⏭️-forward-deployed-voice-ai-on-what-works-in-2026-MwNvowwcZOo.md)
 - 2026-08-21 · [Simulating Humanity: from Generative Agents to 8 Billion Digital Twins — Joon Sung Park, Simile AI](channels/latent-space/2026-08-21-simulating-humanity-from-generative-agents-to-8-billion-digital-twins-—-joon-sung-park,-simile-ai-KpOW9Pk4BUs.md)
-- 2026-08-15 · [Exo: Harnesses should see their own code and logs — Alex Krentsel](channels/latent-space/2026-08-15-exo-harnesses-should-see-their-own-code-and-logs-—-alex-krentsel-5lFD-34dhqE.md)
 
-### [a16z](channels/a16z/README.md) · 66 篇
+### [a16z](channels/a16z/README.md) · 70 篇
 
-- 2026-08-20 · [Why the Next Great Founders Will Be Borderless](channels/a16z/2026-08-20-why-the-next-great-founders-will-be-borderless-0t3TpJXa5-A.md)
-- 2026-08-19 · [Inside Whatnot's Bet on Live Shopping](channels/a16z/2026-08-19-inside-whatnot's-bet-on-live-shopping-XqEr7hk89HY.md)
-- 2026-08-17 · [Tokens Are the New Dollars | Stripe with a16z](channels/a16z/2026-08-17-tokens-are-the-new-dollars-stripe-with-a16z-P5iICDVn5gc.md)
+- 2026-08-28 · [Why Top Founders Are Racing Into AI Infrastructure](channels/a16z/2026-08-28-why-top-founders-are-racing-into-ai-infrastructure-Zx1Ec8LWFeM.md)
+- 2026-08-27 · [How Cursor Built One of AI’s Fastest-Growing Companies](channels/a16z/2026-08-27-how-cursor-built-one-of-ai’s-fastest-growing-companies-GHrnbvkVPZA.md)
+- 2026-08-26 · [The State of AI: Models, Moats, and the Consumer Renaissance](channels/a16z/2026-08-26-the-state-of-ai-models,-moats,-and-the-consumer-renaissance-zEZ0rQ8Ef-Y.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 64 篇
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 65 篇
 
+- 2026-08-26 · [WebMCP: Let AI Agents pay you money](channels/greg-isenberg/2026-08-26-webmcp-let-ai-agents-pay-you-money-EoNH3Tn8wYE.md)
 - 2026-08-21 · [Making $$$ with Grok Bot](channels/greg-isenberg/2026-08-21-making-$$$-with-grok-bot-qQluNEfSVHk.md)
 - 2026-08-19 · [Biggest Unlock for AI Agents in 2026: Skillsmaxxing](channels/greg-isenberg/2026-08-19-biggest-unlock-for-ai-agents-in-2026-skillsmaxxing-xHsftiyT9pQ.md)
-- 2026-08-17 · [Claude Code New Features, Explained](channels/greg-isenberg/2026-08-17-claude-code-new-features,-explained-SkY-tR9kf-k.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 61 篇
+### [Riley Brown](channels/riley-brown/README.md) · 62 篇
 
 - 2026-08-26 · [ChatGPT Can Build Apps You’ll Actually Use (ChatGPT Sites)](channels/riley-brown/2026-08-26-chatgpt-can-build-apps-you’ll-actually-use-(chatgpt-sites)-mHqSBCHEZOY.md)
+- 2026-08-26 · [11 Insane Things Cursor’s NEW GrokBot Can Do](channels/riley-brown/2026-08-26-11-insane-things-cursor’s-new-grokbot-can-do-XgkW4A6lrDY.md)
 - 2026-08-21 · [Codex Can CONTROL Your Messages Now (Endless Possibilities)](channels/riley-brown/2026-08-21-codex-can-control-your-messages-now-(endless-possibilities)-ETa6ZYqoIXo.md)
-- 2026-08-16 · [Codex Just Replaced All His Apps | Bilawal Sidhu](channels/riley-brown/2026-08-16-codex-just-replaced-all-his-apps-bilawal-sidhu-NR_GMq2lDCE.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 45 篇
 
@@ -80,11 +80,11 @@
 - 2026-08-16 · [OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber](channels/lenny's-podcast/2026-08-16-openai’s-head-of-design-this-is-the-best-time-in-history-to-be-a-designer-ian-silber-BV0hy6NET-U.md)
 - 2026-08-09 · [The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor](channels/lenny's-podcast/2026-08-09-the-playbook-for-building-high-talent-density-teams-adam-ward,-head-of-talent-at-cursor-zegYJ6dhIg4.md)
 
-### [Y Combinator](channels/y-combinator/README.md) · 44 篇
+### [Y Combinator](channels/y-combinator/README.md) · 45 篇
 
+- 2026-08-27 · [How Outset Turned AI Interviews Into a New Category](channels/y-combinator/2026-08-27-how-outset-turned-ai-interviews-into-a-new-category-x3XOeDckUX0.md)
 - 2026-08-21 · [Supabase: Cash Does Not Equal Success](channels/y-combinator/2026-08-21-supabase-cash-does-not-equal-success-2cRbdYhs3VY.md)
 - 2026-08-20 · [How Olivier Pomel Built Datadog By Refusing Every Shortcut](channels/y-combinator/2026-08-20-how-olivier-pomel-built-datadog-by-refusing-every-shortcut-zcUoVg8Xvrk.md)
-- 2026-08-19 · [PostHog: Pivots Were The Real Lesson In Building A Startup](channels/y-combinator/2026-08-19-posthog-pivots-were-the-real-lesson-in-building-a-startup-6A4u7Nl-SHY.md)
 
 ### [张晓珺](channels/张晓珺/README.md) · 44 篇
 
@@ -94,13 +94,29 @@
 
 ## 最新更新
 
+### 2026-08-28
+
+- [Why Top Founders Are Racing Into AI Infrastructure](channels/a16z/2026-08-28-why-top-founders-are-racing-into-ai-infrastructure-Zx1Ec8LWFeM.md) · a16z
+
+### 2026-08-27
+
+- [Sam Altman :‘AGI in 2026’, just as Models Start to [Mis]Train Themselves](channels/ai-explained/2026-08-27-sam-altman-‘agi-in-2026’,-just-as-models-start-to-mis-train-themselves-KL9_1GbmCic.md) · AI Explained
+- [How Outset Turned AI Interviews Into a New Category](channels/y-combinator/2026-08-27-how-outset-turned-ai-interviews-into-a-new-category-x3XOeDckUX0.md) · Y Combinator
+- [How Cursor Built One of AI’s Fastest-Growing Companies](channels/a16z/2026-08-27-how-cursor-built-one-of-ai’s-fastest-growing-companies-GHrnbvkVPZA.md) · a16z
+
 ### 2026-08-26
 
+- [🔬 Why Transformers Hit a Wall the Moment Physics Shows Up — Anima Anandkumar, Caltech](channels/latent-space/2026-08-26-🔬-why-transformers-hit-a-wall-the-moment-physics-shows-up-—-anima-anandkumar,-caltech-79mIutht1f4.md) · Latent Space
+- [WebMCP: Let AI Agents pay you money](channels/greg-isenberg/2026-08-26-webmcp-let-ai-agents-pay-you-money-EoNH3Tn8wYE.md) · Greg Isenberg
+- [The State of AI: Models, Moats, and the Consumer Renaissance](channels/a16z/2026-08-26-the-state-of-ai-models,-moats,-and-the-consumer-renaissance-zEZ0rQ8Ef-Y.md) · a16z
+- [Could the AI Boom Trigger a Global Debt Crisis? - Dylan Patel](channels/dwarkesh-patel/2026-08-26-could-the-ai-boom-trigger-a-global-debt-crisis-dylan-patel-0Hx7QGJhoGs.md) · Dwarkesh Patel
 - [ChatGPT Can Build Apps You’ll Actually Use (ChatGPT Sites)](channels/riley-brown/2026-08-26-chatgpt-can-build-apps-you’ll-actually-use-(chatgpt-sites)-mHqSBCHEZOY.md) · Riley Brown
+- [11 Insane Things Cursor’s NEW GrokBot Can Do](channels/riley-brown/2026-08-26-11-insane-things-cursor’s-new-grokbot-can-do-XgkW4A6lrDY.md) · Riley Brown
 
 ### 2026-08-25
 
 - [⏭️ Forward Deployed: Voice AI on what works in 2026](channels/latent-space/2026-08-25-⏭️-forward-deployed-voice-ai-on-what-works-in-2026-MwNvowwcZOo.md) · Latent Space
+- [How AI Changes the Economics of Innovation](channels/a16z/2026-08-25-how-ai-changes-the-economics-of-innovation-GHPB1MwlKU0.md) · a16z
 
 ### 2026-08-23
 
@@ -116,28 +132,6 @@
 ### 2026-08-20
 
 - [Why the Next Great Founders Will Be Borderless](channels/a16z/2026-08-20-why-the-next-great-founders-will-be-borderless-0t3TpJXa5-A.md) · a16z
-- [How Olivier Pomel Built Datadog By Refusing Every Shortcut](channels/y-combinator/2026-08-20-how-olivier-pomel-built-datadog-by-refusing-every-shortcut-zcUoVg8Xvrk.md) · Y Combinator
-- [E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路](channels/硅谷101/2026-08-20-e249-token经济转点-openclaw、hermes到本地自研的agent进化之路-6FUJbpMrYRA.md) · 硅谷101
-
-### 2026-08-19
-
-- [PostHog: Pivots Were The Real Lesson In Building A Startup](channels/y-combinator/2026-08-19-posthog-pivots-were-the-real-lesson-in-building-a-startup-6A4u7Nl-SHY.md) · Y Combinator
-- [Inside Whatnot's Bet on Live Shopping](channels/a16z/2026-08-19-inside-whatnot's-bet-on-live-shopping-XqEr7hk89HY.md) · a16z
-- [Biggest Unlock for AI Agents in 2026: Skillsmaxxing](channels/greg-isenberg/2026-08-19-biggest-unlock-for-ai-agents-in-2026-skillsmaxxing-xHsftiyT9pQ.md) · Greg Isenberg
-
-### 2026-08-17
-
-- [Tokens Are the New Dollars | Stripe with a16z](channels/a16z/2026-08-17-tokens-are-the-new-dollars-stripe-with-a16z-P5iICDVn5gc.md) · a16z
-- [Claude Code New Features, Explained](channels/greg-isenberg/2026-08-17-claude-code-new-features,-explained-SkY-tR9kf-k.md) · Greg Isenberg
-
-### 2026-08-16
-
-- [OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber](channels/lenny's-podcast/2026-08-16-openai’s-head-of-design-this-is-the-best-time-in-history-to-be-a-designer-ian-silber-BV0hy6NET-U.md) · Lenny's Podcast
-- [Codex Just Replaced All His Apps | Bilawal Sidhu](channels/riley-brown/2026-08-16-codex-just-replaced-all-his-apps-bilawal-sidhu-NR_GMq2lDCE.md) · Riley Brown
-
-### 2026-08-15
-
-- [Grok 4.6 is Actually Good… And Claude Keeps Getting Better](channels/riley-brown/2026-08-15-grok-4.6-is-actually-good...-and-claude-keeps-getting-better-VWDnptnvFrA.md) · Riley Brown
 
 ## 数据与自动更新
 

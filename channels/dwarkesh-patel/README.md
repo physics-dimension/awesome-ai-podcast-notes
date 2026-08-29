@@ -1,9 +1,10 @@
 # Dwarkesh Patel
 
-12 notes in this channel.
+13 notes in this channel.
 
-本频道共 12 篇。
+本频道共 13 篇。
 
+- 2026-08-26 · [Could the AI Boom Trigger a Global Debt Crisis? - Dylan Patel](2026-08-26-could-the-ai-boom-trigger-a-global-debt-crisis-dylan-patel-0Hx7QGJhoGs.md)
 - 2026-06-23 · [How On Policy Self Distillation Works - Sasha Rush](2026-06-23-how-on-policy-self-distillation-works-sasha-rush-wxOZWD6wYVY.md)
 - 2026-06-22 · [When Rome Rioted for More Nepotism – Ada Palmer](2026-06-22-when-rome-rioted-for-more-nepotism-–-ada-palmer-ATScXYYjUrA.md)
 - 2026-05-19 · [Why Scientists Missed Recent Human Evolution – David Reich](2026-05-19-why-scientists-missed-recent-human-evolution-–-david-reich-hMNIlp--KZA.md)

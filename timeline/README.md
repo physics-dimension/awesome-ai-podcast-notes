@@ -6,13 +6,29 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-08-26](2026/08/2026-08-26.md) · 1 篇
+## [2026-08-28](2026/08/2026-08-28.md) · 1 篇
 
+- [Why Top Founders Are Racing Into AI Infrastructure](../channels/a16z/2026-08-28-why-top-founders-are-racing-into-ai-infrastructure-Zx1Ec8LWFeM.md) · a16z
+
+## [2026-08-27](2026/08/2026-08-27.md) · 3 篇
+
+- [Sam Altman :‘AGI in 2026’, just as Models Start to [Mis]Train Themselves](../channels/ai-explained/2026-08-27-sam-altman-‘agi-in-2026’,-just-as-models-start-to-mis-train-themselves-KL9_1GbmCic.md) · AI Explained
+- [How Outset Turned AI Interviews Into a New Category](../channels/y-combinator/2026-08-27-how-outset-turned-ai-interviews-into-a-new-category-x3XOeDckUX0.md) · Y Combinator
+- [How Cursor Built One of AI’s Fastest-Growing Companies](../channels/a16z/2026-08-27-how-cursor-built-one-of-ai’s-fastest-growing-companies-GHrnbvkVPZA.md) · a16z
+
+## [2026-08-26](2026/08/2026-08-26.md) · 6 篇
+
+- [Could the AI Boom Trigger a Global Debt Crisis? - Dylan Patel](../channels/dwarkesh-patel/2026-08-26-could-the-ai-boom-trigger-a-global-debt-crisis-dylan-patel-0Hx7QGJhoGs.md) · Dwarkesh Patel
+- [WebMCP: Let AI Agents pay you money](../channels/greg-isenberg/2026-08-26-webmcp-let-ai-agents-pay-you-money-EoNH3Tn8wYE.md) · Greg Isenberg
+- [🔬 Why Transformers Hit a Wall the Moment Physics Shows Up — Anima Anandkumar, Caltech](../channels/latent-space/2026-08-26-🔬-why-transformers-hit-a-wall-the-moment-physics-shows-up-—-anima-anandkumar,-caltech-79mIutht1f4.md) · Latent Space
 - [ChatGPT Can Build Apps You’ll Actually Use (ChatGPT Sites)](../channels/riley-brown/2026-08-26-chatgpt-can-build-apps-you’ll-actually-use-(chatgpt-sites)-mHqSBCHEZOY.md) · Riley Brown
+- [11 Insane Things Cursor’s NEW GrokBot Can Do](../channels/riley-brown/2026-08-26-11-insane-things-cursor’s-new-grokbot-can-do-XgkW4A6lrDY.md) · Riley Brown
+- [The State of AI: Models, Moats, and the Consumer Renaissance](../channels/a16z/2026-08-26-the-state-of-ai-models,-moats,-and-the-consumer-renaissance-zEZ0rQ8Ef-Y.md) · a16z
 
-## [2026-08-25](2026/08/2026-08-25.md) · 1 篇
+## [2026-08-25](2026/08/2026-08-25.md) · 2 篇
 
 - [⏭️ Forward Deployed: Voice AI on what works in 2026](../channels/latent-space/2026-08-25-⏭️-forward-deployed-voice-ai-on-what-works-in-2026-MwNvowwcZOo.md) · Latent Space
+- [How AI Changes the Economics of Innovation](../channels/a16z/2026-08-25-how-ai-changes-the-economics-of-innovation-GHPB1MwlKU0.md) · a16z
 
 ## [2026-08-23](2026/08/2026-08-23.md) · 1 篇
 

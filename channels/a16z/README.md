@@ -1,9 +1,13 @@
 # a16z
 
-66 notes in this channel.
+70 notes in this channel.
 
-本频道共 66 篇。
+本频道共 70 篇。
 
+- 2026-08-28 · [Why Top Founders Are Racing Into AI Infrastructure](2026-08-28-why-top-founders-are-racing-into-ai-infrastructure-Zx1Ec8LWFeM.md)
+- 2026-08-27 · [How Cursor Built One of AI’s Fastest-Growing Companies](2026-08-27-how-cursor-built-one-of-ai’s-fastest-growing-companies-GHrnbvkVPZA.md)
+- 2026-08-26 · [The State of AI: Models, Moats, and the Consumer Renaissance](2026-08-26-the-state-of-ai-models,-moats,-and-the-consumer-renaissance-zEZ0rQ8Ef-Y.md)
+- 2026-08-25 · [How AI Changes the Economics of Innovation](2026-08-25-how-ai-changes-the-economics-of-innovation-GHPB1MwlKU0.md)
 - 2026-08-20 · [Why the Next Great Founders Will Be Borderless](2026-08-20-why-the-next-great-founders-will-be-borderless-0t3TpJXa5-A.md)
 - 2026-08-19 · [Inside Whatnot's Bet on Live Shopping](2026-08-19-inside-whatnot's-bet-on-live-shopping-XqEr7hk89HY.md)
 - 2026-08-17 · [Tokens Are the New Dollars | Stripe with a16z](2026-08-17-tokens-are-the-new-dollars-stripe-with-a16z-P5iICDVn5gc.md)

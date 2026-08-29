@@ -1,9 +1,10 @@
 # AI Explained
 
-28 notes in this channel.
+29 notes in this channel.
 
-本频道共 28 篇。
+本频道共 29 篇。
 
+- 2026-08-27 · [Sam Altman :‘AGI in 2026’, just as Models Start to [Mis]Train Themselves](2026-08-27-sam-altman-‘agi-in-2026’,-just-as-models-start-to-mis-train-themselves-KL9_1GbmCic.md)
 - 2026-08-06 · [AI is getting a little out of control](2026-08-06-ai-is-getting-a-little-out-of-control-xGzseSSStnw.md)
 - 2026-07-22 · [GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype](2026-07-22-gpt-6-goes-rogue-the-huggingface-incident,-sans-hype-wzY2fV4Mp3U.md)
 - 2026-07-10 · [A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules](2026-07-10-a-model-explosion-gpt-5.6-sol,-grok-4.5-and-meta-muse-rewrite-the-rules-mWlCituW7wo.md)

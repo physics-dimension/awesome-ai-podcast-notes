@@ -1,9 +1,10 @@
 # Y Combinator
 
-44 notes in this channel.
+45 notes in this channel.
 
-本频道共 44 篇。
+本频道共 45 篇。
 
+- 2026-08-27 · [How Outset Turned AI Interviews Into a New Category](2026-08-27-how-outset-turned-ai-interviews-into-a-new-category-x3XOeDckUX0.md)
 - 2026-08-21 · [Supabase: Cash Does Not Equal Success](2026-08-21-supabase-cash-does-not-equal-success-2cRbdYhs3VY.md)
 - 2026-08-20 · [How Olivier Pomel Built Datadog By Refusing Every Shortcut](2026-08-20-how-olivier-pomel-built-datadog-by-refusing-every-shortcut-zcUoVg8Xvrk.md)
 - 2026-08-19 · [PostHog: Pivots Were The Real Lesson In Building A Startup](2026-08-19-posthog-pivots-were-the-real-lesson-in-building-a-startup-6A4u7Nl-SHY.md)
