@@ -16,11 +16,12 @@ Browse notes by source publish date. Date headings open daily detail pages, and 
 - [How Outset Turned AI Interviews Into a New Category](../channels/y-combinator/2026-08-27-how-outset-turned-ai-interviews-into-a-new-category-x3XOeDckUX0.md) · Y Combinator
 - [How Cursor Built One of AI’s Fastest-Growing Companies](../channels/a16z/2026-08-27-how-cursor-built-one-of-ai’s-fastest-growing-companies-GHrnbvkVPZA.md) · a16z
 
-## [2026-08-26](2026/08/2026-08-26.md) · 6 篇
+## [2026-08-26](2026/08/2026-08-26.md) · 7 篇
 
 - [Could the AI Boom Trigger a Global Debt Crisis? - Dylan Patel](../channels/dwarkesh-patel/2026-08-26-could-the-ai-boom-trigger-a-global-debt-crisis-dylan-patel-0Hx7QGJhoGs.md) · Dwarkesh Patel
 - [WebMCP: Let AI Agents pay you money](../channels/greg-isenberg/2026-08-26-webmcp-let-ai-agents-pay-you-money-EoNH3Tn8wYE.md) · Greg Isenberg
 - [🔬 Why Transformers Hit a Wall the Moment Physics Shows Up — Anima Anandkumar, Caltech](../channels/latent-space/2026-08-26-🔬-why-transformers-hit-a-wall-the-moment-physics-shows-up-—-anima-anandkumar,-caltech-79mIutht1f4.md) · Latent Space
+- [DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501](../channels/lex-fridman/2026-08-26-dhh-future-of-programming,-ai,-agentic-engineering,-vibe-coding-&-linux-lex-fridman-podcast-501-NYFGCESmikA.md) · Lex Fridman
 - [ChatGPT Can Build Apps You’ll Actually Use (ChatGPT Sites)](../channels/riley-brown/2026-08-26-chatgpt-can-build-apps-you’ll-actually-use-(chatgpt-sites)-mHqSBCHEZOY.md) · Riley Brown
 - [11 Insane Things Cursor’s NEW GrokBot Can Do](../channels/riley-brown/2026-08-26-11-insane-things-cursor’s-new-grokbot-can-do-XgkW4A6lrDY.md) · Riley Brown
 - [The State of AI: Models, Moats, and the Consumer Renaissance](../channels/a16z/2026-08-26-the-state-of-ai-models,-moats,-and-the-consumer-renaissance-zEZ0rQ8Ef-Y.md) · a16z

@@ -24,7 +24,7 @@ Good sources are usually:
 - Koji Yang: 40 notes
 - 硅谷101: 36 notes
 - AI Explained: 29 notes
-- Lex Fridman: 26 notes
+- Lex Fridman: 27 notes
 
 ## Metadata Standards
 

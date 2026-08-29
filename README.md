@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-810-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-811-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 810 |
+| 笔记 | 811 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 486 |
-| 原始文稿 | 770 |
+| 结构化文稿 | 487 |
+| 原始文稿 | 771 |
 | 最早来源日期 | 2016-10-07 |
 | 最新来源日期 | 2026-08-28 |
-| 仓库更新日期 | 2026-08-29 |
+| 仓库更新日期 | 2026-08-30 |
 
 ## 适合谁
 
@@ -109,6 +109,7 @@
 - [🔬 Why Transformers Hit a Wall the Moment Physics Shows Up — Anima Anandkumar, Caltech](channels/latent-space/2026-08-26-🔬-why-transformers-hit-a-wall-the-moment-physics-shows-up-—-anima-anandkumar,-caltech-79mIutht1f4.md) · Latent Space
 - [WebMCP: Let AI Agents pay you money](channels/greg-isenberg/2026-08-26-webmcp-let-ai-agents-pay-you-money-EoNH3Tn8wYE.md) · Greg Isenberg
 - [The State of AI: Models, Moats, and the Consumer Renaissance](channels/a16z/2026-08-26-the-state-of-ai-models,-moats,-and-the-consumer-renaissance-zEZ0rQ8Ef-Y.md) · a16z
+- [DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501](channels/lex-fridman/2026-08-26-dhh-future-of-programming,-ai,-agentic-engineering,-vibe-coding-&-linux-lex-fridman-podcast-501-NYFGCESmikA.md) · Lex Fridman
 - [Could the AI Boom Trigger a Global Debt Crisis? - Dylan Patel](channels/dwarkesh-patel/2026-08-26-could-the-ai-boom-trigger-a-global-debt-crisis-dylan-patel-0Hx7QGJhoGs.md) · Dwarkesh Patel
 - [ChatGPT Can Build Apps You’ll Actually Use (ChatGPT Sites)](channels/riley-brown/2026-08-26-chatgpt-can-build-apps-you’ll-actually-use-(chatgpt-sites)-mHqSBCHEZOY.md) · Riley Brown
 - [11 Insane Things Cursor’s NEW GrokBot Can Do](channels/riley-brown/2026-08-26-11-insane-things-cursor’s-new-grokbot-can-do-XgkW4A6lrDY.md) · Riley Brown
@@ -128,10 +129,6 @@
 - [Simulating Humanity: from Generative Agents to 8 Billion Digital Twins — Joon Sung Park, Simile AI](channels/latent-space/2026-08-21-simulating-humanity-from-generative-agents-to-8-billion-digital-twins-—-joon-sung-park,-simile-ai-KpOW9Pk4BUs.md) · Latent Space
 - [Making $$$ with Grok Bot](channels/greg-isenberg/2026-08-21-making-$$$-with-grok-bot-qQluNEfSVHk.md) · Greg Isenberg
 - [Codex Can CONTROL Your Messages Now (Endless Possibilities)](channels/riley-brown/2026-08-21-codex-can-control-your-messages-now-(endless-possibilities)-ETa6ZYqoIXo.md) · Riley Brown
-
-### 2026-08-20
-
-- [Why the Next Great Founders Will Be Borderless](channels/a16z/2026-08-20-why-the-next-great-founders-will-be-borderless-0t3TpJXa5-A.md) · a16z
 
 ## 数据与自动更新
 

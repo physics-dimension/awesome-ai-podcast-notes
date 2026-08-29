@@ -1,9 +1,10 @@
 # Lex Fridman
 
-26 notes in this channel.
+27 notes in this channel.
 
-本频道共 26 篇。
+本频道共 27 篇。
 
+- 2026-08-26 · [DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501](2026-08-26-dhh-future-of-programming,-ai,-agentic-engineering,-vibe-coding-&-linux-lex-fridman-podcast-501-NYFGCESmikA.md)
 - 2026-08-12 · [Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football | Lex Fridman Podcast #500](2026-08-12-khabib-nurmagomedov-dagestan,-mma,-ufc,-islam,-conor,-fedor-&-football-lex-fridman-podcast-500-l6USUAIKJls.md)
 - 2026-07-28 · [Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499](2026-07-28-gary-gallagher-american-civil-war,-slavery,-lincoln,-grant-&-lee-lex-fridman-podcast-499-XyXBwO5jYpw.md)
 - 2026-06-30 · [The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498](2026-06-30-the-rise-and-fall-of-the-roman-empire-and-the-byzantine-empire-lex-fridman-podcast-498-pv1TUJSEM2k.md)

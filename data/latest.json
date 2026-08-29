@@ -169,6 +169,30 @@
     "transcript_path": "channels/a16z/2026-08-26-the-state-of-ai-models,-moats,-and-the-consumer-renaissance-zEZ0rQ8Ef-Y.transcript.md"
   },
   {
+    "id": "NYFGCESmikA",
+    "video_id": "NYFGCESmikA",
+    "title": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
+    "channel": "Lex Fridman",
+    "published": "2026-08-26",
+    "source_url": "https://www.youtube.com/watch?v=NYFGCESmikA",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "Agentic Engineering",
+      "编程未来",
+      "Linux",
+      "Open Source"
+    ],
+    "rating": 5,
+    "language": "中文",
+    "word_count": 22739,
+    "duration": "5:15:51",
+    "duration_seconds": 18951,
+    "path": "channels/lex-fridman/2026-08-26-dhh-future-of-programming,-ai,-agentic-engineering,-vibe-coding-&-linux-lex-fridman-podcast-501-NYFGCESmikA.md",
+    "structured_path": "channels/lex-fridman/2026-08-26-dhh-future-of-programming,-ai,-agentic-engineering,-vibe-coding-&-linux-lex-fridman-podcast-501-NYFGCESmikA.structured.md",
+    "transcript_path": "channels/lex-fridman/2026-08-26-dhh-future-of-programming,-ai,-agentic-engineering,-vibe-coding-&-linux-lex-fridman-podcast-501-NYFGCESmikA.transcript.md"
+  },
+  {
     "id": "0Hx7QGJhoGs",
     "video_id": "0Hx7QGJhoGs",
     "title": "Could the AI Boom Trigger a Global Debt Crisis? - Dylan Patel",
@@ -1180,29 +1204,5 @@
     "path": "channels/ai-explained/2026-08-06-ai-is-getting-a-little-out-of-control-xGzseSSStnw.md",
     "structured_path": "channels/ai-explained/2026-08-06-ai-is-getting-a-little-out-of-control-xGzseSSStnw.structured.md",
     "transcript_path": "channels/ai-explained/2026-08-06-ai-is-getting-a-little-out-of-control-xGzseSSStnw.transcript.md"
-  },
-  {
-    "id": "mD7JpNHLT70",
-    "video_id": "mD7JpNHLT70",
-    "title": "These AI Marketing Agents Get You Customers",
-    "channel": "Greg Isenberg",
-    "published": "2026-08-05",
-    "source_url": "https://www.youtube.com/watch?v=mD7JpNHLT70",
-    "notion_url": "",
-    "tags": [
-      "AI营销",
-      "增长黑客",
-      "冷外呼",
-      "营销自动化",
-      "SaaS获客"
-    ],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 13207,
-    "duration": "43:59",
-    "duration_seconds": 2639,
-    "path": "channels/greg-isenberg/2026-08-05-these-ai-marketing-agents-get-you-customers-mD7JpNHLT70.md",
-    "structured_path": "channels/greg-isenberg/2026-08-05-these-ai-marketing-agents-get-you-customers-mD7JpNHLT70.structured.md",
-    "transcript_path": "channels/greg-isenberg/2026-08-05-these-ai-marketing-agents-get-you-customers-mD7JpNHLT70.transcript.md"
   }
 ]

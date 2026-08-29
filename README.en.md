@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 810 |
+| Notes | 811 |
 | Channels | 16 |
-| Structured notes | 486 |
-| Raw transcripts | 770 |
+| Structured notes | 487 |
+| Raw transcripts | 771 |
 | Earliest source date | 2016-10-07 |
 | Latest source date | 2026-08-28 |
-| Archive updated | 2026-08-29 |
+| Archive updated | 2026-08-30 |
 
 Each episode can include up to three versions:
 
@@ -98,6 +98,7 @@ Each episode can include up to three versions:
 - [🔬 Why Transformers Hit a Wall the Moment Physics Shows Up — Anima Anandkumar, Caltech](channels/latent-space/2026-08-26-🔬-why-transformers-hit-a-wall-the-moment-physics-shows-up-—-anima-anandkumar,-caltech-79mIutht1f4.md) · Latent Space
 - [WebMCP: Let AI Agents pay you money](channels/greg-isenberg/2026-08-26-webmcp-let-ai-agents-pay-you-money-EoNH3Tn8wYE.md) · Greg Isenberg
 - [The State of AI: Models, Moats, and the Consumer Renaissance](channels/a16z/2026-08-26-the-state-of-ai-models,-moats,-and-the-consumer-renaissance-zEZ0rQ8Ef-Y.md) · a16z
+- [DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501](channels/lex-fridman/2026-08-26-dhh-future-of-programming,-ai,-agentic-engineering,-vibe-coding-&-linux-lex-fridman-podcast-501-NYFGCESmikA.md) · Lex Fridman
 - [Could the AI Boom Trigger a Global Debt Crisis? - Dylan Patel](channels/dwarkesh-patel/2026-08-26-could-the-ai-boom-trigger-a-global-debt-crisis-dylan-patel-0Hx7QGJhoGs.md) · Dwarkesh Patel
 - [ChatGPT Can Build Apps You’ll Actually Use (ChatGPT Sites)](channels/riley-brown/2026-08-26-chatgpt-can-build-apps-you’ll-actually-use-(chatgpt-sites)-mHqSBCHEZOY.md) · Riley Brown
 - [11 Insane Things Cursor’s NEW GrokBot Can Do](channels/riley-brown/2026-08-26-11-insane-things-cursor’s-new-grokbot-can-do-XgkW4A6lrDY.md) · Riley Brown
@@ -117,10 +118,6 @@ Each episode can include up to three versions:
 - [Simulating Humanity: from Generative Agents to 8 Billion Digital Twins — Joon Sung Park, Simile AI](channels/latent-space/2026-08-21-simulating-humanity-from-generative-agents-to-8-billion-digital-twins-—-joon-sung-park,-simile-ai-KpOW9Pk4BUs.md) · Latent Space
 - [Making $$$ with Grok Bot](channels/greg-isenberg/2026-08-21-making-$$$-with-grok-bot-qQluNEfSVHk.md) · Greg Isenberg
 - [Codex Can CONTROL Your Messages Now (Endless Possibilities)](channels/riley-brown/2026-08-21-codex-can-control-your-messages-now-(endless-possibilities)-ETa6ZYqoIXo.md) · Riley Brown
-
-### 2026-08-20
-
-- [Why the Next Great Founders Will Be Borderless](channels/a16z/2026-08-20-why-the-next-great-founders-will-be-borderless-0t3TpJXa5-A.md) · a16z
 
 ## Data
 
