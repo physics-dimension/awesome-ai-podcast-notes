@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-811-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-812-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 811 |
+| 笔记 | 812 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 487 |
-| 原始文稿 | 771 |
+| 结构化文稿 | 488 |
+| 原始文稿 | 772 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-08-28 |
-| 仓库更新日期 | 2026-08-30 |
+| 最新来源日期 | 2026-08-30 |
+| 仓库更新日期 | 2026-08-31 |
 
 ## 适合谁
 
@@ -74,11 +74,11 @@
 - 2026-08-26 · [11 Insane Things Cursor’s NEW GrokBot Can Do](channels/riley-brown/2026-08-26-11-insane-things-cursor’s-new-grokbot-can-do-XgkW4A6lrDY.md)
 - 2026-08-21 · [Codex Can CONTROL Your Messages Now (Endless Possibilities)](channels/riley-brown/2026-08-21-codex-can-control-your-messages-now-(endless-possibilities)-ETa6ZYqoIXo.md)
 
-### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 45 篇
+### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 46 篇
 
+- 2026-08-30 · [AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)](channels/lenny's-podcast/2026-08-30-ai’s-third-era-the-rise-of-persistent-ai-coworkers-tara-seshan-(openai’s-product-lead)-zMvBMfj4cSQ.md)
 - 2026-08-23 · [84 minutes of enterprise sales alpha | Jen Abel](channels/lenny's-podcast/2026-08-23-84-minutes-of-enterprise-sales-alpha-jen-abel-YS9In813jJ0.md)
 - 2026-08-16 · [OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber](channels/lenny's-podcast/2026-08-16-openai’s-head-of-design-this-is-the-best-time-in-history-to-be-a-designer-ian-silber-BV0hy6NET-U.md)
-- 2026-08-09 · [The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor](channels/lenny's-podcast/2026-08-09-the-playbook-for-building-high-talent-density-teams-adam-ward,-head-of-talent-at-cursor-zegYJ6dhIg4.md)
 
 ### [Y Combinator](channels/y-combinator/README.md) · 45 篇
 
@@ -93,6 +93,10 @@
 - 2026-07-31 · [149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark](channels/张晓珺/2026-07-31-149.-亲历中美neo-labs资本狂潮,和清华刘子鸣聊-ai-for-ai、机制可解释性和max-tegmark-H3Gs4QUHvA4.md)
 
 ## 最新更新
+
+### 2026-08-30
+
+- [AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)](channels/lenny's-podcast/2026-08-30-ai’s-third-era-the-rise-of-persistent-ai-coworkers-tara-seshan-(openai’s-product-lead)-zMvBMfj4cSQ.md) · Lenny's Podcast
 
 ### 2026-08-28
 
@@ -128,7 +132,6 @@
 - [Supabase: Cash Does Not Equal Success](channels/y-combinator/2026-08-21-supabase-cash-does-not-equal-success-2cRbdYhs3VY.md) · Y Combinator
 - [Simulating Humanity: from Generative Agents to 8 Billion Digital Twins — Joon Sung Park, Simile AI](channels/latent-space/2026-08-21-simulating-humanity-from-generative-agents-to-8-billion-digital-twins-—-joon-sung-park,-simile-ai-KpOW9Pk4BUs.md) · Latent Space
 - [Making $$$ with Grok Bot](channels/greg-isenberg/2026-08-21-making-$$$-with-grok-bot-qQluNEfSVHk.md) · Greg Isenberg
-- [Codex Can CONTROL Your Messages Now (Endless Possibilities)](channels/riley-brown/2026-08-21-codex-can-control-your-messages-now-(endless-possibilities)-ETa6ZYqoIXo.md) · Riley Brown
 
 ## 数据与自动更新
 

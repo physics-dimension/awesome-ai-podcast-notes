@@ -18,7 +18,7 @@ Good sources are usually:
 - a16z: 70 notes
 - Greg Isenberg: 65 notes
 - Riley Brown: 62 notes
-- Lenny's Podcast: 45 notes
+- Lenny's Podcast: 46 notes
 - Y Combinator: 45 notes
 - 张晓珺: 44 notes
 - Koji Yang: 40 notes

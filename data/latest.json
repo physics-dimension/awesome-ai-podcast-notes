@@ -1,5 +1,29 @@
 [
   {
+    "id": "zMvBMfj4cSQ",
+    "video_id": "zMvBMfj4cSQ",
+    "title": "AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)",
+    "channel": "Lenny's Podcast",
+    "published": "2026-08-30",
+    "source_url": "https://www.youtube.com/watch?v=zMvBMfj4cSQ",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "产品管理",
+      "未来工作",
+      "OpenAI",
+      "野心"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 29751,
+    "duration": "1:21:45",
+    "duration_seconds": 4905,
+    "path": "channels/lenny's-podcast/2026-08-30-ai’s-third-era-the-rise-of-persistent-ai-coworkers-tara-seshan-(openai’s-product-lead)-zMvBMfj4cSQ.md",
+    "structured_path": "channels/lenny's-podcast/2026-08-30-ai’s-third-era-the-rise-of-persistent-ai-coworkers-tara-seshan-(openai’s-product-lead)-zMvBMfj4cSQ.structured.md",
+    "transcript_path": "channels/lenny's-podcast/2026-08-30-ai’s-third-era-the-rise-of-persistent-ai-coworkers-tara-seshan-(openai’s-product-lead)-zMvBMfj4cSQ.transcript.md"
+  },
+  {
     "id": "Zx1Ec8LWFeM",
     "video_id": "Zx1Ec8LWFeM",
     "title": "Why Top Founders Are Racing Into AI Infrastructure",
@@ -1180,29 +1204,5 @@
     "path": "channels/a16z/2026-08-06-how-open-source-became-ai's-backbone-inferact-with-a16z-78-6dUROziQ.md",
     "structured_path": "channels/a16z/2026-08-06-how-open-source-became-ai's-backbone-inferact-with-a16z-78-6dUROziQ.structured.md",
     "transcript_path": "channels/a16z/2026-08-06-how-open-source-became-ai's-backbone-inferact-with-a16z-78-6dUROziQ.transcript.md"
-  },
-  {
-    "id": "xGzseSSStnw",
-    "video_id": "xGzseSSStnw",
-    "title": "AI is getting a little out of control",
-    "channel": "AI Explained",
-    "published": "2026-08-06",
-    "source_url": "https://www.youtube.com/watch?v=xGzseSSStnw",
-    "notion_url": "",
-    "tags": [
-      "AI安全",
-      "天才级模型",
-      "数学推理",
-      "网络攻击",
-      "智能体"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 16473,
-    "duration": "31:43",
-    "duration_seconds": 1903,
-    "path": "channels/ai-explained/2026-08-06-ai-is-getting-a-little-out-of-control-xGzseSSStnw.md",
-    "structured_path": "channels/ai-explained/2026-08-06-ai-is-getting-a-little-out-of-control-xGzseSSStnw.structured.md",
-    "transcript_path": "channels/ai-explained/2026-08-06-ai-is-getting-a-little-out-of-control-xGzseSSStnw.transcript.md"
   }
 ]

@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 811 |
+| Notes | 812 |
 | Channels | 16 |
-| Structured notes | 487 |
-| Raw transcripts | 771 |
+| Structured notes | 488 |
+| Raw transcripts | 772 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-08-28 |
-| Archive updated | 2026-08-30 |
+| Latest source date | 2026-08-30 |
+| Archive updated | 2026-08-31 |
 
 Each episode can include up to three versions:
 
@@ -63,11 +63,11 @@ Each episode can include up to three versions:
 - 2026-08-26 · [11 Insane Things Cursor’s NEW GrokBot Can Do](channels/riley-brown/2026-08-26-11-insane-things-cursor’s-new-grokbot-can-do-XgkW4A6lrDY.md)
 - 2026-08-21 · [Codex Can CONTROL Your Messages Now (Endless Possibilities)](channels/riley-brown/2026-08-21-codex-can-control-your-messages-now-(endless-possibilities)-ETa6ZYqoIXo.md)
 
-### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 45 notes
+### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 46 notes
 
+- 2026-08-30 · [AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)](channels/lenny's-podcast/2026-08-30-ai’s-third-era-the-rise-of-persistent-ai-coworkers-tara-seshan-(openai’s-product-lead)-zMvBMfj4cSQ.md)
 - 2026-08-23 · [84 minutes of enterprise sales alpha | Jen Abel](channels/lenny's-podcast/2026-08-23-84-minutes-of-enterprise-sales-alpha-jen-abel-YS9In813jJ0.md)
 - 2026-08-16 · [OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber](channels/lenny's-podcast/2026-08-16-openai’s-head-of-design-this-is-the-best-time-in-history-to-be-a-designer-ian-silber-BV0hy6NET-U.md)
-- 2026-08-09 · [The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor](channels/lenny's-podcast/2026-08-09-the-playbook-for-building-high-talent-density-teams-adam-ward,-head-of-talent-at-cursor-zegYJ6dhIg4.md)
 
 ### [Y Combinator](channels/y-combinator/README.md) · 45 notes
 
@@ -82,6 +82,10 @@ Each episode can include up to three versions:
 - 2026-07-31 · [149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark](channels/张晓珺/2026-07-31-149.-亲历中美neo-labs资本狂潮,和清华刘子鸣聊-ai-for-ai、机制可解释性和max-tegmark-H3Gs4QUHvA4.md)
 
 ## Latest Updates
+
+### 2026-08-30
+
+- [AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)](channels/lenny's-podcast/2026-08-30-ai’s-third-era-the-rise-of-persistent-ai-coworkers-tara-seshan-(openai’s-product-lead)-zMvBMfj4cSQ.md) · Lenny's Podcast
 
 ### 2026-08-28
 
@@ -117,7 +121,6 @@ Each episode can include up to three versions:
 - [Supabase: Cash Does Not Equal Success](channels/y-combinator/2026-08-21-supabase-cash-does-not-equal-success-2cRbdYhs3VY.md) · Y Combinator
 - [Simulating Humanity: from Generative Agents to 8 Billion Digital Twins — Joon Sung Park, Simile AI](channels/latent-space/2026-08-21-simulating-humanity-from-generative-agents-to-8-billion-digital-twins-—-joon-sung-park,-simile-ai-KpOW9Pk4BUs.md) · Latent Space
 - [Making $$$ with Grok Bot](channels/greg-isenberg/2026-08-21-making-$$$-with-grok-bot-qQluNEfSVHk.md) · Greg Isenberg
-- [Codex Can CONTROL Your Messages Now (Endless Possibilities)](channels/riley-brown/2026-08-21-codex-can-control-your-messages-now-(endless-possibilities)-ETa6ZYqoIXo.md) · Riley Brown
 
 ## Data
 

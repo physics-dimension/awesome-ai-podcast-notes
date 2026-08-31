@@ -6,6 +6,10 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-08-30](2026/08/2026-08-30.md) · 1 篇
+
+- [AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)](../channels/lenny's-podcast/2026-08-30-ai’s-third-era-the-rise-of-persistent-ai-coworkers-tara-seshan-(openai’s-product-lead)-zMvBMfj4cSQ.md) · Lenny's Podcast
+
 ## [2026-08-28](2026/08/2026-08-28.md) · 1 篇
 
 - [Why Top Founders Are Racing Into AI Infrastructure](../channels/a16z/2026-08-28-why-top-founders-are-racing-into-ai-infrastructure-Zx1Ec8LWFeM.md) · a16z
