@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 812 |
+| Notes | 814 |
 | Channels | 16 |
-| Structured notes | 488 |
-| Raw transcripts | 772 |
+| Structured notes | 490 |
+| Raw transcripts | 774 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-08-30 |
-| Archive updated | 2026-08-31 |
+| Latest source date | 2026-08-31 |
+| Archive updated | 2026-09-01 |
 
 Each episode can include up to three versions:
 
@@ -45,17 +45,17 @@ Each episode can include up to three versions:
 - 2026-08-25 · [⏭️ Forward Deployed: Voice AI on what works in 2026](channels/latent-space/2026-08-25-⏭️-forward-deployed-voice-ai-on-what-works-in-2026-MwNvowwcZOo.md)
 - 2026-08-21 · [Simulating Humanity: from Generative Agents to 8 Billion Digital Twins — Joon Sung Park, Simile AI](channels/latent-space/2026-08-21-simulating-humanity-from-generative-agents-to-8-billion-digital-twins-—-joon-sung-park,-simile-ai-KpOW9Pk4BUs.md)
 
-### [a16z](channels/a16z/README.md) · 70 notes
+### [a16z](channels/a16z/README.md) · 71 notes
 
+- 2026-08-31 · [Why AI Demand Is Outrunning Compute Supply](channels/a16z/2026-08-31-why-ai-demand-is-outrunning-compute-supply-FGC4ofTcg2k.md)
 - 2026-08-28 · [Why Top Founders Are Racing Into AI Infrastructure](channels/a16z/2026-08-28-why-top-founders-are-racing-into-ai-infrastructure-Zx1Ec8LWFeM.md)
 - 2026-08-27 · [How Cursor Built One of AI’s Fastest-Growing Companies](channels/a16z/2026-08-27-how-cursor-built-one-of-ai’s-fastest-growing-companies-GHrnbvkVPZA.md)
-- 2026-08-26 · [The State of AI: Models, Moats, and the Consumer Renaissance](channels/a16z/2026-08-26-the-state-of-ai-models,-moats,-and-the-consumer-renaissance-zEZ0rQ8Ef-Y.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 65 notes
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 66 notes
 
+- 2026-08-31 · [Marketing Engineer: The $1M Job with AI Agents](channels/greg-isenberg/2026-08-31-marketing-engineer-the-$1m-job-with-ai-agents-8ZC1G1ezN5o.md)
 - 2026-08-26 · [WebMCP: Let AI Agents pay you money](channels/greg-isenberg/2026-08-26-webmcp-let-ai-agents-pay-you-money-EoNH3Tn8wYE.md)
 - 2026-08-21 · [Making $$$ with Grok Bot](channels/greg-isenberg/2026-08-21-making-$$$-with-grok-bot-qQluNEfSVHk.md)
-- 2026-08-19 · [Biggest Unlock for AI Agents in 2026: Skillsmaxxing](channels/greg-isenberg/2026-08-19-biggest-unlock-for-ai-agents-in-2026-skillsmaxxing-xHsftiyT9pQ.md)
 
 ### [Riley Brown](channels/riley-brown/README.md) · 62 notes
 
@@ -82,6 +82,11 @@ Each episode can include up to three versions:
 - 2026-07-31 · [149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark](channels/张晓珺/2026-07-31-149.-亲历中美neo-labs资本狂潮,和清华刘子鸣聊-ai-for-ai、机制可解释性和max-tegmark-H3Gs4QUHvA4.md)
 
 ## Latest Updates
+
+### 2026-08-31
+
+- [Why AI Demand Is Outrunning Compute Supply](channels/a16z/2026-08-31-why-ai-demand-is-outrunning-compute-supply-FGC4ofTcg2k.md) · a16z
+- [Marketing Engineer: The $1M Job with AI Agents](channels/greg-isenberg/2026-08-31-marketing-engineer-the-$1m-job-with-ai-agents-8ZC1G1ezN5o.md) · Greg Isenberg
 
 ### 2026-08-30
 
@@ -119,8 +124,6 @@ Each episode can include up to three versions:
 ### 2026-08-21
 
 - [Supabase: Cash Does Not Equal Success](channels/y-combinator/2026-08-21-supabase-cash-does-not-equal-success-2cRbdYhs3VY.md) · Y Combinator
-- [Simulating Humanity: from Generative Agents to 8 Billion Digital Twins — Joon Sung Park, Simile AI](channels/latent-space/2026-08-21-simulating-humanity-from-generative-agents-to-8-billion-digital-twins-—-joon-sung-park,-simile-ai-KpOW9Pk4BUs.md) · Latent Space
-- [Making $$$ with Grok Bot](channels/greg-isenberg/2026-08-21-making-$$$-with-grok-bot-qQluNEfSVHk.md) · Greg Isenberg
 
 ## Data
 

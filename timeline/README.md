@@ -6,6 +6,11 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-08-31](2026/08/2026-08-31.md) · 2 篇
+
+- [Marketing Engineer: The $1M Job with AI Agents](../channels/greg-isenberg/2026-08-31-marketing-engineer-the-$1m-job-with-ai-agents-8ZC1G1ezN5o.md) · Greg Isenberg
+- [Why AI Demand Is Outrunning Compute Supply](../channels/a16z/2026-08-31-why-ai-demand-is-outrunning-compute-supply-FGC4ofTcg2k.md) · a16z
+
 ## [2026-08-30](2026/08/2026-08-30.md) · 1 篇
 
 - [AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)](../channels/lenny's-podcast/2026-08-30-ai’s-third-era-the-rise-of-persistent-ai-coworkers-tara-seshan-(openai’s-product-lead)-zMvBMfj4cSQ.md) · Lenny's Podcast

@@ -6,7 +6,7 @@ Browse notes by podcast, YouTube channel, creator, or publishing source.
 
 - [AI Explained](ai-explained/README.md) (29)
 - [Dwarkesh Patel](dwarkesh-patel/README.md) (13)
-- [Greg Isenberg](greg-isenberg/README.md) (65)
+- [Greg Isenberg](greg-isenberg/README.md) (66)
 - [Hung-yi Lee](hung-yi-lee/README.md) (5)
 - [Koji Yang](koji-yang/README.md) (40)
 - [Latent Space](latent-space/README.md) (75)
@@ -15,7 +15,7 @@ Browse notes by podcast, YouTube channel, creator, or publishing source.
 - [Matthew Berman](matthew-berman/README.md) (1)
 - [Riley Brown](riley-brown/README.md) (62)
 - [Y Combinator](y-combinator/README.md) (45)
-- [a16z](a16z/README.md) (70)
+- [a16z](a16z/README.md) (71)
 - [张晓珺](张晓珺/README.md) (44)
 - [李弘毅](李弘毅/README.md) (253)
 - [硅谷101](硅谷101/README.md) (36)

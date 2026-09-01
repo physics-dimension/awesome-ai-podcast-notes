@@ -1,9 +1,10 @@
 # Greg Isenberg
 
-65 notes in this channel.
+66 notes in this channel.
 
-本频道共 65 篇。
+本频道共 66 篇。
 
+- 2026-08-31 · [Marketing Engineer: The $1M Job with AI Agents](2026-08-31-marketing-engineer-the-$1m-job-with-ai-agents-8ZC1G1ezN5o.md)
 - 2026-08-26 · [WebMCP: Let AI Agents pay you money](2026-08-26-webmcp-let-ai-agents-pay-you-money-EoNH3Tn8wYE.md)
 - 2026-08-21 · [Making $$$ with Grok Bot](2026-08-21-making-$$$-with-grok-bot-qQluNEfSVHk.md)
 - 2026-08-19 · [Biggest Unlock for AI Agents in 2026: Skillsmaxxing](2026-08-19-biggest-unlock-for-ai-agents-in-2026-skillsmaxxing-xHsftiyT9pQ.md)

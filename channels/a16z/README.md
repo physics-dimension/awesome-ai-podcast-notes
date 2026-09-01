@@ -1,9 +1,10 @@
 # a16z
 
-70 notes in this channel.
+71 notes in this channel.
 
-本频道共 70 篇。
+本频道共 71 篇。
 
+- 2026-08-31 · [Why AI Demand Is Outrunning Compute Supply](2026-08-31-why-ai-demand-is-outrunning-compute-supply-FGC4ofTcg2k.md)
 - 2026-08-28 · [Why Top Founders Are Racing Into AI Infrastructure](2026-08-28-why-top-founders-are-racing-into-ai-infrastructure-Zx1Ec8LWFeM.md)
 - 2026-08-27 · [How Cursor Built One of AI’s Fastest-Growing Companies](2026-08-27-how-cursor-built-one-of-ai’s-fastest-growing-companies-GHrnbvkVPZA.md)
 - 2026-08-26 · [The State of AI: Models, Moats, and the Consumer Renaissance](2026-08-26-the-state-of-ai-models,-moats,-and-the-consumer-renaissance-zEZ0rQ8Ef-Y.md)
