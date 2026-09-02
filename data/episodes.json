@@ -1,5 +1,53 @@
 [
   {
+    "id": "tQI35CSNB08",
+    "video_id": "tQI35CSNB08",
+    "title": "Can AI Learn Mathematical Intuition?",
+    "channel": "a16z",
+    "published": "2026-09-01",
+    "source_url": "https://www.youtube.com/watch?v=tQI35CSNB08",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "数学",
+      "数学家",
+      "认知",
+      "教育"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 7581,
+    "duration": "1:03:12",
+    "duration_seconds": 3792,
+    "path": "channels/a16z/2026-09-01-can-ai-learn-mathematical-intuition-tQI35CSNB08.md",
+    "structured_path": "channels/a16z/2026-09-01-can-ai-learn-mathematical-intuition-tQI35CSNB08.structured.md",
+    "transcript_path": "channels/a16z/2026-09-01-can-ai-learn-mathematical-intuition-tQI35CSNB08.transcript.md"
+  },
+  {
+    "id": "7JoqmM5EPXo",
+    "video_id": "7JoqmM5EPXo",
+    "title": "Building AI That Optimizes AI",
+    "channel": "Y Combinator",
+    "published": "2026-09-01",
+    "source_url": "https://www.youtube.com/watch?v=7JoqmM5EPXo",
+    "notion_url": "",
+    "tags": [
+      "AI基础设施",
+      "GPU优化",
+      "推理加速",
+      "AI代理",
+      "创业"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 12353,
+    "duration": "26:42",
+    "duration_seconds": 1602,
+    "path": "channels/y-combinator/2026-09-01-building-ai-that-optimizes-ai-7JoqmM5EPXo.md",
+    "structured_path": "channels/y-combinator/2026-09-01-building-ai-that-optimizes-ai-7JoqmM5EPXo.structured.md",
+    "transcript_path": "channels/y-combinator/2026-09-01-building-ai-that-optimizes-ai-7JoqmM5EPXo.transcript.md"
+  },
+  {
     "id": "FGC4ofTcg2k",
     "video_id": "FGC4ofTcg2k",
     "title": "Why AI Demand Is Outrunning Compute Supply",

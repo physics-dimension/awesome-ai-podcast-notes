@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-814-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-816-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 814 |
+| 笔记 | 816 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 490 |
-| 原始文稿 | 774 |
+| 结构化文稿 | 492 |
+| 原始文稿 | 776 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-08-31 |
-| 仓库更新日期 | 2026-09-01 |
+| 最新来源日期 | 2026-09-01 |
+| 仓库更新日期 | 2026-09-02 |
 
 ## 适合谁
 
@@ -56,11 +56,11 @@
 - 2026-08-25 · [⏭️ Forward Deployed: Voice AI on what works in 2026](channels/latent-space/2026-08-25-⏭️-forward-deployed-voice-ai-on-what-works-in-2026-MwNvowwcZOo.md)
 - 2026-08-21 · [Simulating Humanity: from Generative Agents to 8 Billion Digital Twins — Joon Sung Park, Simile AI](channels/latent-space/2026-08-21-simulating-humanity-from-generative-agents-to-8-billion-digital-twins-—-joon-sung-park,-simile-ai-KpOW9Pk4BUs.md)
 
-### [a16z](channels/a16z/README.md) · 71 篇
+### [a16z](channels/a16z/README.md) · 72 篇
 
+- 2026-09-01 · [Can AI Learn Mathematical Intuition?](channels/a16z/2026-09-01-can-ai-learn-mathematical-intuition-tQI35CSNB08.md)
 - 2026-08-31 · [Why AI Demand Is Outrunning Compute Supply](channels/a16z/2026-08-31-why-ai-demand-is-outrunning-compute-supply-FGC4ofTcg2k.md)
 - 2026-08-28 · [Why Top Founders Are Racing Into AI Infrastructure](channels/a16z/2026-08-28-why-top-founders-are-racing-into-ai-infrastructure-Zx1Ec8LWFeM.md)
-- 2026-08-27 · [How Cursor Built One of AI’s Fastest-Growing Companies](channels/a16z/2026-08-27-how-cursor-built-one-of-ai’s-fastest-growing-companies-GHrnbvkVPZA.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 66 篇
 
@@ -80,11 +80,11 @@
 - 2026-08-23 · [84 minutes of enterprise sales alpha | Jen Abel](channels/lenny's-podcast/2026-08-23-84-minutes-of-enterprise-sales-alpha-jen-abel-YS9In813jJ0.md)
 - 2026-08-16 · [OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber](channels/lenny's-podcast/2026-08-16-openai’s-head-of-design-this-is-the-best-time-in-history-to-be-a-designer-ian-silber-BV0hy6NET-U.md)
 
-### [Y Combinator](channels/y-combinator/README.md) · 45 篇
+### [Y Combinator](channels/y-combinator/README.md) · 46 篇
 
+- 2026-09-01 · [Building AI That Optimizes AI](channels/y-combinator/2026-09-01-building-ai-that-optimizes-ai-7JoqmM5EPXo.md)
 - 2026-08-27 · [How Outset Turned AI Interviews Into a New Category](channels/y-combinator/2026-08-27-how-outset-turned-ai-interviews-into-a-new-category-x3XOeDckUX0.md)
 - 2026-08-21 · [Supabase: Cash Does Not Equal Success](channels/y-combinator/2026-08-21-supabase-cash-does-not-equal-success-2cRbdYhs3VY.md)
-- 2026-08-20 · [How Olivier Pomel Built Datadog By Refusing Every Shortcut](channels/y-combinator/2026-08-20-how-olivier-pomel-built-datadog-by-refusing-every-shortcut-zcUoVg8Xvrk.md)
 
 ### [张晓珺](channels/张晓珺/README.md) · 44 篇
 
@@ -93,6 +93,11 @@
 - 2026-07-31 · [149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark](channels/张晓珺/2026-07-31-149.-亲历中美neo-labs资本狂潮,和清华刘子鸣聊-ai-for-ai、机制可解释性和max-tegmark-H3Gs4QUHvA4.md)
 
 ## 最新更新
+
+### 2026-09-01
+
+- [Can AI Learn Mathematical Intuition?](channels/a16z/2026-09-01-can-ai-learn-mathematical-intuition-tQI35CSNB08.md) · a16z
+- [Building AI That Optimizes AI](channels/y-combinator/2026-09-01-building-ai-that-optimizes-ai-7JoqmM5EPXo.md) · Y Combinator
 
 ### 2026-08-31
 
@@ -127,14 +132,6 @@
 
 - [⏭️ Forward Deployed: Voice AI on what works in 2026](channels/latent-space/2026-08-25-⏭️-forward-deployed-voice-ai-on-what-works-in-2026-MwNvowwcZOo.md) · Latent Space
 - [How AI Changes the Economics of Innovation](channels/a16z/2026-08-25-how-ai-changes-the-economics-of-innovation-GHPB1MwlKU0.md) · a16z
-
-### 2026-08-23
-
-- [84 minutes of enterprise sales alpha | Jen Abel](channels/lenny's-podcast/2026-08-23-84-minutes-of-enterprise-sales-alpha-jen-abel-YS9In813jJ0.md) · Lenny's Podcast
-
-### 2026-08-21
-
-- [Supabase: Cash Does Not Equal Success](channels/y-combinator/2026-08-21-supabase-cash-does-not-equal-success-2cRbdYhs3VY.md) · Y Combinator
 
 ## 数据与自动更新
 

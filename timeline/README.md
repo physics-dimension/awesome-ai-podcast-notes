@@ -6,6 +6,11 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-09-01](2026/09/2026-09-01.md) · 2 篇
+
+- [Building AI That Optimizes AI](../channels/y-combinator/2026-09-01-building-ai-that-optimizes-ai-7JoqmM5EPXo.md) · Y Combinator
+- [Can AI Learn Mathematical Intuition?](../channels/a16z/2026-09-01-can-ai-learn-mathematical-intuition-tQI35CSNB08.md) · a16z
+
 ## [2026-08-31](2026/08/2026-08-31.md) · 2 篇
 
 - [Marketing Engineer: The $1M Job with AI Agents](../channels/greg-isenberg/2026-08-31-marketing-engineer-the-$1m-job-with-ai-agents-8ZC1G1ezN5o.md) · Greg Isenberg
