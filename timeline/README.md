@@ -6,6 +6,13 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-09-02](2026/09/2026-09-02.md) · 4 篇
+
+- [5 GitHub Repos: Kill AI Slop, Go Viral, Make Money](../channels/greg-isenberg/2026-09-02-5-github-repos-kill-ai-slop,-go-viral,-make-money-9_SZFIW7tus.md) · Greg Isenberg
+- [The Inference Frontier: from 100 to 10,000 tokens per second — Sean Lie, Cerebras CTO](../channels/latent-space/2026-09-02-the-inference-frontier-from-100-to-10,000-tokens-per-second-—-sean-lie,-cerebras-cto-3uSI8q_RN-o.md) · Latent Space
+- [I Gave GrokBot Its Own Email and Credit Card (It Actually Worked)](../channels/riley-brown/2026-09-02-i-gave-grokbot-its-own-email-and-credit-card-(it-actually-worked)-9lsnEn0tih4.md) · Riley Brown
+- [Inside Moderna’s Biggest mRNA Test Since COVID](../channels/a16z/2026-09-02-inside-moderna’s-biggest-mrna-test-since-covid-yTNMEYeCgWw.md) · a16z
+
 ## [2026-09-01](2026/09/2026-09-01.md) · 2 篇
 
 - [Building AI That Optimizes AI](../channels/y-combinator/2026-09-01-building-ai-that-optimizes-ai-7JoqmM5EPXo.md) · Y Combinator

@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 816 |
+| Notes | 820 |
 | Channels | 16 |
-| Structured notes | 492 |
-| Raw transcripts | 776 |
+| Structured notes | 496 |
+| Raw transcripts | 780 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-09-01 |
-| Archive updated | 2026-09-02 |
+| Latest source date | 2026-09-02 |
+| Archive updated | 2026-09-03 |
 
 Each episode can include up to three versions:
 
@@ -39,29 +39,29 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [Latent Space](channels/latent-space/README.md) · 75 notes
+### [Latent Space](channels/latent-space/README.md) · 76 notes
 
+- 2026-09-02 · [The Inference Frontier: from 100 to 10,000 tokens per second — Sean Lie, Cerebras CTO](channels/latent-space/2026-09-02-the-inference-frontier-from-100-to-10,000-tokens-per-second-—-sean-lie,-cerebras-cto-3uSI8q_RN-o.md)
 - 2026-08-26 · [🔬 Why Transformers Hit a Wall the Moment Physics Shows Up — Anima Anandkumar, Caltech](channels/latent-space/2026-08-26-🔬-why-transformers-hit-a-wall-the-moment-physics-shows-up-—-anima-anandkumar,-caltech-79mIutht1f4.md)
 - 2026-08-25 · [⏭️ Forward Deployed: Voice AI on what works in 2026](channels/latent-space/2026-08-25-⏭️-forward-deployed-voice-ai-on-what-works-in-2026-MwNvowwcZOo.md)
-- 2026-08-21 · [Simulating Humanity: from Generative Agents to 8 Billion Digital Twins — Joon Sung Park, Simile AI](channels/latent-space/2026-08-21-simulating-humanity-from-generative-agents-to-8-billion-digital-twins-—-joon-sung-park,-simile-ai-KpOW9Pk4BUs.md)
 
-### [a16z](channels/a16z/README.md) · 72 notes
+### [a16z](channels/a16z/README.md) · 73 notes
 
+- 2026-09-02 · [Inside Moderna’s Biggest mRNA Test Since COVID](channels/a16z/2026-09-02-inside-moderna’s-biggest-mrna-test-since-covid-yTNMEYeCgWw.md)
 - 2026-09-01 · [Can AI Learn Mathematical Intuition?](channels/a16z/2026-09-01-can-ai-learn-mathematical-intuition-tQI35CSNB08.md)
 - 2026-08-31 · [Why AI Demand Is Outrunning Compute Supply](channels/a16z/2026-08-31-why-ai-demand-is-outrunning-compute-supply-FGC4ofTcg2k.md)
-- 2026-08-28 · [Why Top Founders Are Racing Into AI Infrastructure](channels/a16z/2026-08-28-why-top-founders-are-racing-into-ai-infrastructure-Zx1Ec8LWFeM.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 66 notes
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 67 notes
 
+- 2026-09-02 · [5 GitHub Repos: Kill AI Slop, Go Viral, Make Money](channels/greg-isenberg/2026-09-02-5-github-repos-kill-ai-slop,-go-viral,-make-money-9_SZFIW7tus.md)
 - 2026-08-31 · [Marketing Engineer: The $1M Job with AI Agents](channels/greg-isenberg/2026-08-31-marketing-engineer-the-$1m-job-with-ai-agents-8ZC1G1ezN5o.md)
 - 2026-08-26 · [WebMCP: Let AI Agents pay you money](channels/greg-isenberg/2026-08-26-webmcp-let-ai-agents-pay-you-money-EoNH3Tn8wYE.md)
-- 2026-08-21 · [Making $$$ with Grok Bot](channels/greg-isenberg/2026-08-21-making-$$$-with-grok-bot-qQluNEfSVHk.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 62 notes
+### [Riley Brown](channels/riley-brown/README.md) · 63 notes
 
+- 2026-09-02 · [I Gave GrokBot Its Own Email and Credit Card (It Actually Worked)](channels/riley-brown/2026-09-02-i-gave-grokbot-its-own-email-and-credit-card-(it-actually-worked)-9lsnEn0tih4.md)
 - 2026-08-26 · [ChatGPT Can Build Apps You’ll Actually Use (ChatGPT Sites)](channels/riley-brown/2026-08-26-chatgpt-can-build-apps-you’ll-actually-use-(chatgpt-sites)-mHqSBCHEZOY.md)
 - 2026-08-26 · [11 Insane Things Cursor’s NEW GrokBot Can Do](channels/riley-brown/2026-08-26-11-insane-things-cursor’s-new-grokbot-can-do-XgkW4A6lrDY.md)
-- 2026-08-21 · [Codex Can CONTROL Your Messages Now (Endless Possibilities)](channels/riley-brown/2026-08-21-codex-can-control-your-messages-now-(endless-possibilities)-ETa6ZYqoIXo.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 46 notes
 
@@ -82,6 +82,13 @@ Each episode can include up to three versions:
 - 2026-07-31 · [149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark](channels/张晓珺/2026-07-31-149.-亲历中美neo-labs资本狂潮,和清华刘子鸣聊-ai-for-ai、机制可解释性和max-tegmark-H3Gs4QUHvA4.md)
 
 ## Latest Updates
+
+### 2026-09-02
+
+- [The Inference Frontier: from 100 to 10,000 tokens per second — Sean Lie, Cerebras CTO](channels/latent-space/2026-09-02-the-inference-frontier-from-100-to-10,000-tokens-per-second-—-sean-lie,-cerebras-cto-3uSI8q_RN-o.md) · Latent Space
+- [Inside Moderna’s Biggest mRNA Test Since COVID](channels/a16z/2026-09-02-inside-moderna’s-biggest-mrna-test-since-covid-yTNMEYeCgWw.md) · a16z
+- [I Gave GrokBot Its Own Email and Credit Card (It Actually Worked)](channels/riley-brown/2026-09-02-i-gave-grokbot-its-own-email-and-credit-card-(it-actually-worked)-9lsnEn0tih4.md) · Riley Brown
+- [5 GitHub Repos: Kill AI Slop, Go Viral, Make Money](channels/greg-isenberg/2026-09-02-5-github-repos-kill-ai-slop,-go-viral,-make-money-9_SZFIW7tus.md) · Greg Isenberg
 
 ### 2026-09-01
 
@@ -114,13 +121,6 @@ Each episode can include up to three versions:
 - [The State of AI: Models, Moats, and the Consumer Renaissance](channels/a16z/2026-08-26-the-state-of-ai-models,-moats,-and-the-consumer-renaissance-zEZ0rQ8Ef-Y.md) · a16z
 - [DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501](channels/lex-fridman/2026-08-26-dhh-future-of-programming,-ai,-agentic-engineering,-vibe-coding-&-linux-lex-fridman-podcast-501-NYFGCESmikA.md) · Lex Fridman
 - [Could the AI Boom Trigger a Global Debt Crisis? - Dylan Patel](channels/dwarkesh-patel/2026-08-26-could-the-ai-boom-trigger-a-global-debt-crisis-dylan-patel-0Hx7QGJhoGs.md) · Dwarkesh Patel
-- [ChatGPT Can Build Apps You’ll Actually Use (ChatGPT Sites)](channels/riley-brown/2026-08-26-chatgpt-can-build-apps-you’ll-actually-use-(chatgpt-sites)-mHqSBCHEZOY.md) · Riley Brown
-- [11 Insane Things Cursor’s NEW GrokBot Can Do](channels/riley-brown/2026-08-26-11-insane-things-cursor’s-new-grokbot-can-do-XgkW4A6lrDY.md) · Riley Brown
-
-### 2026-08-25
-
-- [⏭️ Forward Deployed: Voice AI on what works in 2026](channels/latent-space/2026-08-25-⏭️-forward-deployed-voice-ai-on-what-works-in-2026-MwNvowwcZOo.md) · Latent Space
-- [How AI Changes the Economics of Innovation](channels/a16z/2026-08-25-how-ai-changes-the-economics-of-innovation-GHPB1MwlKU0.md) · a16z
 
 ## Data
 

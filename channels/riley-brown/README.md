@@ -1,9 +1,10 @@
 # Riley Brown
 
-62 notes in this channel.
+63 notes in this channel.
 
-本频道共 62 篇。
+本频道共 63 篇。
 
+- 2026-09-02 · [I Gave GrokBot Its Own Email and Credit Card (It Actually Worked)](2026-09-02-i-gave-grokbot-its-own-email-and-credit-card-(it-actually-worked)-9lsnEn0tih4.md)
 - 2026-08-26 · [ChatGPT Can Build Apps You’ll Actually Use (ChatGPT Sites)](2026-08-26-chatgpt-can-build-apps-you’ll-actually-use-(chatgpt-sites)-mHqSBCHEZOY.md)
 - 2026-08-26 · [11 Insane Things Cursor’s NEW GrokBot Can Do](2026-08-26-11-insane-things-cursor’s-new-grokbot-can-do-XgkW4A6lrDY.md)
 - 2026-08-21 · [Codex Can CONTROL Your Messages Now (Endless Possibilities)](2026-08-21-codex-can-control-your-messages-now-(endless-possibilities)-ETa6ZYqoIXo.md)

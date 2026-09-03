@@ -1,9 +1,10 @@
 # Greg Isenberg
 
-66 notes in this channel.
+67 notes in this channel.
 
-本频道共 66 篇。
+本频道共 67 篇。
 
+- 2026-09-02 · [5 GitHub Repos: Kill AI Slop, Go Viral, Make Money](2026-09-02-5-github-repos-kill-ai-slop,-go-viral,-make-money-9_SZFIW7tus.md)
 - 2026-08-31 · [Marketing Engineer: The $1M Job with AI Agents](2026-08-31-marketing-engineer-the-$1m-job-with-ai-agents-8ZC1G1ezN5o.md)
 - 2026-08-26 · [WebMCP: Let AI Agents pay you money](2026-08-26-webmcp-let-ai-agents-pay-you-money-EoNH3Tn8wYE.md)
 - 2026-08-21 · [Making $$$ with Grok Bot](2026-08-21-making-$$$-with-grok-bot-qQluNEfSVHk.md)

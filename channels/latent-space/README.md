@@ -1,9 +1,10 @@
 # Latent Space
 
-75 notes in this channel.
+76 notes in this channel.
 
-本频道共 75 篇。
+本频道共 76 篇。
 
+- 2026-09-02 · [The Inference Frontier: from 100 to 10,000 tokens per second — Sean Lie, Cerebras CTO](2026-09-02-the-inference-frontier-from-100-to-10,000-tokens-per-second-—-sean-lie,-cerebras-cto-3uSI8q_RN-o.md)
 - 2026-08-26 · [🔬 Why Transformers Hit a Wall the Moment Physics Shows Up — Anima Anandkumar, Caltech](2026-08-26-🔬-why-transformers-hit-a-wall-the-moment-physics-shows-up-—-anima-anandkumar,-caltech-79mIutht1f4.md)
 - 2026-08-25 · [⏭️ Forward Deployed: Voice AI on what works in 2026](2026-08-25-⏭️-forward-deployed-voice-ai-on-what-works-in-2026-MwNvowwcZOo.md)
 - 2026-08-21 · [Simulating Humanity: from Generative Agents to 8 Billion Digital Twins — Joon Sung Park, Simile AI](2026-08-21-simulating-humanity-from-generative-agents-to-8-billion-digital-twins-—-joon-sung-park,-simile-ai-KpOW9Pk4BUs.md)
