@@ -6,6 +6,12 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-09-03](2026/09/2026-09-03.md) · 3 篇
+
+- [How a Rogue AI Swarm Could Hide Inside an AI Company - Ajeya Cotra](../channels/dwarkesh-patel/2026-09-03-how-a-rogue-ai-swarm-could-hide-inside-an-ai-company-ajeya-cotra-xRKOpMeEQgQ.md) · Dwarkesh Patel
+- [Why AI Agents Could Finally Reinvent the Credit Card](../channels/a16z/2026-09-03-why-ai-agents-could-finally-reinvent-the-credit-card-J3pegsM5drk.md) · a16z
+- [Zeng Ming: The Brutal Truth, Companies That Will Disappear, Why “Excellent” ≠ “Great”](../channels/张晓珺/2026-09-03-zeng-ming-the-brutal-truth,-companies-that-will-disappear,-why-“excellent”-≠-“great”-E7qB_p1D0Xk.md) · 张晓珺
+
 ## [2026-09-02](2026/09/2026-09-02.md) · 4 篇
 
 - [5 GitHub Repos: Kill AI Slop, Go Viral, Make Money](../channels/greg-isenberg/2026-09-02-5-github-repos-kill-ai-slop,-go-viral,-make-money-9_SZFIW7tus.md) · Greg Isenberg

@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 820 |
+| Notes | 823 |
 | Channels | 16 |
-| Structured notes | 496 |
-| Raw transcripts | 780 |
+| Structured notes | 499 |
+| Raw transcripts | 783 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-09-02 |
-| Archive updated | 2026-09-03 |
+| Latest source date | 2026-09-03 |
+| Archive updated | 2026-09-04 |
 
 Each episode can include up to three versions:
 
@@ -45,11 +45,11 @@ Each episode can include up to three versions:
 - 2026-08-26 · [🔬 Why Transformers Hit a Wall the Moment Physics Shows Up — Anima Anandkumar, Caltech](channels/latent-space/2026-08-26-🔬-why-transformers-hit-a-wall-the-moment-physics-shows-up-—-anima-anandkumar,-caltech-79mIutht1f4.md)
 - 2026-08-25 · [⏭️ Forward Deployed: Voice AI on what works in 2026](channels/latent-space/2026-08-25-⏭️-forward-deployed-voice-ai-on-what-works-in-2026-MwNvowwcZOo.md)
 
-### [a16z](channels/a16z/README.md) · 73 notes
+### [a16z](channels/a16z/README.md) · 74 notes
 
+- 2026-09-03 · [Why AI Agents Could Finally Reinvent the Credit Card](channels/a16z/2026-09-03-why-ai-agents-could-finally-reinvent-the-credit-card-J3pegsM5drk.md)
 - 2026-09-02 · [Inside Moderna’s Biggest mRNA Test Since COVID](channels/a16z/2026-09-02-inside-moderna’s-biggest-mrna-test-since-covid-yTNMEYeCgWw.md)
 - 2026-09-01 · [Can AI Learn Mathematical Intuition?](channels/a16z/2026-09-01-can-ai-learn-mathematical-intuition-tQI35CSNB08.md)
-- 2026-08-31 · [Why AI Demand Is Outrunning Compute Supply](channels/a16z/2026-08-31-why-ai-demand-is-outrunning-compute-supply-FGC4ofTcg2k.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 67 notes
 
@@ -75,13 +75,19 @@ Each episode can include up to three versions:
 - 2026-08-27 · [How Outset Turned AI Interviews Into a New Category](channels/y-combinator/2026-08-27-how-outset-turned-ai-interviews-into-a-new-category-x3XOeDckUX0.md)
 - 2026-08-21 · [Supabase: Cash Does Not Equal Success](channels/y-combinator/2026-08-21-supabase-cash-does-not-equal-success-2cRbdYhs3VY.md)
 
-### [张晓珺](channels/张晓珺/README.md) · 44 notes
+### [张晓珺](channels/张晓珺/README.md) · 45 notes
 
+- 2026-09-03 · [Zeng Ming: The Brutal Truth, Companies That Will Disappear, Why “Excellent” ≠ “Great”](channels/张晓珺/2026-09-03-zeng-ming-the-brutal-truth,-companies-that-will-disappear,-why-“excellent”-≠-“great”-E7qB_p1D0Xk.md)
 - 2026-08-13 · [NVIDIA VP Ming-Yu Liu: Cosmos 3, World Models, Kung Fu, What Jensen Taught Me](channels/张晓珺/2026-08-13-nvidia-vp-ming-yu-liu-cosmos-3,-world-models,-kung-fu,-what-jensen-taught-me-zawGTDLtWFY.md)
 - 2026-08-12 · [150. 对英伟达研究副总裁刘洺堉的4小时访谈：功夫、Cosmos 3、开源世界模型、黄仁勋、你不需要击败所有对手](channels/张晓珺/2026-08-12-150.-对英伟达研究副总裁刘洺堉的4小时访谈-功夫、cosmos-3、开源世界模型、黄仁勋、你不需要击败所有对手-Cj_kb9nlAlE.md)
-- 2026-07-31 · [149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark](channels/张晓珺/2026-07-31-149.-亲历中美neo-labs资本狂潮,和清华刘子鸣聊-ai-for-ai、机制可解释性和max-tegmark-H3Gs4QUHvA4.md)
 
 ## Latest Updates
+
+### 2026-09-03
+
+- [Zeng Ming: The Brutal Truth, Companies That Will Disappear, Why “Excellent” ≠ “Great”](channels/张晓珺/2026-09-03-zeng-ming-the-brutal-truth,-companies-that-will-disappear,-why-“excellent”-≠-“great”-E7qB_p1D0Xk.md) · 张晓珺
+- [Why AI Agents Could Finally Reinvent the Credit Card](channels/a16z/2026-09-03-why-ai-agents-could-finally-reinvent-the-credit-card-J3pegsM5drk.md) · a16z
+- [How a Rogue AI Swarm Could Hide Inside an AI Company - Ajeya Cotra](channels/dwarkesh-patel/2026-09-03-how-a-rogue-ai-swarm-could-hide-inside-an-ai-company-ajeya-cotra-xRKOpMeEQgQ.md) · Dwarkesh Patel
 
 ### 2026-09-02
 
@@ -118,9 +124,6 @@ Each episode can include up to three versions:
 
 - [🔬 Why Transformers Hit a Wall the Moment Physics Shows Up — Anima Anandkumar, Caltech](channels/latent-space/2026-08-26-🔬-why-transformers-hit-a-wall-the-moment-physics-shows-up-—-anima-anandkumar,-caltech-79mIutht1f4.md) · Latent Space
 - [WebMCP: Let AI Agents pay you money](channels/greg-isenberg/2026-08-26-webmcp-let-ai-agents-pay-you-money-EoNH3Tn8wYE.md) · Greg Isenberg
-- [The State of AI: Models, Moats, and the Consumer Renaissance](channels/a16z/2026-08-26-the-state-of-ai-models,-moats,-and-the-consumer-renaissance-zEZ0rQ8Ef-Y.md) · a16z
-- [DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501](channels/lex-fridman/2026-08-26-dhh-future-of-programming,-ai,-agentic-engineering,-vibe-coding-&-linux-lex-fridman-podcast-501-NYFGCESmikA.md) · Lex Fridman
-- [Could the AI Boom Trigger a Global Debt Crisis? - Dylan Patel](channels/dwarkesh-patel/2026-08-26-could-the-ai-boom-trigger-a-global-debt-crisis-dylan-patel-0Hx7QGJhoGs.md) · Dwarkesh Patel
 
 ## Data
 

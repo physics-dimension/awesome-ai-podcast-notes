@@ -1,9 +1,10 @@
 # Dwarkesh Patel
 
-13 notes in this channel.
+14 notes in this channel.
 
-本频道共 13 篇。
+本频道共 14 篇。
 
+- 2026-09-03 · [How a Rogue AI Swarm Could Hide Inside an AI Company - Ajeya Cotra](2026-09-03-how-a-rogue-ai-swarm-could-hide-inside-an-ai-company-ajeya-cotra-xRKOpMeEQgQ.md)
 - 2026-08-26 · [Could the AI Boom Trigger a Global Debt Crisis? - Dylan Patel](2026-08-26-could-the-ai-boom-trigger-a-global-debt-crisis-dylan-patel-0Hx7QGJhoGs.md)
 - 2026-06-23 · [How On Policy Self Distillation Works - Sasha Rush](2026-06-23-how-on-policy-self-distillation-works-sasha-rush-wxOZWD6wYVY.md)
 - 2026-06-22 · [When Rome Rioted for More Nepotism – Ada Palmer](2026-06-22-when-rome-rioted-for-more-nepotism-–-ada-palmer-ATScXYYjUrA.md)

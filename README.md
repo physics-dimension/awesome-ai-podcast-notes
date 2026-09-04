@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-820-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-823-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 820 |
+| 笔记 | 823 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 496 |
-| 原始文稿 | 780 |
+| 结构化文稿 | 499 |
+| 原始文稿 | 783 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-09-02 |
-| 仓库更新日期 | 2026-09-03 |
+| 最新来源日期 | 2026-09-03 |
+| 仓库更新日期 | 2026-09-04 |
 
 ## 适合谁
 
@@ -56,11 +56,11 @@
 - 2026-08-26 · [🔬 Why Transformers Hit a Wall the Moment Physics Shows Up — Anima Anandkumar, Caltech](channels/latent-space/2026-08-26-🔬-why-transformers-hit-a-wall-the-moment-physics-shows-up-—-anima-anandkumar,-caltech-79mIutht1f4.md)
 - 2026-08-25 · [⏭️ Forward Deployed: Voice AI on what works in 2026](channels/latent-space/2026-08-25-⏭️-forward-deployed-voice-ai-on-what-works-in-2026-MwNvowwcZOo.md)
 
-### [a16z](channels/a16z/README.md) · 73 篇
+### [a16z](channels/a16z/README.md) · 74 篇
 
+- 2026-09-03 · [Why AI Agents Could Finally Reinvent the Credit Card](channels/a16z/2026-09-03-why-ai-agents-could-finally-reinvent-the-credit-card-J3pegsM5drk.md)
 - 2026-09-02 · [Inside Moderna’s Biggest mRNA Test Since COVID](channels/a16z/2026-09-02-inside-moderna’s-biggest-mrna-test-since-covid-yTNMEYeCgWw.md)
 - 2026-09-01 · [Can AI Learn Mathematical Intuition?](channels/a16z/2026-09-01-can-ai-learn-mathematical-intuition-tQI35CSNB08.md)
-- 2026-08-31 · [Why AI Demand Is Outrunning Compute Supply](channels/a16z/2026-08-31-why-ai-demand-is-outrunning-compute-supply-FGC4ofTcg2k.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 67 篇
 
@@ -86,13 +86,19 @@
 - 2026-08-27 · [How Outset Turned AI Interviews Into a New Category](channels/y-combinator/2026-08-27-how-outset-turned-ai-interviews-into-a-new-category-x3XOeDckUX0.md)
 - 2026-08-21 · [Supabase: Cash Does Not Equal Success](channels/y-combinator/2026-08-21-supabase-cash-does-not-equal-success-2cRbdYhs3VY.md)
 
-### [张晓珺](channels/张晓珺/README.md) · 44 篇
+### [张晓珺](channels/张晓珺/README.md) · 45 篇
 
+- 2026-09-03 · [Zeng Ming: The Brutal Truth, Companies That Will Disappear, Why “Excellent” ≠ “Great”](channels/张晓珺/2026-09-03-zeng-ming-the-brutal-truth,-companies-that-will-disappear,-why-“excellent”-≠-“great”-E7qB_p1D0Xk.md)
 - 2026-08-13 · [NVIDIA VP Ming-Yu Liu: Cosmos 3, World Models, Kung Fu, What Jensen Taught Me](channels/张晓珺/2026-08-13-nvidia-vp-ming-yu-liu-cosmos-3,-world-models,-kung-fu,-what-jensen-taught-me-zawGTDLtWFY.md)
 - 2026-08-12 · [150. 对英伟达研究副总裁刘洺堉的4小时访谈：功夫、Cosmos 3、开源世界模型、黄仁勋、你不需要击败所有对手](channels/张晓珺/2026-08-12-150.-对英伟达研究副总裁刘洺堉的4小时访谈-功夫、cosmos-3、开源世界模型、黄仁勋、你不需要击败所有对手-Cj_kb9nlAlE.md)
-- 2026-07-31 · [149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark](channels/张晓珺/2026-07-31-149.-亲历中美neo-labs资本狂潮,和清华刘子鸣聊-ai-for-ai、机制可解释性和max-tegmark-H3Gs4QUHvA4.md)
 
 ## 最新更新
+
+### 2026-09-03
+
+- [Zeng Ming: The Brutal Truth, Companies That Will Disappear, Why “Excellent” ≠ “Great”](channels/张晓珺/2026-09-03-zeng-ming-the-brutal-truth,-companies-that-will-disappear,-why-“excellent”-≠-“great”-E7qB_p1D0Xk.md) · 张晓珺
+- [Why AI Agents Could Finally Reinvent the Credit Card](channels/a16z/2026-09-03-why-ai-agents-could-finally-reinvent-the-credit-card-J3pegsM5drk.md) · a16z
+- [How a Rogue AI Swarm Could Hide Inside an AI Company - Ajeya Cotra](channels/dwarkesh-patel/2026-09-03-how-a-rogue-ai-swarm-could-hide-inside-an-ai-company-ajeya-cotra-xRKOpMeEQgQ.md) · Dwarkesh Patel
 
 ### 2026-09-02
 
@@ -129,9 +135,6 @@
 
 - [🔬 Why Transformers Hit a Wall the Moment Physics Shows Up — Anima Anandkumar, Caltech](channels/latent-space/2026-08-26-🔬-why-transformers-hit-a-wall-the-moment-physics-shows-up-—-anima-anandkumar,-caltech-79mIutht1f4.md) · Latent Space
 - [WebMCP: Let AI Agents pay you money](channels/greg-isenberg/2026-08-26-webmcp-let-ai-agents-pay-you-money-EoNH3Tn8wYE.md) · Greg Isenberg
-- [The State of AI: Models, Moats, and the Consumer Renaissance](channels/a16z/2026-08-26-the-state-of-ai-models,-moats,-and-the-consumer-renaissance-zEZ0rQ8Ef-Y.md) · a16z
-- [DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501](channels/lex-fridman/2026-08-26-dhh-future-of-programming,-ai,-agentic-engineering,-vibe-coding-&-linux-lex-fridman-podcast-501-NYFGCESmikA.md) · Lex Fridman
-- [Could the AI Boom Trigger a Global Debt Crisis? - Dylan Patel](channels/dwarkesh-patel/2026-08-26-could-the-ai-boom-trigger-a-global-debt-crisis-dylan-patel-0Hx7QGJhoGs.md) · Dwarkesh Patel
 
 ## 数据与自动更新
 
