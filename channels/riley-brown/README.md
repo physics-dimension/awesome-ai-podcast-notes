@@ -1,9 +1,10 @@
 # Riley Brown
 
-63 notes in this channel.
+64 notes in this channel.
 
-本频道共 63 篇。
+本频道共 64 篇。
 
+- 2026-09-04 · [8 Agents That Make ChatGPT 10x MORE Powerful](2026-09-04-8-agents-that-make-chatgpt-10x-more-powerful-ubzhh4kMCLo.md)
 - 2026-09-02 · [I Gave GrokBot Its Own Email and Credit Card (It Actually Worked)](2026-09-02-i-gave-grokbot-its-own-email-and-credit-card-(it-actually-worked)-9lsnEn0tih4.md)
 - 2026-08-26 · [ChatGPT Can Build Apps You’ll Actually Use (ChatGPT Sites)](2026-08-26-chatgpt-can-build-apps-you’ll-actually-use-(chatgpt-sites)-mHqSBCHEZOY.md)
 - 2026-08-26 · [11 Insane Things Cursor’s NEW GrokBot Can Do](2026-08-26-11-insane-things-cursor’s-new-grokbot-can-do-XgkW4A6lrDY.md)

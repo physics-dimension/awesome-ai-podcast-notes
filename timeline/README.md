@@ -6,6 +6,13 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-09-04](2026/09/2026-09-04.md) · 4 篇
+
+- [GPT 6 Astra, so good even OpenAI are worried](../channels/ai-explained/2026-09-04-gpt-6-astra,-so-good-even-openai-are-worried-Spuza-KwTJ4.md) · AI Explained
+- [Faster Chips That Don't Melt — Anima Anandkumar & Benedikt Jenik, Accelerated Understanding](../channels/latent-space/2026-09-04-faster-chips-that-don't-melt-—-anima-anandkumar-&-benedikt-jenik,-accelerated-understanding-KS_IpnX7n9I.md) · Latent Space
+- [8 Agents That Make ChatGPT 10x MORE Powerful](../channels/riley-brown/2026-09-04-8-agents-that-make-chatgpt-10x-more-powerful-ubzhh4kMCLo.md) · Riley Brown
+- [Why World Models Could Change Robotics, 3D, and Creativity](../channels/a16z/2026-09-04-why-world-models-could-change-robotics,-3d,-and-creativity-qn1QDDBnTA0.md) · a16z
+
 ## [2026-09-03](2026/09/2026-09-03.md) · 3 篇
 
 - [How a Rogue AI Swarm Could Hide Inside an AI Company - Ajeya Cotra](../channels/dwarkesh-patel/2026-09-03-how-a-rogue-ai-swarm-could-hide-inside-an-ai-company-ajeya-cotra-xRKOpMeEQgQ.md) · Dwarkesh Patel

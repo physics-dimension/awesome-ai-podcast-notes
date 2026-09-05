@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 823 |
+| Notes | 827 |
 | Channels | 16 |
-| Structured notes | 499 |
-| Raw transcripts | 783 |
+| Structured notes | 503 |
+| Raw transcripts | 787 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-09-03 |
-| Archive updated | 2026-09-04 |
+| Latest source date | 2026-09-04 |
+| Archive updated | 2026-09-05 |
 
 Each episode can include up to three versions:
 
@@ -39,17 +39,17 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [Latent Space](channels/latent-space/README.md) · 76 notes
+### [Latent Space](channels/latent-space/README.md) · 77 notes
 
+- 2026-09-04 · [Faster Chips That Don't Melt — Anima Anandkumar & Benedikt Jenik, Accelerated Understanding](channels/latent-space/2026-09-04-faster-chips-that-don't-melt-—-anima-anandkumar-&-benedikt-jenik,-accelerated-understanding-KS_IpnX7n9I.md)
 - 2026-09-02 · [The Inference Frontier: from 100 to 10,000 tokens per second — Sean Lie, Cerebras CTO](channels/latent-space/2026-09-02-the-inference-frontier-from-100-to-10,000-tokens-per-second-—-sean-lie,-cerebras-cto-3uSI8q_RN-o.md)
 - 2026-08-26 · [🔬 Why Transformers Hit a Wall the Moment Physics Shows Up — Anima Anandkumar, Caltech](channels/latent-space/2026-08-26-🔬-why-transformers-hit-a-wall-the-moment-physics-shows-up-—-anima-anandkumar,-caltech-79mIutht1f4.md)
-- 2026-08-25 · [⏭️ Forward Deployed: Voice AI on what works in 2026](channels/latent-space/2026-08-25-⏭️-forward-deployed-voice-ai-on-what-works-in-2026-MwNvowwcZOo.md)
 
-### [a16z](channels/a16z/README.md) · 74 notes
+### [a16z](channels/a16z/README.md) · 75 notes
 
+- 2026-09-04 · [Why World Models Could Change Robotics, 3D, and Creativity](channels/a16z/2026-09-04-why-world-models-could-change-robotics,-3d,-and-creativity-qn1QDDBnTA0.md)
 - 2026-09-03 · [Why AI Agents Could Finally Reinvent the Credit Card](channels/a16z/2026-09-03-why-ai-agents-could-finally-reinvent-the-credit-card-J3pegsM5drk.md)
 - 2026-09-02 · [Inside Moderna’s Biggest mRNA Test Since COVID](channels/a16z/2026-09-02-inside-moderna’s-biggest-mrna-test-since-covid-yTNMEYeCgWw.md)
-- 2026-09-01 · [Can AI Learn Mathematical Intuition?](channels/a16z/2026-09-01-can-ai-learn-mathematical-intuition-tQI35CSNB08.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 67 notes
 
@@ -57,11 +57,11 @@ Each episode can include up to three versions:
 - 2026-08-31 · [Marketing Engineer: The $1M Job with AI Agents](channels/greg-isenberg/2026-08-31-marketing-engineer-the-$1m-job-with-ai-agents-8ZC1G1ezN5o.md)
 - 2026-08-26 · [WebMCP: Let AI Agents pay you money](channels/greg-isenberg/2026-08-26-webmcp-let-ai-agents-pay-you-money-EoNH3Tn8wYE.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 63 notes
+### [Riley Brown](channels/riley-brown/README.md) · 64 notes
 
+- 2026-09-04 · [8 Agents That Make ChatGPT 10x MORE Powerful](channels/riley-brown/2026-09-04-8-agents-that-make-chatgpt-10x-more-powerful-ubzhh4kMCLo.md)
 - 2026-09-02 · [I Gave GrokBot Its Own Email and Credit Card (It Actually Worked)](channels/riley-brown/2026-09-02-i-gave-grokbot-its-own-email-and-credit-card-(it-actually-worked)-9lsnEn0tih4.md)
 - 2026-08-26 · [ChatGPT Can Build Apps You’ll Actually Use (ChatGPT Sites)](channels/riley-brown/2026-08-26-chatgpt-can-build-apps-you’ll-actually-use-(chatgpt-sites)-mHqSBCHEZOY.md)
-- 2026-08-26 · [11 Insane Things Cursor’s NEW GrokBot Can Do](channels/riley-brown/2026-08-26-11-insane-things-cursor’s-new-grokbot-can-do-XgkW4A6lrDY.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 46 notes
 
@@ -82,6 +82,13 @@ Each episode can include up to three versions:
 - 2026-08-12 · [150. 对英伟达研究副总裁刘洺堉的4小时访谈：功夫、Cosmos 3、开源世界模型、黄仁勋、你不需要击败所有对手](channels/张晓珺/2026-08-12-150.-对英伟达研究副总裁刘洺堉的4小时访谈-功夫、cosmos-3、开源世界模型、黄仁勋、你不需要击败所有对手-Cj_kb9nlAlE.md)
 
 ## Latest Updates
+
+### 2026-09-04
+
+- [Why World Models Could Change Robotics, 3D, and Creativity](channels/a16z/2026-09-04-why-world-models-could-change-robotics,-3d,-and-creativity-qn1QDDBnTA0.md) · a16z
+- [GPT 6 Astra, so good even OpenAI are worried](channels/ai-explained/2026-09-04-gpt-6-astra,-so-good-even-openai-are-worried-Spuza-KwTJ4.md) · AI Explained
+- [Faster Chips That Don't Melt — Anima Anandkumar & Benedikt Jenik, Accelerated Understanding](channels/latent-space/2026-09-04-faster-chips-that-don't-melt-—-anima-anandkumar-&-benedikt-jenik,-accelerated-understanding-KS_IpnX7n9I.md) · Latent Space
+- [8 Agents That Make ChatGPT 10x MORE Powerful](channels/riley-brown/2026-09-04-8-agents-that-make-chatgpt-10x-more-powerful-ubzhh4kMCLo.md) · Riley Brown
 
 ### 2026-09-03
 
@@ -117,13 +124,6 @@ Each episode can include up to three versions:
 ### 2026-08-27
 
 - [Sam Altman :‘AGI in 2026’, just as Models Start to [Mis]Train Themselves](channels/ai-explained/2026-08-27-sam-altman-‘agi-in-2026’,-just-as-models-start-to-mis-train-themselves-KL9_1GbmCic.md) · AI Explained
-- [How Outset Turned AI Interviews Into a New Category](channels/y-combinator/2026-08-27-how-outset-turned-ai-interviews-into-a-new-category-x3XOeDckUX0.md) · Y Combinator
-- [How Cursor Built One of AI’s Fastest-Growing Companies](channels/a16z/2026-08-27-how-cursor-built-one-of-ai’s-fastest-growing-companies-GHrnbvkVPZA.md) · a16z
-
-### 2026-08-26
-
-- [🔬 Why Transformers Hit a Wall the Moment Physics Shows Up — Anima Anandkumar, Caltech](channels/latent-space/2026-08-26-🔬-why-transformers-hit-a-wall-the-moment-physics-shows-up-—-anima-anandkumar,-caltech-79mIutht1f4.md) · Latent Space
-- [WebMCP: Let AI Agents pay you money](channels/greg-isenberg/2026-08-26-webmcp-let-ai-agents-pay-you-money-EoNH3Tn8wYE.md) · Greg Isenberg
 
 ## Data
 

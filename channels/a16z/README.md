@@ -1,9 +1,10 @@
 # a16z
 
-74 notes in this channel.
+75 notes in this channel.
 
-本频道共 74 篇。
+本频道共 75 篇。
 
+- 2026-09-04 · [Why World Models Could Change Robotics, 3D, and Creativity](2026-09-04-why-world-models-could-change-robotics,-3d,-and-creativity-qn1QDDBnTA0.md)
 - 2026-09-03 · [Why AI Agents Could Finally Reinvent the Credit Card](2026-09-03-why-ai-agents-could-finally-reinvent-the-credit-card-J3pegsM5drk.md)
 - 2026-09-02 · [Inside Moderna’s Biggest mRNA Test Since COVID](2026-09-02-inside-moderna’s-biggest-mrna-test-since-covid-yTNMEYeCgWw.md)
 - 2026-09-01 · [Can AI Learn Mathematical Intuition?](2026-09-01-can-ai-learn-mathematical-intuition-tQI35CSNB08.md)
